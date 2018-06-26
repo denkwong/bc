@@ -43,8 +43,8 @@ class BattleCats:
     def _format_cat_info(self, cat_class, index):
         """
         return a displayable string of class, relative position and cat names
-        :param cat_class: name of cat class
-        :param index: array position of the cat in the class
+        :param str cat_class: name of cat class
+        :param int index: array position of the cat in the class
         :return: string formatted for display with appropriate padding
         """
         cat_count = len(self.all_cats[cat_class])
@@ -52,7 +52,6 @@ class BattleCats:
         position = "({0}/{1})".format(index + 1, cat_count)
         percentage = "{0}%".format((index + 1) * 100 / cat_count)
         cats = "({0})".format(", ".join(self.all_cats[cat_class][index][1:]))
-        # return "{0} {1} {2} {3}".format(_class.ljust(16), position.rjust(5), percentage.rjust(7), cats)
         return "{0}, {1} {2} {3}".format(cats, _class, percentage, position)
 
     def cat_count(self):
