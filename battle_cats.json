@@ -43,6 +43,7 @@
     [["480"],"Imoto","Imoto CC"],
     [["225"],"Gendo & Fuyutsuki Cats","Moon Gendo & Fuyutsuki Cats"],
     [["450"],"Kaworu & Cat","Plug Suit Kaworu", "Moon Kaworu"],
+    [["150"],"Nekokkuma", "Killer Nekokkuma"],
     [["75","75","45"],"Li'l Cat","Li'l Nacho Cat","Li'l Mohawk Cat"],
     [["150"],"Li'l Tank Cat","Li'l Wall Cat","Li'l Eraser Cat"],
     [["300"],"Li'l Axe Cat","Li'l Brave Cat","Li'l Dark Cat"],
@@ -137,7 +138,8 @@
     [["630"],"Mari Cat","Special Ops Mari"],
     [["675"],"Pokota","Pokota CC"],
     [["540"],"Ovis","Ovis CC"],
-    [["555"],"Coco","Coco CC"]
+    [["555"],"Coco","Coco CC"],
+    [["150"],"Betakkuma","Black Betakkuma"]
   ],
   "Super Rare": [
     [["675"],"Hip Hop Cat","Dancing Flasher Cat","Can Can Cat"],
