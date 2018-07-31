@@ -55,6 +55,7 @@
     [["1950"],"Li'l Titan Cat","Li'l Mythical Titan","Li'l Jamiera Cat"],
     [["3000"],"Valkyrie Cat","True Valkyrie Cat","Holy Valkyrie Cat"],
     [["4500"],"Bahamut Cat","Crazed Bahamut Cat","Awakened Bahamut Cat"],
+    [["3333"],"Cat God the Awesome","Cat God the Great"],
     [["4950"],"Ururun Wolf","Ururun Cat","Awakened Ururun"],
     [["4350"],"Li'l Nyandam","Dark Emperor Catdam","Schoolbus Nyandam"],
     [["3900"],"Red Riding Mina","Crimson Mina","Awakened Mina"],
@@ -243,6 +244,7 @@
     [["4500"],"Togeluga","Togelan Pasalan","Shishilan Pasalan"],
     [["4200"],"Sakura Sonic","Afterschool Sakura"],
     [["900","6000"],"Baby Gao","Mighty Lord Gao"],
-    [["6000","6000"],"Shadow Gao","Diabolic Gao"]
+    [["6000","6000"],"Shadow Gao","Diabolic Gao"],
+    [["750", "5250"],"Miko Mitama","Mitama the Oracle"]
   ]
 }
