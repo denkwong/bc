@@ -1,20 +1,142 @@
 #!/usr/bin/env python
 
 # created by: Dennis Kwong
-# cost: 1.10 cat food
+# cost: 2.00 cat food
 
-from battle_cats import BattleCats
+from bc import Bc
 import argparse
+import json
+import logging
 
-parser = argparse.ArgumentParser(
-    description="Battle Cats, search for cats by name or cost")
-parser.add_argument("--cost", "-c", help="Search by cost")
-parser.add_argument("--name", "-n", help="Search by name")
-args = parser.parse_args()
+FORMS = ["Normal", "Evolved", "True"]
+LOG_FILE = "bc.log"
+SOURCE_FILE = "bc_source.json"
+TARGET_FILE = "bc.json"
+
+logging.basicConfig(filename=LOG_FILE, level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s")
+
+
+def generate_bc_json():
+    """
+    generate the target json file
+    :return: None
+    """
+    logging.info("Generating target {0}".format(TARGET_FILE))
+    logging.info("Reading source {0}".format(SOURCE_FILE))
+    with open(SOURCE_FILE) as fh:
+        bc_source = json.load(fh)
+
+    all_cats = {
+        "cats": list()
+    }
+
+    # create all_cats
+    for rarity, cats in bc_source["cats"].iteritems():
+        cat_count = len(cats)
+        for index, cat in enumerate(cats):
+            c = convert_cat(cat, rarity, index+1, cat_count)
+            all_cats["cats"].extend(c)
+
+    # write all cats to file.
+    with open(TARGET_FILE, "wb") as fh:
+        json.dump(all_cats, fh, indent=4, sort_keys=True)
+    logging.info("Finished generating target {0}".format(TARGET_FILE))
+
+
+def convert_cat(cat, rarity, cat_position, cat_count):
+    """
+    convert bc_source to list of cats
+    :param dict cat: one cat in simple form
+    :param str rarity: normal, special, rare, super, or uber
+    :param int cat_position: index of cat position in rarity list
+    :param int cat_count: total cats in rarity
+    :return: a list of cat objects
+    :rtype: list
+    """
+    output = list()
+    for index, form in enumerate(FORMS):
+        if cat["name"][index]:
+            c = {
+                "name": cat["name"][index],
+                "cost": cat["cost"][index],
+                "ability": [x.strip() for x in cat["ability"][index].split(",")],
+                "effect": [x.strip() for x in cat["effect"][index].split(",")],
+                "target": [x.strip() for x in cat["target"][index].split(",")],
+                "description": cat["description"][index],
+                "alias": [x for x in cat["name"] if x],
+                "form": form,
+                "rarity": rarity.title(),
+                "rarity_index": cat_position,
+                "rarity_pct": 1.0 * cat_position / cat_count,
+                "rarity_total": cat_count
+            }
+            output.append(c)
+    return output
+
+
+def display_cat(cat, **kwargs):
+    """
+    display basic cat info and requested search criteria
+    :param Bc.Cat cat: cat object
+    :return: None
+    """
+    name = cat.get_name()
+    aliases = cat.get_alias()
+    aliases.remove(name)
+    aliases = ", ".join(aliases)
+    display_str = "{0} ({1}), {2}, {3}% ({4}/{5})".format(
+        name,
+        aliases,
+        cat.get_rarity(),
+        int(cat.get_rarity_pct()*100),
+        cat.get_rarity_index(),
+        cat.get_rarity_total())
+    if "cost" in kwargs and kwargs["cost"]:
+        display_str = "{0}, {1}".format(display_str, cat.get_cost())
+    if "ability" in kwargs and kwargs["ability"]:
+        display_str = "{0}, [{1}]".format(display_str, ", ".join(cat.get_ability(kwargs["ability"])))
+    if "target" in kwargs and kwargs["target"]:
+        display_str = "{0}, [{1}]".format(display_str, ", ".join(cat.get_target(kwargs["target"])))
+    if "effect" in kwargs and kwargs["effect"]:
+        display_str = "{0}, [{1}]".format(display_str, ", ".join(cat.get_effect(kwargs["effect"])))
+    print(display_str)
+
 
 if __name__ == "__main__":
-    bc = BattleCats()
+    logging.info("==========")
+    parser = argparse.ArgumentParser(description="Battle Cats, search for cats by name or cost")
+    parser.add_argument("--ability", "-a", help="Search by ability")
+    parser.add_argument("--cost", "-c", help="Search by cost")
+    parser.add_argument("--effect", "-e", help="Search by effect")
+    parser.add_argument("--name", "-n", help="Search by name")
+    parser.add_argument("--rarity", "-r", help="Search by rarity")
+    parser.add_argument("--target", "-t", help="Search by target")
+    args = parser.parse_args()
+    logging.info("parser args = {0}".format(vars(args)))
+    generate_bc_json()
+
+    cats = None
+    bc = Bc()
+
     if args.name:
-        bc.find_cat(args.name)
+        cats = bc.find_cat(args.name)
+        logging.debug("Cat count after name = {0}".format(len(cats)))
+    if args.rarity:
+        cats = bc.find_rarity(args.rarity, cats)
+        logging.debug("Cat count after rarity = {0}".format(len(cats)))
     if args.cost:
-        bc.find_cat_cost(args.cost)
+        cats = bc.find_cost(args.cost, cats)
+        logging.debug("Cat count after cost = {0}".format(len(cats)))
+    if args.target:
+        cats = bc.find_target(args.target, cats)
+        logging.debug("Cat count after target = {0}".format(len(cats)))
+    if args.ability:
+        cats = bc.find_ability(args.ability, cats)
+        logging.debug("Cat count after ability = {0}".format(len(cats)))
+    if args.effect:
+        cats = bc.find_effect(args.effect, cats)
+        logging.debug("Cat count after effect = {0}".format(len(cats)))
+
+    logging.info("Total Cats found = {0}".format(len(cats)))
+    for cat in cats:
+        display_cat(cat, **vars(args))
