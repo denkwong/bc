@@ -105,6 +105,23 @@ class Bc:
         else:
             print("Operator {0} is not supported.".format(operator))
 
+    def find_description(self, description, cats=None):
+        """
+        find cat with description
+        :param str description: description to search for, can be regex
+        :param list cats: optional list of Cats to search
+        :return: list of Cats
+        :rtype: list
+        """
+        result = list()
+        if cats is None:
+            cats = self.cats
+        for cat in cats:
+            matches = cat.get_description(description)
+            if matches:
+                result.append(cat)
+        return result
+
     def find_effect(self, effect, cats=None):
         """
         find cat with effect

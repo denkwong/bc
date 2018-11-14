@@ -56,8 +56,21 @@ class Cat:
     def get_cost(self):
         return self.cost
 
-    def get_description(self):
-        return self.description
+    def get_description(self, search=None):
+        """
+        returns description or one that matches search regex
+        :param str search: optional regex search string
+        :return: description
+        :rtype: str
+        """
+        result = None
+        if search:
+            matches = re.search(search, self.description, re.IGNORECASE)
+            if matches:
+                result = self.description
+        else:
+            result = self.description
+        return result
 
     def get_effect(self, search=None):
         """
