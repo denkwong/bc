@@ -94,11 +94,13 @@ def display_cat(cat, **kwargs):
     if "cost" in kwargs and kwargs["cost"]:
         display_str = "{0}, {1}".format(display_str, cat.get_cost())
     if "ability" in kwargs and kwargs["ability"]:
-        display_str = "{0}, [{1}]".format(display_str, ", ".join(cat.get_ability(kwargs["ability"])))
+        display_str = "{0}, a[{1}]".format(display_str, ", ".join(cat.get_ability(kwargs["ability"])))
     if "target" in kwargs and kwargs["target"]:
-        display_str = "{0}, [{1}]".format(display_str, ", ".join(cat.get_target(kwargs["target"])))
+        display_str = "{0}, t[{1}]".format(display_str, ", ".join(cat.get_target(kwargs["target"])))
     if "effect" in kwargs and kwargs["effect"]:
-        display_str = "{0}, [{1}]".format(display_str, ", ".join(cat.get_effect(kwargs["effect"])))
+        display_str = "{0}, e[{1}]".format(display_str, ", ".join(cat.get_effect(kwargs["effect"])))
+    if "ability_effect" in kwargs and kwargs["ability_effect"]:
+        display_str = "{0}, b[{1}]".format(display_str, ", ".join(cat.get_ability_effect(kwargs["ability_effect"])))
     print(display_str)
 
 
@@ -106,6 +108,7 @@ if __name__ == "__main__":
     logging.info("==========")
     parser = argparse.ArgumentParser(description="Battle Cats, search for cats by name or cost")
     parser.add_argument("--ability", "-a", help="Search by ability")
+    parser.add_argument("--ability-effect", "-b", help="Search both ability and effect")
     parser.add_argument("--cost", "-c", help="Search by cost")
     parser.add_argument("--effect", "-e", help="Search by effect")
     parser.add_argument("--name", "-n", help="Search by name")
@@ -136,6 +139,9 @@ if __name__ == "__main__":
     if args.effect:
         cats = bc.find_effect(args.effect, cats)
         logging.debug("Cat count after effect = {0}".format(len(cats)))
+    if args.ability_effect:
+        cats = bc.find_ability_effect(args.ability_effect, cats)
+        logging.debug("Cat count after ability_effect = {0}".format(len(cats)))
 
     logging.info("Total Cats found = {0}".format(len(cats)))
     for cat in cats:

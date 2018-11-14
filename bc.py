@@ -34,6 +34,21 @@ class Bc:
                 result.append(cat)
         return result
 
+    def find_ability_effect(self, ability_effect, cats=None):
+        """
+        find cat with ability or effect
+        :param str ability_effect: name of ability or effect, can be regex
+        :param list cats: optional list of Cats to search
+        :return: list of Cats
+        :rtype: list
+        """
+        result = set()
+        for cat in self.find_ability(ability_effect, cats):
+            result.add(cat)
+        for cat in self.find_effect(ability_effect, cats):
+            result.add(cat)
+        return list(result)
+
     def find_cat(self, name, cats=None):
         """
         find cat with name

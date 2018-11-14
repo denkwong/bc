@@ -37,6 +37,19 @@ class Cat:
             result = self.ability
         return result
 
+    def get_ability_effect(self, search=None):
+        """
+        return list of abilities|effects or abilities|effects that match search regex
+        :param str search: optional regex search string
+        :return: list of abilities or effects
+        :rtype: list
+        """
+        if search:
+            result = self.get_ability(search) + self.get_effect(search)
+        else:
+            result = self.ability + self.effect
+        return result
+
     def get_alias(self):
         return self.alias
 
