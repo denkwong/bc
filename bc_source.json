@@ -5737,6 +5737,38 @@
             },
             {
                 "name": [
+                    "Belial",
+                    "Reckless Belial",
+                    ""
+                ],
+                "cost": [
+                    1800,
+                    1800,
+                    null
+                ],
+                "ability": [
+                    "Strengthen, Area Attack",
+                    "Strengthen, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "An AI who ruthlessly hunts down all threats to the peace of ALICE, dropping in from Crash Fever. Grows much stronger as he takes damage. (Area)",
+                    "A fierce, fanatical guardian of ALICE's order. A special guest from Crash Fever. Grows much stronger as he takes damage. (Area Atk)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Aoi Hayakawa",
                     "Aoi Hayakawa CC",
                     "Baseball Mask a"

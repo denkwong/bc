@@ -33,6 +33,7 @@ def generate_bc_json():
     # create all_cats
     for rarity, cats in bc_source["cats"].iteritems():
         cat_count = len(cats)
+        logging.info("{0}: {1} cats".format(rarity, cat_count))
         for index, cat in enumerate(cats):
             c = convert_cat(cat, rarity, index+1, cat_count)
             all_cats["cats"].extend(c)
