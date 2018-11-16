@@ -139,6 +139,23 @@ class Bc:
                 result.append(cat)
         return result
 
+    def find_form(self, form, cats=None):
+        """
+        find cat with form
+        :param str form: name of form, can be regex
+        :param list cats: optional list of Cats to search
+        :return: list of Cats
+        :rtype: list
+        """
+        result = list()
+        if cats is None:
+            cats = self.cats
+        for cat in cats:
+            matches = cat.get_form(form)
+            if matches:
+                result.append(cat)
+        return result
+
     def find_rarity(self, rarity, cats=None):
         """
         return a list of cats that match specified rarity

@@ -89,8 +89,21 @@ class Cat:
             result = self.effect
         return result
 
-    def get_form(self):
-        return self.form
+    def get_form(self, search=None):
+        """
+        return form or form that match search regex
+        :param str search: optional regex search string
+        :return: form (Normal, Evolved, True)
+        :rtype: str
+        """
+        result = None
+        if search:
+            matches = re.search(search, self.form, re.IGNORECASE)
+            if matches:
+                result = self.form
+        else:
+            result = self.form
+        return result
 
     def get_name(self):
         return self.name
