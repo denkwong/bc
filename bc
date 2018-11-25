@@ -156,6 +156,11 @@ if __name__ == "__main__":
         cats = bc.find_form(args.form, cats)
         logging.debug("Cat count after form = {0}".format(len(cats)))
 
-    logging.info("Total Cats found = {0}".format(len(cats)))
+    if cats is None:
+        cats = []
+
+    message = "{0} cats found".format(len(cats))
+    logging.info(message)
+    print(message)
     for cat in cats:
         display_cat(cat, **vars(args))
