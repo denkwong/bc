@@ -123,16 +123,19 @@ class Cat:
     def get_target(self, search=None):
         """
         return list of targets or targets that match search regex
-        :param str search: optional regex search string
+        :param str search: optional regex search string or traitless
         :return: list of targets
         :rtype: list
         """
         if search:
             result = list()
             for target in self.target:
-                matches = re.search(search, target, re.IGNORECASE)
-                if matches:
+                if target == "" and search.lower() == "traitless" and self.get_effect()[0] != "":
                     result.append(target)
+                else:
+                    matches = re.search(search, target, re.IGNORECASE)
+                    if matches:
+                        result.append(target)
         else:
             result = self.target
         return result
