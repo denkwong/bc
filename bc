@@ -71,6 +71,8 @@ def convert_cat(cat, rarity, cat_position, cat_count):
                 "rarity_pct": 1.0 * cat_position / cat_count,
                 "rarity_total": cat_count
             }
+            if c["effect"][0] != "" and c["target"][0] == "":
+                c["target"] = ["traitless"]
             output.append(c)
     return output
 
