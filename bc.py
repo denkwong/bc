@@ -8,11 +8,12 @@ from cat import Cat
 
 
 class Bc:
-    def __init__(self):
+    def __init__(self, input_file):
         """
-        open bc.json and load into self.cats.
+        open input_file and load into self.cats.
+        :param str input_file: input file to process
         """
-        with open("bc.json", "r") as fh:
+        with open(input_file, "r") as fh:
             self.json_cats = json.load(fh)
             self.cats = list()
             self.load_cats()

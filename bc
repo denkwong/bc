@@ -128,7 +128,7 @@ if __name__ == "__main__":
     generate_bc_json()
 
     cats = None
-    bc = Bc()
+    bc = Bc(TARGET_FILE)
 
     if args.name:
         cats = bc.find_cat(args.name)
