@@ -4,9 +4,11 @@
 # cost: 2.00 cat food
 
 from bc import Bc
+from bc import InputError
 import argparse
 import json
 import logging
+import os
 
 FORMS = ["Normal", "Evolved", "True"]
 LOG_FILE = "bc.log"
@@ -112,8 +114,7 @@ def display_cat(cat, **kwargs):
 
 
 if __name__ == "__main__":
-    logging.info("==========")
-    parser = argparse.ArgumentParser(description="Battle Cats, search for cats by name or cost")
+    parser = argparse.ArgumentParser(description="Battle Cats, search for cats by attributes.")
     parser.add_argument("--ability", "-a", help="Search by ability")
     parser.add_argument("--ability-effect", "-b", help="Search both ability and effect")
     parser.add_argument("--cost", "-c", help="Search by cost")
@@ -124,39 +125,43 @@ if __name__ == "__main__":
     parser.add_argument("--rarity", "-r", help="Search by rarity")
     parser.add_argument("--target", "-t", help="Search by target")
     args = parser.parse_args()
+    logging.info("==========")
     logging.info("parser args = {0}".format(vars(args)))
     generate_bc_json()
 
     cats = None
     bc = Bc(TARGET_FILE)
 
-    if args.name:
-        cats = bc.find_cat(args.name)
-        logging.debug("Cat count after name = {0}".format(len(cats)))
-    if args.rarity:
-        cats = bc.find_rarity(args.rarity, cats)
-        logging.debug("Cat count after rarity = {0}".format(len(cats)))
-    if args.cost:
-        cats = bc.find_cost(args.cost, cats)
-        logging.debug("Cat count after cost = {0}".format(len(cats)))
-    if args.target:
-        cats = bc.find_target(args.target, cats)
-        logging.debug("Cat count after target = {0}".format(len(cats)))
-    if args.ability:
-        cats = bc.find_ability(args.ability, cats)
-        logging.debug("Cat count after ability = {0}".format(len(cats)))
-    if args.effect:
-        cats = bc.find_effect(args.effect, cats)
-        logging.debug("Cat count after effect = {0}".format(len(cats)))
-    if args.ability_effect:
-        cats = bc.find_ability_effect(args.ability_effect, cats)
-        logging.debug("Cat count after ability_effect = {0}".format(len(cats)))
-    if args.description:
-        cats = bc.find_description(args.description, cats)
-        logging.debug("Cat count after description = {0}".format(len(cats)))
-    if args.form:
-        cats = bc.find_form(args.form, cats)
-        logging.debug("Cat count after form = {0}".format(len(cats)))
+    try:
+        if args.name:
+            cats = bc.find_cat(args.name)
+            logging.debug("Cat count after name = {0}".format(len(cats)))
+        if args.rarity:
+            cats = bc.find_rarity(args.rarity, cats)
+            logging.debug("Cat count after rarity = {0}".format(len(cats)))
+        if args.cost:
+            cats = bc.find_cost(args.cost, cats)
+            logging.debug("Cat count after cost = {0}".format(len(cats)))
+        if args.target:
+            cats = bc.find_target(args.target, cats)
+            logging.debug("Cat count after target = {0}".format(len(cats)))
+        if args.ability:
+            cats = bc.find_ability(args.ability, cats)
+            logging.debug("Cat count after ability = {0}".format(len(cats)))
+        if args.effect:
+            cats = bc.find_effect(args.effect, cats)
+            logging.debug("Cat count after effect = {0}".format(len(cats)))
+        if args.ability_effect:
+            cats = bc.find_ability_effect(args.ability_effect, cats)
+            logging.debug("Cat count after ability_effect = {0}".format(len(cats)))
+        if args.description:
+            cats = bc.find_description(args.description, cats)
+            logging.debug("Cat count after description = {0}".format(len(cats)))
+        if args.form:
+            cats = bc.find_form(args.form, cats)
+            logging.debug("Cat count after form = {0}".format(len(cats)))
+    except InputError:
+        exit(1)
 
     if cats is None:
         cats = []

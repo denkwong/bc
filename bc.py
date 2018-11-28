@@ -7,6 +7,12 @@ import re
 from cat import Cat
 
 
+class InputError(Exception):
+    def __init__(self, message):
+        logging.error(message)
+        print(message)
+
+
 class Bc:
     def __init__(self, input_file):
         """
@@ -77,12 +83,23 @@ class Bc:
         :rtype: list
         """
         operator = "=="
+        cost = cost.strip()
         if cats is None:
             cats = self.cats
 
-        if len(str(cost).split(" ")) > 1:
-            operator = cost.split(" ")[0]
-            cost = cost.split(" ")[1]
+        matches = re.match("(=|==|<|<=|>=|>) *(\d+)$", cost)
+        if matches:
+            operator = matches.group(1)
+            cost = matches.group(2)
+
+            if operator == "=":
+                operator = "=="
+        else:
+            matches = re.match("^\d+$", cost)
+            if matches:
+                cost = matches.group(0)
+            else:
+                raise InputError("Invalid cost: {0}".format(cost))
 
         result = self._find_cost(int(cost), operator, cats)
         return result
@@ -182,7 +199,6 @@ class Bc:
         :return: list of Cats that match target
         :rtype: list
         """
-        logging.info("find_target(target={0}, cats={1})".format(target, cats))
         result = list()
         if cats is None:
             cats = self.cats
@@ -190,7 +206,6 @@ class Bc:
             matches = cat.get_target(target)
             if matches:
                 result.append(cat)
-        logging.debug("find_target len(result)={0} result={1}".format(len(result), result))
         return result
 
     def load_cats(self):
