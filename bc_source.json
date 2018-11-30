@@ -2665,32 +2665,32 @@
                 "name": [
                     "Rover Cat",
                     "Rover Cat Mk II",
-                    ""
+                    "Catellite"
                 ],
                 "cost": [
                     300,
                     300,
-                    null
+                    270
                 ],
                 "ability": [
                     "Warp Blocker, Single Attack",
                     "Warp Blocker, Single Attack",
-                    ""
+                    "Resist Weaken, Resist Slow, Warp Blocker, Single Attack"
                 ],
                 "target": [
                     "Alien",
                     "Alien",
-                    ""
+                    "Alien"
                 ],
                 "effect": [
                     "Strong Against",
                     "Strong Against",
-                    ""
+                    "Strong Against"
                 ],
                 "description": [
                     "The first Cat probe produced by NYASA. Built to resist extraterrestrial attacks, with Warp Blocking and tough defense vs Aliens.",
                     "Cutting edge NYASA Cat probe. Transmission power is so advanced that it even gets the dirty channels. Tough vs Aliens, with Warp Blocking.",
-                    ""
+                    "Experimental NYASA satellite made for remote observation of areas as far as the corner store. Tough vs Aliens, with Warp Blocking."
                 ]
             },
             {
@@ -7085,32 +7085,32 @@
                 "name": [
                     "Hayabusa",
                     "Oni Hayabusa",
-                    ""
+                    "Akuma Hayabusa"
                 ],
                 "cost": [
                     4275,
                     4275,
-                    null
+                    4275
                 ],
                 "ability": [
                     "Critical, Resist Slow, Area Attack, Long Distance",
                     "Resist Slow, Area Attack, Long Distance",
-                    ""
+                    "Zombie Killer, Resist Slow, Area Attack, Long Distance"
                 ],
                 "target": [
                     "",
                     "Alien",
-                    ""
+                    "Zombies"
                 ],
                 "effect": [
                     "",
                     "Slow, Knockback",
-                    ""
+                    "Slow, Knockback"
                 ],
                 "description": [
                     "Seals away evil with his clan's mystic blade. The way of the Ninja knows no mercy. Long Distance, Area Attacks, Critical Attacks.",
                     "The otherworldly power in his chest now threatens to consume him. To destroy evil, will he lose his soul? Long Distance, Area Attacks, Knockback, Slow.",
-                    ""
+                    "Cybernetically enhanced his demon's power with an experimental Inferno Engine replacing his heart. Long Area Attacks, Knockback & Slow vs Zombies."
                 ]
             },
             {
