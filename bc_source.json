@@ -6443,6 +6443,38 @@
             },
             {
                 "name": [
+                    "Kalisa",
+                    "Kalisa, type X",
+                    "Divine Kalisa"
+                ],
+                "cost": [
+                    null,
+                    null,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    "Area Attack"
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    "Angel"
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    "Massive Damage"
+                ],
+                "description": [
+                    "Almost obliterated her school on the first day of class with her sword's dark magic. Massive damage against Angels. (Area Attack)",
+                    "Banished her principal to the netherworld at the graduation ceremony. Things never change. Massive damage against Angels. (Area Attack)",
+                    "All of the nice boys who confess their love to her soon find themselves \"graduated\" to the next world. Massive damage against Angels. (Area Attack)"
+                ]
+            },
+            {
+                "name": [
                     "Tropical Kalisa",
                     "Tropical Kalisa X",
                     ""
