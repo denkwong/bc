@@ -6059,6 +6059,38 @@
             },
             {
                 "name": [
+                    "Yuletide Nurse",
+                    "Yule Knight Nurse",
+                    ""
+                ],
+                "cost": [
+                    4350,
+                    4350,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel, Alien",
+                    "Angel, Alien",
+                    ""
+                ],
+                "effect": [
+                    "Slow, Knockback",
+                    "Slow, Knockback",
+                    ""
+                ],
+                "description": [
+                    "Everyone's favorite Nurse is feeling the Xmas spirit! Praying for health with a lucky holiday candle. Slow/knockback Angels/Aliens.",
+                    "The warrior-nurse of Xmas mercy! Her sword shines brighter than any candle. Might slow & knockback Angels and Aliens.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Sanada Yukimura",
                     "Wargod Yukimura",
                     "Immortal Yukimura"
@@ -6379,6 +6411,38 @@
             },
             {
                 "name": [
+                    "Santa Kuu",
+                    "Santa Kuu, Type y",
+                    ""
+                ],
+                "cost": [
+                    4200,
+                    4200,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel, Alien",
+                    "Angel, Alien",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "A passionate gal dressed up for Xmas! Big damage from her long range Tree attack! Strong vs Aliens/Angels. (Area Atk)",
+                    "Dressing up for Xmas brings out her sweet side! Mistletoe still makes her nervous. Strong vs Aliens/Angels. (Area Atk)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Kai",
                     "Kai, type u",
                     "Divine Kai"
@@ -6439,6 +6503,38 @@
                     "Magical beauty powered by her staff Releases beams of light (Area Attack) Might freeze floating enemies.",
                     "Doesn't smil that often. (Area Attack) In front of cats, however.. different story. Might stop floating enemies.",
                     "What can you do for her that her favorite Cat doesn't already? Come back in 100 years, kid. Might stop Floating (Area Attack)"
+                ]
+            },
+            {
+                "name": [
+                    "Holy Coppermine",
+                    "Holy Coppermine, Type k",
+                    ""
+                ],
+                "cost": [
+                    3720,
+                    3720,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel, Alien",
+                    "Angel, Alien",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "A sacred guardian, dressed up for Xmas! Her holy blessings obliterate evil! Might freeze Aliens/Angels. (Area Atk.)",
+                    "A girl who never smiles, but Xmas spirit always brings a gentle smirk to her face. Might freeze Aliens/Angels. (Area Atk.)",
+                    ""
                 ]
             },
             {
