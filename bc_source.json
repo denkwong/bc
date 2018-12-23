@@ -5163,32 +5163,32 @@
                 "name": [
                     "Vaulter Cat",
                     "Polevaulter Cat",
-                    ""
+                    "Housewife Cat"
                 ],
                 "cost": [
                     1050,
                     1050,
-                    null
+                    1050
                 ],
                 "ability": [
                     "Zombie Killer, Area Attack, Long Distance",
                     "Zombie Killer, Area Attack, Long Distance",
-                    ""
+                    "Zombie Killer, Area Attack, Long Distance"
                 ],
                 "target": [
                     "Zombie",
                     "Zombie",
-                    ""
+                    "Zombie"
                 ],
                 "effect": [
                     "Slow",
                     "Slow",
-                    ""
+                    "Slow"
                 ],
                 "description": [
                     "Soaring through the blue sky using only a single pole, he is the height of athleticism. Area atks might slow Zombies.",
                     "Certifieed by Guinness as the record-holder for cat's polevaulting. Will marry her coach next year. Area attacks might slow Zombies.",
-                    ""
+                    "Retired with four still-unbeaten world records. Her skills are surprisingly applicable to daily life! Long-range Area attacks might slow Zombies."
                 ]
             },
             {
@@ -6605,32 +6605,32 @@
                 "name": [
                     "Twinstars",
                     "Twinstars, type o",
-                    ""
+                    "Ultima Twinstars, type o"
                 ],
                 "cost": [
                     3900,
                     3900,
-                    null
+                    3900
                 ],
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    ""
+                    "Resist Weaken, Area Attack"
                 ],
                 "target": [
                     "Black, Alien",
                     "Black, Alien",
-                    ""
+                    "Black, Alien"
                 ],
                 "effect": [
                     "Massive Damage",
                     "Massive Damage",
-                    ""
+                    "Massive Damage"
                 ],
                 "description": [
                     "The two purehearted sisters, Cici and Koma. Divine breath controls their mighty mecha claws. Massive area damage to Aliens/Black.",
                     "The mechanical catpaws \"AH\" and \"UN\" sweetly sweep away any threat to these cutie-pie demigods. Massive area damage to Aliens/Black.",
-                    ""
+                    "Undisputed masters of the coordinated assault. They skipped detention today to join the battle! Massive area damage to Aliens/Black."
                 ]
             },
             {
