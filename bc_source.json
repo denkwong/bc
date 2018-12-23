@@ -6475,6 +6475,37 @@
             },
             {
                 "name": [
+                    "Frosty Kai",
+                    "Frosty Kai, type u",
+                    ""
+                ],
+                "cost": [
+                    3990,
+                    3990,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel, Aliens",
+                    "Angel, Aliens",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "A clumsy gal, dressed up just for Xmas! Fires a powerful, short-range ice beam. Resistant to Aliens/Angels. (Area Atk.)",
+                    "Crushes on any skier who is nice to her. Falling in love, or just slipping on ice? Resistant to Aliens/Angels. (Area Atk.)",
+                    ""
+                ]
+            },            {
+                "name": [
                     "Coppermine",
                     "Coppermine, type k",
                     "Divine Coppermine"
