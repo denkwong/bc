@@ -4777,6 +4777,38 @@
             },
             {
                 "name": [
+                    "Miter Saw Cat",
+                    "Power Saw Cat",
+                    ""
+                ],
+                "cost": [
+                    1200,
+                    1200,
+                    null
+                ],
+                "ability": [
+                    "Warp Blocker, Single Attack",
+                    "Warp Blocker, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Resistant, Massive Damage",
+                    "Resistant, Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "The sawmaster-in-residence of Grandon. Hates it when things aren't cut in half. Massive Damage and Tough vs. Aliens!",
+                    "It's so boring when there's nothing to cut... The box has groceries for mommy in it. Massive Damage and Tough vs. Aliens!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Nerd Cat",
                     "Hacker Cat",
                     "Cyberpunk Cat"
