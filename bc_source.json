@@ -3497,32 +3497,32 @@
                 "name": [
                     "Hoop Cat",
                     "Showoff Cat",
-                    ""
+                    "Hoopmaster Cat"
                 ],
                 "cost": [
                     660,
                     660,
-                    null
+                    660
                 ],
                 "ability": [
                     "Single Attack",
                     "Single Attack",
-                    ""
+                    "Single Attack"
                 ],
                 "target": [
                     "Metal",
                     "Metal",
-                    ""
+                    "Metal"
                 ],
                 "effect": [
                     "Freeze",
                     "Freeze",
-                    ""
+                    "Freeze"
                 ],
                 "description": [
                     "Started getting a bit pudgy, so he took up hula hooping as exercise. Might freeze Metal enemies.",
                     "Started out hoping to preserve his figure, but his figure changed in an unexpected way. Might freeze Metal enemies.",
-                    ""
+                    "He's out of control and just can't get enough of those lovely hoops! Will the spinning ever stop? Has a chance to freeze Metal enemies."
                 ]
             },
             {
