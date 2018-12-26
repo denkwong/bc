@@ -4617,6 +4617,38 @@
             },
             {
                 "name": [
+                    "Years-End Neneko",
+                    "New Year Neneko",
+                    ""
+                ],
+                "cost": [
+                    148,
+                    148,
+                    null
+                ],
+                "ability": [
+                    "Critical, Area Attack",
+                    "Critical, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Taking out the trash and aiming for a fresh start! Thanks for everythin, 2016 - NOT! Area attacks might cause Critical strikes.",
+                    "Resolving to improve her self-confidence, she has a New Years greeting for everyone! Area attacks might cause Critical strikes.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Easter Neneko",
                     "Hoppity Neneko",
                     ""
