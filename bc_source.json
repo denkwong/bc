@@ -3687,6 +3687,38 @@
             },
             {
                 "name": [
+                    "Primordial Cat",
+                    "Modern Cat",
+                    ""
+                ],
+                "cost": [
+                    105,
+                    105,
+                    null
+                ],
+                "ability": [
+                    "Resist Curse, Single Attack",
+                    "Resist Curse, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Metal, Relic",
+                    "Metal, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "A primitive felinoid from an ancient time, with a charming finned tail and useful gills. Tough versus Metal and Relic enemies.",
+                    "This strange Cat(?) was found napping on the windowsill. What unusual proportions she has! Tough versus Metal and Relic enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "HYAKUTARO",
                     "HYAKUTARO CC",
                     ""
