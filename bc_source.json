@@ -6954,6 +6954,38 @@
             },
             {
                 "name": [
+                    "Ganglion",
+                    "Ganglion the Ancient",
+                    ""
+                ],
+                "cost": [
+                    5400,
+                    5400,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack, Long Distance",
+                    "Zombie Killer, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Alien, Zombie",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "First emperor and founder of the Dragon dynasty. Who knows what overwhelming power he holds? Long-range attacks, strong vs Aliens and Zombies.",
+                    "Has cultivated his strength for millennia, only growing ever more powerful in his old age. Long-range attacks, strong vs Aliens and Zombies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Momotaro",
                     "The Peach Angels",
                     "The Peach Devils"
@@ -7355,7 +7387,7 @@
                 "target": [
                     "",
                     "Alien",
-                    "Zombies"
+                    "Zombie"
                 ],
                 "effect": [
                     "",
