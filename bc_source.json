@@ -4841,6 +4841,38 @@
             },
             {
                 "name": [
+                    "Cutter Cat",
+                    "Power Cutter Cat",
+                    ""
+                ],
+                "cost": [
+                    750,
+                    750,
+                    null
+                ],
+                "ability": [
+                    "Strengthen, Survive, Resist Weaken, Area Attack",
+                    "Strengthen, Survive, Resist Weaken, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Does double duty cutting and cooking for the Grandon Cats. Huge Area damage vs Red, Survives, gets stronger after taking damage.",
+                    "Gained a cutting-edge stove-top for more efficient meal prep. Huge Area damage vs Red, Survives, gets stronger after taking damage.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Miter Saw Cat",
                     "Power Saw Cat",
                     ""
