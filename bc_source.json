@@ -8298,6 +8298,38 @@
             },
             {
                 "name": [
+                    "Pai-Pai",
+                    "Pai-Pai Z",
+                    ""
+                ],
+                "cost": [
+                    4500,
+                    4500,
+                    null
+                ],
+                "ability": [
+                    "Resist Weaken, Area Attack",
+                    "Resist Weaken, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Resistant, Massive Damage",
+                    "Resistant, Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Poster girl for a famous dim sum restaurant. Always carries her heirloom Scarlet Hammer. Resists Red attacks, massive area damage.",
+                    "Mystic seals were broken, unleashing the sexy power of the Red Panda Hammer. Resists Red attacks, massive area damage.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Sakura Sonic",
                     "Afterschool Sakura",
                     ""
