@@ -7338,6 +7338,38 @@
             },
             {
                 "name": [
+                    "Midsummer Rabbit",
+                    "Midsummer Cat",
+                    ""
+                ],
+                "cost": [
+                    4950,
+                    4950,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Black, Angel",
+                    "Black, Angel",
+                    ""
+                ],
+                "effect": [
+                    "Slow",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "Wearing her undercover(?) Rabbit uniform, used for tracking villains on sunny Mediterranean beaches. 100% Slow against Angels/Black (Area Attack)",
+                    "After identifying the target, she slips into another summer outfit made for stealth. Time to move in for the kill! Strong against Angels/Black (Area Atk)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Warlock and Pierre",
                     "Dark Merchant Babil",
                     "Mad Doctor Klay"
