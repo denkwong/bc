@@ -6347,6 +6347,38 @@
             },
             {
                 "name": [
+                    "Takeda Shingen",
+                    "Wargod Shingen",
+                    "Immortal Shingen"
+                ],
+                "cost": [
+                    5985,
+                    5985,
+                    5985
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    "Area Attack"
+                ],
+                "target": [
+                    "Black, Alien",
+                    "Black, Alien",
+                    "Black, Alien"
+                ],
+                "effect": [
+                    "Attacks Only",
+                    "Attacks Only",
+                    "Attacks Only"
+                ],
+                "description": [
+                    "A master tactician of overwhelming power who is cursed by the Legendary Cat Sword. Area attacks only damage Black/Aliens.",
+                    "Cat Sword's Tactics Mode - activate! Even greater destructive power! Area attacks only damage Black/Aliens.",
+                    "The Cat Sword's path of destruction is unstoppable. There is no mercy to be given. Area attacks only damage Black/Aliens."
+                ]
+            },
+            {
+                "name": [
                     "Uesugi Kenshin",
                     "Wargod Kenshin",
                     "Immortal Kenshin"
