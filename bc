@@ -8,6 +8,7 @@ from bc import InputError
 import argparse
 import json
 import logging
+from logging.handlers import RotatingFileHandler
 import os
 
 FORMS = ["Normal", "Evolved", "True"]
@@ -15,7 +16,12 @@ LOG_FILE = "bc.log"
 SOURCE_FILE = "bc_source.json"
 TARGET_FILE = "bc.json"
 
-logging.basicConfig(filename=LOG_FILE, level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s")
+logger = logging.getLogger("bc")
+logger.setLevel(logging.DEBUG)
+formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+handler = RotatingFileHandler(LOG_FILE, maxBytes=50000, backupCount=5)
+handler.setFormatter(formatter)
+logger.addHandler(handler)
 
 
 def generate_bc_json():
@@ -23,9 +29,9 @@ def generate_bc_json():
     generate the target json file
     :return: None
     """
-    logging.info("Generating target {0}".format(TARGET_FILE))
+    logger.info("Generating target {0}".format(TARGET_FILE))
     if os.path.getmtime(SOURCE_FILE) > os.path.getmtime(TARGET_FILE):
-        logging.info("Reading source {0}".format(SOURCE_FILE))
+        logger.info("Reading source {0}".format(SOURCE_FILE))
         with open(SOURCE_FILE) as fh:
             bc_source = json.load(fh)
 
@@ -36,7 +42,7 @@ def generate_bc_json():
         # create all_cats
         for rarity, cats in bc_source["cats"].items():
             cat_count = len(cats)
-            logging.info("{0}: {1} cats".format(rarity, cat_count))
+            logger.info("{0}: {1} cats".format(rarity, cat_count))
             for index, cat in enumerate(cats):
                 c = convert_cat(cat, rarity, index+1, cat_count)
                 all_cats["cats"].extend(c)
@@ -44,9 +50,9 @@ def generate_bc_json():
         # write all cats to file.
         with open(TARGET_FILE, "w") as fh:
             json.dump(all_cats, fh, indent=4, sort_keys=True)
-        logging.info("Finished generating target {0}".format(TARGET_FILE))
+        logger.info("Finished generating target {0}".format(TARGET_FILE))
     else:
-        logging.info("Generation not needed, target {0} newer than source {1}.".format(TARGET_FILE, SOURCE_FILE))
+        logger.info("Generation not needed, target {0} newer than source {1}.".format(TARGET_FILE, SOURCE_FILE))
 
 
 def convert_cat(cat, rarity, cat_position, cat_count):
@@ -128,8 +134,8 @@ if __name__ == "__main__":
     parser.add_argument("--rarity", "-r", help="Search by rarity")
     parser.add_argument("--target", "-t", help="Search by target")
     args = parser.parse_args()
-    logging.info("==========")
-    logging.info("parser args = {0}".format(vars(args)))
+    logger.info("==========")
+    logger.info("parser args = {0}".format(vars(args)))
     generate_bc_json()
 
     cats = None
@@ -138,31 +144,31 @@ if __name__ == "__main__":
     try:
         if args.name:
             cats = bc.find_cat(args.name)
-            logging.debug("Cat count after name = {0}".format(len(cats)))
+            logger.debug("Cat count after name = {0}".format(len(cats)))
         if args.rarity:
             cats = bc.find_rarity(args.rarity, cats)
-            logging.debug("Cat count after rarity = {0}".format(len(cats)))
+            logger.debug("Cat count after rarity = {0}".format(len(cats)))
         if args.cost:
             cats = bc.find_cost(args.cost, cats)
-            logging.debug("Cat count after cost = {0}".format(len(cats)))
+            logger.debug("Cat count after cost = {0}".format(len(cats)))
         if args.target:
             cats = bc.find_target(args.target, cats)
-            logging.debug("Cat count after target = {0}".format(len(cats)))
+            logger.debug("Cat count after target = {0}".format(len(cats)))
         if args.ability:
             cats = bc.find_ability(args.ability, cats)
-            logging.debug("Cat count after ability = {0}".format(len(cats)))
+            logger.debug("Cat count after ability = {0}".format(len(cats)))
         if args.effect:
             cats = bc.find_effect(args.effect, cats)
-            logging.debug("Cat count after effect = {0}".format(len(cats)))
+            logger.debug("Cat count after effect = {0}".format(len(cats)))
         if args.ability_effect:
             cats = bc.find_ability_effect(args.ability_effect, cats)
-            logging.debug("Cat count after ability_effect = {0}".format(len(cats)))
+            logger.debug("Cat count after ability_effect = {0}".format(len(cats)))
         if args.description:
             cats = bc.find_description(args.description, cats)
-            logging.debug("Cat count after description = {0}".format(len(cats)))
+            logger.debug("Cat count after description = {0}".format(len(cats)))
         if args.form:
             cats = bc.find_form(args.form, cats)
-            logging.debug("Cat count after form = {0}".format(len(cats)))
+            logger.debug("Cat count after form = {0}".format(len(cats)))
     except InputError:
         exit(1)
 
@@ -172,5 +178,5 @@ if __name__ == "__main__":
     for cat in cats:
         display_cat(cat, **vars(args))
     message = "{0} cats found".format(len(cats))
-    logging.info(message)
+    logger.info(message)
     print(message)

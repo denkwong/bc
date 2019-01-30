@@ -9,7 +9,8 @@ from cat import Cat
 
 class InputError(Exception):
     def __init__(self, message):
-        logging.error(message)
+        self.logger = logging.getLogger("bc")
+        self.logger.error(message)
         print(message)
 
 
@@ -19,6 +20,7 @@ class Bc:
         open input_file and load into self.cats.
         :param str input_file: input file to process
         """
+        self.logger = logging.getLogger("bc")
         with open(input_file, "r") as fh:
             self.json_cats = json.load(fh)
             self.cats = list()
