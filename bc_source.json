@@ -4841,6 +4841,38 @@
             },
             {
                 "name": [
+                    "Driller Cat",
+                    "Power Driller Cat",
+                    ""
+                ],
+                "cost": [
+                    1200,
+                    1200,
+                    null
+                ],
+                "ability": [
+                    "Single Attack, Long Distance",
+                    "Single Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "The heart of the Grandon mining team, his dream is to drill right to the Earth's core. Long-range attacks Weaken Traitless enemies.",
+                    "Digging specialist of the brave Grandon Cats. his antenna is detecting a long-buried treasure! Long-range attacks Weaken Traitless enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Cutter Cat",
                     "Power Cutter Cat",
                     ""
