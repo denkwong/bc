@@ -7658,6 +7658,38 @@
             },
             {
                 "name": [
+                    "Splendid Ganesha",
+                    "Exalted Ganesha",
+                    ""
+                ],
+                "cost": [
+                    4350,
+                    4350,
+                    null
+                ],
+                "ability": [
+                    "Strengthen, Area Attack, Long Distance",
+                    "Strengthen, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Lord of scholarship and splendor, guardian of the sacred treasures that ward against misfortune. Gains power when damaged (Long Range Area Atk)",
+                    "All who follow him will grow prosperous and wise, as he smites his enemies with infinite might. Gains power when damaged (Long Range Area Atk)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mighty Kat-A-Pult",
                     "CAT-6 Siege Engine",
                     ""
