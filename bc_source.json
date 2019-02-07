@@ -7690,6 +7690,38 @@
             },
             {
                 "name": [
+                    "Empress Chronos",
+                    "Chronos the Infinite",
+                    ""
+                ],
+                "cost": [
+                    4050,
+                    4050,
+                    null
+                ],
+                "ability": [
+                    "Resist Freeze, Area Attack, Long Distance",
+                    "Resist Freeze, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "An almighty titaness who rescued the universe from chaos, keeping order with her Timepiece of Destiny. Freezes any traited enemy with long-range area atks.",
+                    "Molded our reality from primordial matter using her mastery of the Divine Timepiece. Don't mess with her. Freezes any traited enemy with long-range area atks.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mighty Kat-A-Pult",
                     "CAT-6 Siege Engine",
                     ""
