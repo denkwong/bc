@@ -8458,6 +8458,38 @@
             },
             {
                 "name": [
+                    "Strike Unit R.E.I.",
+                    "Assault Unit R.E.I.",
+                    ""
+                ],
+                "cost": [
+                    4110,
+                    4110,
+                    null
+                ],
+                "ability": [
+                    "Resist Slow, Area Attack",
+                    "Resist Slow, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Resistant, Massive Damage",
+                    "Resistant, Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Cheerful young mech, built for anti-air warfare using future tech forbidden by international law. Resistant to/Massive area damage vs Floating.",
+                    "After an upgrade, escaped from govt. custody to use her powerful arsenal to help the innocent. Resistant to/Massive area damage vs Floating.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Sakura Sonic",
                     "Afterschool Sakura",
                     ""
