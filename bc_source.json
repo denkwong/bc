@@ -3529,32 +3529,32 @@
                 "name": [
                     "Drumcorps Cat",
                     "Banner Cat",
-                    ""
+                    "Mochi Cat"
                 ],
                 "cost": [
                     585,
                     585,
-                    null
+                    585
                 ],
                 "ability": [
                     "Single Attack",
                     "Single Attack",
-                    ""
+                    "Single Attack"
                 ],
                 "target": [
                     "Metal",
                     "Metal",
-                    ""
+                    "Metal"
                 ],
                 "effect": [
                     "Weaken",
                     "Weaken",
-                    ""
+                    "Weaken"
                 ],
                 "description": [
                     "Keeps the Cat Army marching to a lively beat. So strict about keeping time, he only performs solo. Might reduce Metal damage by half.",
                     "Heads an elite Cat Academy. Has inspired 40 years of students to conquer unknown lands for catkind. Might reduce Metal damage by half.",
-                    ""
+                    "Inherited a rice dumpling business. Looking for a wife who can keep perfect time with his mallet strikes. Might Weaken Metal enemies."
                 ]
             },
             {
