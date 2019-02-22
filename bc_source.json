@@ -6251,6 +6251,37 @@
             },
             {
                 "name": [
+                    "Cat Clan Heroes",
+                    "Cat Guild Heroes",
+                    ""
+                ],
+                "cost": [
+                    3450,
+                    3450,
+                    null
+                ],
+                "ability": [
+                    "Critical, Area Attack, Long Distance",
+                    "Critical, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black",
+                    "Red, Floating, Black",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "A brave band of Cats out to defeat the King of Evil. Long-range Area strikes have chance of Critical. 100% chance to weaken Red, Black, and Floating.",
+                    "The Chosen One and 11 courageous adventurers. Long-range Area strikes have chance of Critical. 100% chance to weaken Red, Black, and Floating."
+                ]
+            },
+            {
+                "name": [
                     "Sanada Yukimura",
                     "Wargod Yukimura",
                     "Immortal Yukimura"
