@@ -6219,6 +6219,38 @@
             },
             {
                 "name": [
+                    "Nurse Cat",
+                    "Heartful Nurse Cat",
+                    "Joyful Nurse Cat"
+                ],
+                "cost": [
+                    4350,
+                    4350,
+                    4350
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    "Area Attack"
+                ],
+                "target": [
+                    "Floating, Black",
+                    "Floating, Black",
+                    "Floating, Black"
+                ],
+                "effect": [
+                    "Slow, Knockback",
+                    "Slow, Knockback",
+                    "Slow, Knockback"
+                ],
+                "description": [
+                    "Her warm smile and healing aura take away the sting of her piercing syringe (Area attack) Might knockback/slow Black/Floating enemies.",
+                    "A battlefield nurse saving lives with a syringe. Defensive power/area increased (Area attack) Might knockback/slow Black/Floating enemies.",
+                    "A beloved medic & veteran of many Cat campaigns. Area attacks deliver vital medicine. Might knockback/slow Black/Floating enemies."
+                ]
+            },
+            {
+                "name": [
                     "Yuletide Nurse",
                     "Yule Knight Nurse",
                     ""
