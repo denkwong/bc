@@ -1157,6 +1157,38 @@
             },
             {
                 "name": [
+                    "Li'l Sakura",
+                    "Li'l Sakura CC",
+                    ""
+                ],
+                "cost": [
+                    600,
+                    600,
+                    null
+                ],
+                "ability": [
+                    "Critical, Area Attack",
+                    "Critical, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Fate/stay night [HF]! Admires Shirou, takes care of the Emiya household. Area Attacks might Critical.",
+                    "Joining the fight from Fate/stay night [HF]! \"If I became a bad person, would you forgive me?\" Area Attacks might Critical.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Farmer Cat",
                     "Harvest Cat",
                     ""
