@@ -4007,6 +4007,38 @@
             },
             {
                 "name": [
+                    "Li'l Shirou",
+                    "Li'l Shirou CC",
+                    ""
+                ],
+                "cost": [
+                    900,
+                    900,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Fate/stay night [HF]! Dreams of defending justice like his adopted father. Tough vs. Black enemies.",
+                    "Joining the fight from Fate/stay night [HF]! Joined the Holy Grail War after summoning his Servant, Saber. Tough vs. Black enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Akio Yabe",
                     "Akio Yabe CC",
                     "Akio & Gunder CC"
