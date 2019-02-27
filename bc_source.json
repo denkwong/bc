@@ -1157,6 +1157,38 @@
             },
             {
                 "name": [
+                    "Saber the Cat",
+                    "Heroic Spirit Saber Cat",
+                    ""
+                ],
+                "cost": [
+                    570,
+                    570,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "Golden-haired swordscat who appeared one fated night. Building strength by training with a bamboo blade. Strong vs. Floating.",
+                    "Swordscat who dreams of being called by a worthy Master. Maintains a calm demeanor always. Strong vs. Floating.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Li'l Sakura",
                     "Li'l Sakura CC",
                     ""
