@@ -1159,32 +1159,32 @@
                 "name": [
                     "Saber the Cat",
                     "Heroic Spirit Saber Cat",
-                    ""
+                    "Saber Alter Cat"
                 ],
                 "cost": [
                     570,
                     570,
-                    null
+                    570
                 ],
                 "ability": [
                     "Single Attack",
                     "Single Attack",
-                    ""
+                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Resist Curse, Single Attack"
                 ],
                 "target": [
                     "Floating",
                     "Floating",
-                    ""
+                    "Floating"
                 ],
                 "effect": [
                     "Strong Against",
                     "Strong Against",
-                    ""
+                    "Strong Against"
                 ],
                 "description": [
                     "Golden-haired swordscat who appeared one fated night. Building strength by training with a bamboo blade. Strong vs. Floating.",
                     "Swordscat who dreams of being called by a worthy Master. Maintains a calm demeanor always. Strong vs. Floating.",
-                    ""
+                    "Despairing of never being summoned, this Heroic Spirit has wreathed herself in darkness. Strong vs. Floating, immune to negative effects."
                 ]
             },
             {
