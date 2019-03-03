@@ -1221,6 +1221,38 @@
             },
             {
                 "name": [
+                    "Shirou the Cat",
+                    "Novice Mage Shirou Cat",
+                    ""
+                ],
+                "cost": [
+                    540,
+                    540,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "A Cat who strives to be a defender of justice. Spent months in his room trying to summon a Heroic Spirit. Strong vs. Black enemies.",
+                    "Still hasn't succeeded at Heroic Spirit summoning. Now leaves his room sometimes to do night patrols. Strong vs. Black enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Farmer Cat",
                     "Harvest Cat",
                     ""
