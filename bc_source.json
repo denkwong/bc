@@ -8329,6 +8329,38 @@
             },
             {
                 "name": [
+                    "Rin Tohsaka",
+                    "Rin Tohsaka CC",
+                    ""
+                ],
+                "cost": [
+                    4260,
+                    4260,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack",
+                    "Zombie Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien, Zombie",
+                    "Alien, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Knockback",
+                    "Knockback",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Fate/stay night [HF]! Seeks the Holy Grail with her summoned Archer. Chance to knockback Aliens/Zombies, with Area Attack!",
+                    "Joining the fight from Fate/stay night [HF]! Classmate of Shirou, heir to the Tohsaka lineage. Chance to knockback Aliens/Zombies, with Area Attack!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Eva Unit-01",
                     "Eva Unit-01 & Cat",
                     ""
