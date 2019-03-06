@@ -4167,6 +4167,38 @@
             },
             {
                 "name": [
+                    "Rider the Cat",
+                    "Heroic Spirit Rider Cat",
+                    ""
+                ],
+                "cost": [
+                    570,
+                    570,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "A Cat who wields dagger and chain with grace. At a slight visual disadvantage thanks to her mask. Chance to Freeze Angels.",
+                    "Gained command of a legendary lifeform. Can't see much due to the mask and Pegasus' head. Chance to Freeze Angels.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Akio Yabe",
                     "Akio Yabe CC",
                     "Akio & Gunder CC"
