@@ -4103,6 +4103,38 @@
             },
             {
                 "name": [
+                    "Rin the Cat",
+                    "Mage Rin Cat",
+                    ""
+                ],
+                "cost": [
+                    525,
+                    525,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Knockback",
+                    "Knockback",
+                    ""
+                ],
+                "description": [
+                    "An Cat possessing elegance unrivaled at her school. Beauty extends to behavior befitting an honor student. Might knockback Aliens.",
+                    "Endlessly seeks to improve on herself. Lashes out when she feels her weakness might be exposed. Might knockback Aliens.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Akio Yabe",
                     "Akio Yabe CC",
                     "Akio & Gunder CC"
