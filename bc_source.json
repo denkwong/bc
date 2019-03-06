@@ -6121,6 +6121,38 @@
             },
             {
                 "name": [
+                    "Kotomine & Gilgamesh Cats",
+                    "Gilgamesh & Kotomine Cats",
+                    ""
+                ],
+                "cost": [
+                    1170,
+                    1170,
+                    null
+                ],
+                "ability": [
+                    "Strengthen, Area Attack",
+                    "Strengthen, Zombie Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "A Cat-priest with a taste for extra-spicy mapo tofu, and a Cat Spirit with flawless tactical sense. Might weaken Black, stronger after damage.",
+                    "One Cat has begun to tire of the game of battle, but the other still can't get enough mapo tofu. Might weaken Zombies, stronger after damage.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Aoi Hayakawa",
                     "Aoi Hayakawa CC",
                     "Baseball Mask a"
