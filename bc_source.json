@@ -8361,6 +8361,38 @@
             },
             {
                 "name": [
+                    "Saber",
+                    "Saber CC",
+                    "Saber Alter CC"
+                ],
+                "cost": [
+                    3900,
+                    3900,
+                    3900
+                ],
+                "ability": [
+                    "Area Attack, Long Distance",
+                    "Area Attack, Long Distance",
+                    "Area Attack, Long Distance"
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    "Floating"
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    "Massive Damage"
+                ],
+                "description": [
+                    "Joining the fight from Fate/stay night [HF]! Her sword is pledged to her Master, Shirou Emiya. Massive long-range area damage vs. Floating!",
+                    "Joining the fight from Fate/stay night [HF]! Peerless warrior in possession of a Noble Phantasm. Massive long-range area damage vs. Floating!",
+                    "Joining the fight from Fate/stay night [HF]! A menacing swordwoman who resembles Saber... Massive long-range area damage vs. Floating!"
+                ]
+            },
+            {
+                "name": [
                     "Rin Tohsaka",
                     "Rin Tohsaka CC",
                     ""
