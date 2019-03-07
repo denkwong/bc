@@ -8457,6 +8457,38 @@
             },
             {
                 "name": [
+                    "Gilgamesh",
+                    "Gilgamesh CC",
+                    ""
+                ],
+                "cost": [
+                    4500,
+                    4500,
+                    null
+                ],
+                "ability": [
+                    "Strengthen, Area Attack, Long Distance",
+                    "Strengthen, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Fate/stay night [HF]! Inscrutible young man with an air of invincibility. Long-range Area attacks gets stronger after taking damage!",
+                    "Joining the fight from Fate/stay night [HF]! 8th incarnation of a Spirit that shouldn't exist. Long-range attacks gets stronger after taking damage!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Sakura Matou",
                     "Sakura Matou CC",
                     ""
