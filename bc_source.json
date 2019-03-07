@@ -4167,6 +4167,38 @@
             },
             {
                 "name": [
+                    "Illya the Cat",
+                    "Snow Faerie Illya",
+                    ""
+                ],
+                "cost": [
+                    510,
+                    510,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Slow",
+                    "Slow",
+                    ""
+                ],
+                "description": [
+                    "An uncanny Cat with silver hair and red eyes. Once tried to care for a small bird. Might Slow Red enemies.",
+                    "Inheritor of the blood of a venerable House. Recently purchased new winter clothes. Might Slow Red enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Archer the Cat",
                     "Heroic Spirit Archer Cat",
                     ""
