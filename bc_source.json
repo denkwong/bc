@@ -8457,6 +8457,38 @@
             },
             {
                 "name": [
+                    "Archer",
+                    "Archer CC",
+                    ""
+                ],
+                "cost": [
+                    4620,
+                    4620,
+                    null
+                ],
+                "ability": [
+                    "Unharmed by Waves, Area Attack, Long Distance",
+                    "Unharmed by Waves, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Fate/stay night [HF]! His bow is pledged to his Master, Rin Tohsaka. Immune to Wave Damage, with Long-range Area Attack!",
+                    "Joining the fight from Fate/stay night [HF]! His enmity for Shirou is still a mystery. Immune to Wave Damage, with Long-range Area Attack!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Gilgamesh",
                     "Gilgamesh CC",
                     ""
