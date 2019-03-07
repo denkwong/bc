@@ -8521,6 +8521,38 @@
             },
             {
                 "name": [
+                    "Rider",
+                    "Rider CC",
+                    ""
+                ],
+                "cost": [
+                    3600,
+                    3600,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Fate/stay night [HF]! Her dagger is pledged to her Master, Shinji Matou. Freezes Angels with Area Attacks!",
+                    "Joining the fight from Fate/stay night [HF]! Excellent mobility, expert in barrier magecraft. Freezes Angels with Area Attacks!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Gilgamesh",
                     "Gilgamesh CC",
                     ""
