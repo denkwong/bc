@@ -8457,6 +8457,38 @@
             },
             {
                 "name": [
+                    "Sakura Matou",
+                    "Sakura Matou CC",
+                    ""
+                ],
+                "cost": [
+                    4200,
+                    4200,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Unharmed by Waves, Area Attack",
+                    "Zombie Killer, Unharmed by Waves, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Black, Alien, Zombie",
+                    "Black, Alien, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Fate/stay night [HF]! Takes charge of daily care for the Emiya house. Tough vs Black/Aliens/Zombies (Area Attack)",
+                    "Joining the fight from Fate/stay night [HF]! Fears that Shirou will fall victim to the Holy Grail War. Tough vs Black/Aliens/Zombies (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Eva Unit-01",
                     "Eva Unit-01 & Cat",
                     ""
