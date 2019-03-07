@@ -8521,6 +8521,38 @@
             },
             {
                 "name": [
+                    "Lancer",
+                    "Lancer CC",
+                    ""
+                ],
+                "cost": [
+                    4350,
+                    4350,
+                    null
+                ],
+                "ability": [
+                    "Barrier Breaker, Area Attack",
+                    "Barrier Breaker, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Fate/stay night [HF]! His spear is pledged to an unknown Master. 100% chance to break Barriers! (Area Attack)",
+                    "Joining the fight from Fate/stay night [HF]! Agility which rivals even Saber's is his point of pride. 100% chance to break Barriers! (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Rider",
                     "Rider CC",
                     ""
