@@ -8235,32 +8235,32 @@
                 "name": [
                     "Bora",
                     "Bazibon",
-                    ""
+                    "Bazibastra"
                 ],
                 "cost": [
                     1170,
                     3780,
-                    null
+                    3780
                 ],
                 "ability": [
                     "Warp Blocker, Area Attack",
                     "Barrier Breaker, Warp Blocker, Area Attack",
-                    ""
+                    "Barrier Breaker, Warp Blocker, Area Attack"
                 ],
                 "target": [
                     "Alien",
                     "Alien",
-                    ""
+                    "Alien"
                 ],
                 "effect": [
                     "Massive Damage",
                     "Resistant, Massive Damage",
-                    ""
+                    "Resistant, Massive Damage"
                 ],
                 "description": [
                     "Cosmic fire, brought to life! This drake spirit commands flames that strike Aliens for extra damage!",
                     "With the power of a burning sun, its flares annihilate Barriers. Powerful defense & attack vs. Aliens",
-                    ""
+                    "Carries a red giant's rage within its tiny body, ready to unleash a supernova on enemy Barriers. Powerful defense & attack vs. Aliens"
                 ]
             },
             {
