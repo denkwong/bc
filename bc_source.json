@@ -5995,17 +5995,17 @@
                 "name": [
                     "Catornado",
                     "Hurricat",
-                    ""
+                    "Catyphoon"
                 ],
                 "cost": [
                     1350,
                     1350,
-                    null
+                    1350
                 ],
                 "ability": [
                     "Critical, Area Attack",
                     "Critical, Area Attack",
-                    ""
+                    "Critical, Area Attack"
                 ],
                 "target": [
                     "",
@@ -6020,7 +6020,7 @@
                 "description": [
                     "Wanted to skip school so badly, he became a typhoon to cause a national weather alert. Super high-speed Area attacks with Critical.",
                     "A side effect of El Nino. Dangerously curious; sucks up anything he tries to get a peek at. Super high-speed Area attacks with Critical.",
-                    ""
+                    "Swept up in a storm along with the rest of town. Used to it by now, so he came prepared for weather. Super high-speed Area attacks with Critical."
                 ]
             },
             {
