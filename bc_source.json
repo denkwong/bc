@@ -1829,6 +1829,38 @@
             },
             {
                 "name": [
+                    "Filibuster Cat X",
+                    "Filibuster Cat Y",
+                    ""
+                ],
+                "cost": [
+                    3750,
+                    3750,
+                    null
+                ],
+                "ability": [
+                    "Area Attack, Omni Strike",
+                    "Area Attack, Omni Strike",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "An ancient lifeform once annihilated by the power of Doge, but now restored with super glue. Omnistrike with 100% Freeze vs. Traitless.",
+                    "Mystery Cat once thought lost to the universe. Updated his paint job with a more slimming color. Omnistrike with 100% Freeze vs. Traitless.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Ururun Wolf",
                     "Ururun Cat",
                     "Awakened Ururun"
