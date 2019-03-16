@@ -9318,6 +9318,38 @@
                     "Dressed in bridal gowns, she appears to the blessed as a sign of Cat God's favor. Her groom's identity is unknown... Strong vs all traits, 100% chance to Slow.",
                     ""
                 ]
+            },
+            {
+                "name": [
+                    "D'arktanyan",
+                    "Valiant D'arktanyan",
+                    ""
+                ],
+                "cost": [
+                    4350,
+                    4350,
+                    null
+                ],
+                "ability": [
+                    "Strengthen, Unharmed by Waves, Warp Blocker, Area Attack, Long Distance",
+                    "Strengthen, Unharmed by Waves, Warp Blocker, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Wandering warrior pursuing true justice, resembles a certain Meowsketeer. Gains attack power when damaged, effective vs all traitless enemies!",
+                    "He values nothing more than justice and will happily sacrifice it all for his cause! Gains attack power when damaged, effective vs all traitless enemies!",
+                    ""
+                ]
             }
         ]
     }
