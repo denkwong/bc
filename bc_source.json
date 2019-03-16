@@ -7689,6 +7689,38 @@
             },
             {
                 "name": [
+                    "Sarukani",
+                    "Rock Revengers",
+                    "The One-Hit Wonders"
+                ],
+                "cost": [
+                    780,
+                    5700,
+                    5700
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack",
+                    "Zombie Killer, Resist Slow, Area Attack",
+                    "Zombie Killer, Resist Weaken, Resist Slow, Area Attack"
+                ],
+                "target": [
+                    "Angel, Zombie",
+                    "Angel, Zombie",
+                    "Angel, Zombie"
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    "Strong Against"
+                ],
+                "description": [
+                    "Won best supporting actor as a li'l monkey for \"Selfish Persimmons\". Everyone hates working with him. Strong area atk vs Angels/Zombies.",
+                    "The kids Sarukani did wrong formed the metal act: Causin' Effect. Revenge is a dish best served heavy. Strong area atk vs Angels/Zombies.",
+                    "Saru convinced the rockers to reform the band to try to capitalize on every pop trend at once. Strong area atk vs Angels/Zombies."
+                ]
+            },
+            {
+                "name": [
                     "Akira",
                     "Shadow Akira",
                     "Inferno Akira"
