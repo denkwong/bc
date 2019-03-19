@@ -965,6 +965,38 @@
             },
             {
                 "name": [
+                    "Meowla Meowla",
+                    "Catorpedo",
+                    ""
+                ],
+                "cost": [
+                    450,
+                    450,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "A cat trained by Molas for marine combat. Still kinda wishes he became a meteorologist. Resistant to Red enemy attacks. (Area Atk)",
+                    "Evolved arms instead of legs... weird. Hates being stepped all over. Stop it!!! Resistant to Red enemy attacks. (Area Atk)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Catburger",
                     "Cat Royale",
                     "Value Meal Cat"
