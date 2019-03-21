@@ -6027,32 +6027,32 @@
                 "name": [
                     "Catway",
                     "Drone Cat",
-                    ""
+                    "Time Traveller Cat"
                 ],
                 "cost": [
                     1200,
                     1200,
-                    null
+                    1200
                 ],
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    ""
+                    "Area Attack"
                 ],
                 "target": [
                     "Red, Black, Angel",
                     "Red, Black, Angel",
-                    ""
+                    "Red, Black, Angel"
                 ],
                 "effect": [
                     "Strong Against",
                     "Strong Against",
-                    ""
+                    "Strong Against"
                 ],
                 "description": [
                     "A tech CEO who patrols the office in style, looking for lazy interns to punish! Strong Vs. Red, Black, and Angels (Area Attack)",
                     "A cutting edge Unmanned Aerial Feline (UAF). Tends to crash regularly... tech still under development! Strong vs. Red, Black, Angels (Area)",
-                    ""
+                    "A future timeline's envoy to the present Cats. Often time slips into the movie theater for free... Strong vs. Red, Black & Angels. (Area attack)"
                 ]
             },
             {
