@@ -6185,6 +6185,38 @@
             },
             {
                 "name": [
+                    "Baby Mola",
+                    "Young Man Mola",
+                    ""
+                ],
+                "cost": [
+                    1140,
+                    1140,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Dropping in from \"Survive! Mola Mola!\" The lone survivor of 300,000,000 brothers - the ocean's a harsh realm, man.",
+                    "Playing life on Hard Mode, a Mola Mola is always within sight of paradise. Attacks from range by screaming... then dying.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "SV-001",
                     "SV-001 CC",
                     ""
