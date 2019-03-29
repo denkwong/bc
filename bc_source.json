@@ -8521,6 +8521,38 @@
             },
             {
                 "name": [
+                    "Mola King",
+                    "Living Legend",
+                    ""
+                ],
+                "cost": [
+                    4200,
+                    4200,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Dropping in from \"Survive! Mola Mola!\" His size is almost without equal, and so is his royal arrogance. (Area Attack)",
+                    "Bears the burden of a watery destiny, Regrets? A good long scream can take care of doubt and worries! (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mobius",
                     "Miraculous Mobius",
                     ""
