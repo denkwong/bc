@@ -8009,6 +8009,38 @@
             },
             {
                 "name": [
+                    "Detective Vigler",
+                    "Inspector Gabriel",
+                    ""
+                ],
+                "cost": [
+                    4410,
+                    4410,
+                    null
+                ],
+                "ability": [
+                    "Wave Attack, Area Attack",
+                    "Zombie Killer, Wave Attack, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating, Alien",
+                    "Alien, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "Prodigy in the netherworld's Office of Infernal Investigations, with just over 665 cases solved. Wave attacks might freeze Aliens/Floating.",
+                    "This hardened veteran got too close to the truth and uncovered a conspiracy scarier than hell itself. Wave attacks might freeze Aliens/Zombies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Thunder God Zeus",
                     "The Majestic Zeus",
                     ""
