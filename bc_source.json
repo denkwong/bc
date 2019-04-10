@@ -8299,32 +8299,32 @@
                 "name": [
                     "Mighty Drednot",
                     "B.C.S. Lionheart",
-                    ""
+                    "B.C.S. Tigerclaw"
                 ],
                 "cost": [
                     4800,
                     4800,
-                    null
+                    4800
                 ],
                 "ability": [
                     "Zombie Killer, Area Attack",
                     "Zombie Killer, Area Attack",
-                    ""
+                    "Zombie Killer, Area Attack"
                 ],
                 "target": [
                     "Red, Zombie",
                     "Red, Zombie",
-                    ""
+                    "Red, Zombie"
                 ],
                 "effect": [
                     "Massive Damage",
                     "Massive Damage",
-                    ""
+                    "Massive Damage"
                 ],
                 "description": [
                     "The spunky interns of Cat Corps of Engineers built a retro battleship for marine dominance! Area atks deliver huge damage vs Red enemies.",
                     "Boasting a complement of elite marines and a drill able to punch through any hull, the Lionheart delivers huge area damage vs Reds and Zombies.",
-                    ""
+                    "Cat Army Special Forces use this Nekonium drill-equipped destroyer to stage marine assaults. Huge area damage vs Reds and Zombies."
                 ]
             },
             {
