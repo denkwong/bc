@@ -8363,32 +8363,32 @@
                 "name": [
                     "Mighty Thermae D-Lux",
                     "Subterra Guardians",
-                    ""
+                    "Subterra Sentinels"
                 ],
                 "cost": [
                     4650,
                     4650,
-                    null
+                    4650
                 ],
                 "ability": [
                     "Zombie Killer, Area Attack, Omni Strike",
                     "Zombie Killer, Area Attack, Omni Strike",
-                    ""
+                    "Zombie Killer, Area Attack, Omni Strike"
                 ],
                 "target": [
                     "Zombie",
                     "Zombie",
-                    ""
+                    "Zombie"
                 ],
                 "effect": [
                     "Freeze, Strong Against",
                     "Freeze, Strong Against",
-                    ""
+                    "Freeze, Strong Against"
                 ],
                 "description": [
                     "World-famous mobile hot springs. Travel in comfort and style. Omni-strikes slow and cause massive damage to Zombies.",
                     "A secret organization defending the Cat army from Doge sneak attacks from below. Omni-strikes freeze + massive damage to Zombies.",
-                    ""
+                    "At the frontlines of the Cat campaign to seek and destroy underground Doge bases. Omni-strikes freeze and deliver massive damage to Zombies."
                 ]
             },
             {
