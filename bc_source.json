@@ -8233,6 +8233,38 @@
             },
             {
                 "name": [
+                    "Wrathful Poseidon",
+                    "Valiant Poseidon",
+                    ""
+                ],
+                "cost": [
+                    3900,
+                    3900,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack",
+                    "Zombie Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Metal, Zombie",
+                    "Metal, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "Master of storms and seas, one of the 12 supreme Olympian gods. Sacred Trident's area attack 100% freezes Zombies/Metal foes.",
+                    "Undisputed lord of the waters. Can command sea serpents to obliterate those who defy him. Area attack 100% freezes Zombies/Metal foes.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Empress Chronos",
                     "Chronos the Infinite",
                     ""
