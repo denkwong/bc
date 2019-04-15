@@ -2053,6 +2053,38 @@
             },
             {
                 "name": [
+                    "Dogumaru",
+                    "Doguemon",
+                    ""
+                ],
+                "cost": [
+                    3900,
+                    3900,
+                    null
+                ],
+                "ability": [
+                    "Warp Blocker, Resist Curse, Area Attack",
+                    "Warp Blocker, Resist Curse, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "The Doge army put this artifact for sale on cBay to fund their next campaign, but only made $0.22 from it. High defense against Traitless (Area Attack)",
+                    "Analysis reveals that this was created by ancient Cats then sold to Doges for use as flowerbed decorations. High defense against Traitless (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Hermit Cat",
                     "Grandmaster Cat",
                     ""
