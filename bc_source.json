@@ -6187,17 +6187,17 @@
                 "name": [
                     "Cheerleader Cat",
                     "Waitress Cat",
-                    ""
+                    "Soba Cat"
                 ],
                 "cost": [
                     900,
                     900,
-                    null
+                    900
                 ],
                 "ability": [
                     "Critical, Zombie Killer, Single Attack",
                     "Critical, Zombie Killer, Single Attack",
-                    ""
+                    "Critical, Zombie Killer, Single Attack"
                 ],
                 "target": [
                     "",
@@ -6212,7 +6212,7 @@
                 "description": [
                     "Leaping about on the footbal field, her youthful songs fill the Battle Cats with determination. 100% chance of a Critical Attack!",
                     "The real world called, but her enthusiasm remains! Her speedy service fills the Cats with determination! 100% Critical chance.",
-                    ""
+                    "Finally saved enough to buy her own restaurant! Her noodles are the best in the city, and her service never lacks style. 100% Critical chance."
                 ]
             },
             {
