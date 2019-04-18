@@ -8426,33 +8426,33 @@
             {
                 "name": [
                     "Mighty Bomburr",
-                    "NEK-O Sky Fortress",
-                    ""
+                    "NEK-0 Sky Fortress",
+                    "NEK-02 Air Citadel"
                 ],
                 "cost": [
                     4950,
                     4950,
-                    null
+                    4950
                 ],
                 "ability": [
                     "Zombie Killer, Area Attack",
                     "Zombie Killer, Area Attack",
-                    ""
+                    "Zombie Killer, Area Attack"
                 ],
                 "target": [
                     "Zombie",
                     "Zombie",
-                    ""
+                    "Zombie"
                 ],
                 "effect": [
                     "Knockback",
                     "Knockback",
-                    ""
+                    "Knockback"
                 ],
                 "description": [
                     "The spunky interns of Cat Corps of Engineers built a super sweet tactical aircraft. Area atks knock back Zombie enemies with ease.",
                     "The ultimate aerial threat, dropping endless megatons of munition on ground threats. Area attacks deliver powerful knockback vs Zombies.",
-                    ""
+                    "A force of total aerial domination and a key weapon in the Cat's quest to create an ideal world. Area attacks have powerful knockback vs Zombies."
                 ]
             },
             {
