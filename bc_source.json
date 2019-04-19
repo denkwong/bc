@@ -9129,6 +9129,38 @@
             },
             {
                 "name": [
+                    "Nekoluga",
+                    "Unknown Cat",
+                    ""
+                ],
+                "cost": [
+                    4500,
+                    4500,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "Red, Floating, Black, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "Knockback",
+                    ""
+                ],
+                "description": [
+                    "Not sure if this is a Cat... Maybe if you evolve him...",
+                    "God, I don't know if this is a Cat anymore. Seriously, I give up. Knocks back enemies. (Area Atk.)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Asiluga",
                     "Asilan Pasalan",
                     "Assassinlan Pasalan"
