@@ -8457,6 +8457,38 @@
             },
             {
                 "name": [
+                    "Mighty Rekon Korps",
+                    "Orbital Platform Armageddon",
+                    ""
+                ],
+                "cost": [
+                    4500,
+                    4500,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack",
+                    "Zombie Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Attacks Only",
+                    "Attacks Only",
+                    ""
+                ],
+                "description": [
+                    "Highly mobile artillery unit based on ancient engineering. Only attacks enemies with traits, but deals massive area damage with each strike.",
+                    "Designed to control interstellar territory using wormhole physics and thermonuclear stikes. Massive area damage vs traited enemies only.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mighty Thermae D-Lux",
                     "Subterra Guardians",
                     "Subterra Sentinels"
