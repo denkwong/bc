@@ -8555,32 +8555,32 @@
                 "name": [
                     "Mizli",
                     "Marinmizu",
-                    ""
+                    "Mizuririn"
                 ],
                 "cost": [
                     1140,
                     3720,
-                    null
+                    3720
                 ],
                 "ability": [
                     "Warp Blocker, Area Attack",
                     "Barrier Breaker, Warp Blocker, Area Attack",
-                    ""
+                    "Barrier Breaker, Warp Blocker, Area Attack"
                 ],
                 "target": [
                     "Alien",
                     "Alien",
-                    ""
+                    "Alien"
                 ],
                 "effect": [
                     "Slow, Knockback",
                     "Slow, Resistant, Knockback",
-                    ""
+                    "Slow, Resistant, Knockback"
                 ],
                 "description": [
                     "Cosmic water, brought to life! This nymph spirit controls waves that knock Aliens far back!",
                     "With waves that can split the Earth, its attacks wash away enemy Barriers. Tough Anti-Alien defense and knockback attacks.",
-                    ""
+                    "Master of water, sends cleansing waves to purify mortal realms of evil, washing away Barriers. Tough Anti-Alien defense and knockback attacks."
                 ]
             },
             {
