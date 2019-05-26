@@ -6123,17 +6123,17 @@
                 "name": [
                     "Express Cat",
                     "Maglev Cat",
-                    ""
+                    "Bullet Train Cat"
                 ],
                 "cost": [
                     750,
                     750,
-                    null
+                    750
                 ],
                 "ability": [
                     "Extra Money, Single Attack",
                     "Extra Money, Single Attack",
-                    ""
+                    "Extra Money, Single Attack"
                 ],
                 "target": [
                     "",
@@ -6148,7 +6148,7 @@
                 "description": [
                     "1-car train with a max speed of 222kph 120% of seats were filled today. Extra money when defeating enemies!",
                     "222-Cat seater with a max speed of 2222kph, a blessing for all Cat commuters. Extra money when defeating enemies!",
-                    ""
+                    "Can take a maximum of 2222 passengers on a round-the-world journey at 20,000,000 km/h Extra money when defeating enemies!"
                 ]
             },
             {
