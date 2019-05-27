@@ -9641,6 +9641,38 @@
             },
             {
                 "name": [
+                    "D'artanyan",
+                    "Meow-sketeer",
+                    ""
+                ],
+                "cost": [
+                    810,
+                    4350,
+                    null
+                ],
+                "ability": [
+                    "Area Attack, Long Distance",
+                    "Unharmed by Waves, Warp Blocker, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "A spunky young soldier with a lot to prove. But even he doesn't know his own strength. Extra damage to any traited enemy. (Long Range)",
+                    "With his razor-sharp blade and unbreakable spirit, he'll risk it all to protect his comrades. Extra damage to any traited enemy. (Long Range)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "D'arktanyan",
                     "Valiant D'arktanyan",
                     ""
