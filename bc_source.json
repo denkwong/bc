@@ -4135,6 +4135,38 @@
             },
             {
                 "name": [
+                    "Li'l Madoka",
+                    "Li'l Magical Girl Madoka",
+                    ""
+                ],
+                "cost": [
+                    450,
+                    450,
+                    null
+                ],
+                "ability": [
+                    "Witch Killer, Single Attack",
+                    "Witch Killer, Single Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! A girl with vast potential hiding in her tiny body.",
+                    "From Madoka Magica The Movie -Rebellion-! Bears the true power of a Magical Girl within her. Massive Long-range damage vs. Floating.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Kyubey Cat",
                     "Tank Kyubey Cat",
                     ""
