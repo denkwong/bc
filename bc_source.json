@@ -4135,6 +4135,38 @@
             },
             {
                 "name": [
+                    "Kyubey Cat",
+                    "Tank Kyubey Cat",
+                    ""
+                ],
+                "cost": [
+                    90,
+                    180,
+                    null
+                ],
+                "ability": [
+                    "Survive, Single Attack",
+                    "Survive, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "A ruthless Cat wearing a cute animal costume. Seeking girls who have a wish they want granted. Might Survive a lethal attack.",
+                    "A ruthless Cat wearing a cute animal costume. Evolved for improved stylishness and adorability. Might Survive a lethal attack.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "PIKOTARO",
                     "NEKOTARO",
                     ""
