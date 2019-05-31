@@ -1125,6 +1125,38 @@
             },
             {
                 "name": [
+                    "Li'l Homura",
+                    "Li'l Magical Girl Homura",
+                    ""
+                ],
+                "cost": [
+                    450,
+                    450,
+                    null
+                ],
+                "ability": [
+                    "Witch Killer, Single Attack",
+                    "Witch Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! A young girl with an indomitable will.",
+                    "From Madoka Magica The Movie -Rebellion-! She will continue fighting until Walpurgisnacht is defeated, at any cost. (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "CPAC",
                     "PPAP",
                     ""
