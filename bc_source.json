@@ -1127,32 +1127,32 @@
                 "name": [
                     "Li'l Homura",
                     "Li'l Magical Girl Homura",
-                    ""
+                    "Li'l Devil Homura"
                 ],
                 "cost": [
                     450,
                     450,
-                    null
+                    450
                 ],
                 "ability": [
                     "Witch Killer, Single Attack",
                     "Witch Killer, Area Attack",
-                    ""
+                    "Witch Killer, Area Attack"
                 ],
                 "target": [
                     "",
                     "",
-                    ""
+                    "Black"
                 ],
                 "effect": [
                     "",
                     "",
-                    ""
+                    "Weaken"
                 ],
                 "description": [
                     "From Madoka Magica The Movie -Rebellion-! A young girl with an indomitable will.",
                     "From Madoka Magica The Movie -Rebellion-! She will continue fighting until Walpurgisnacht is defeated, at any cost. (Area Attack)",
-                    ""
+                    "From Madoka Magica The Movie -Rebellion-! She will relentlessly consume all things holy. Area attacks might Weaken Black enemies."
                 ]
             },
             {
