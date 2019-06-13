@@ -4231,6 +4231,38 @@
             },
             {
                 "name": [
+                    "Mami Cat",
+                    "Magical Girl Mami Cat",
+                    ""
+                ],
+                "cost": [
+                    645,
+                    645,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "A wise guardian Cat who admires Magical Girls. Gets excited whenever she sees a pretty ribbon. Delivers massive damage to Angels.",
+                    "This Magical Cat made a contract with a suspicious white creature. Gets dizzy after using Tiro Finale. Delivers massive damage to Angels.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Kyoko Cat",
                     "Magical Girl Kyoko Cat",
                     ""
