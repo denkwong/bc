@@ -4231,6 +4231,38 @@
             },
             {
                 "name": [
+                    "Kyoko Cat",
+                    "Magical Girl Kyoko Cat",
+                    ""
+                ],
+                "cost": [
+                    615,
+                    615,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "A Cat who admires Magical Girls with endless appetite. Don't waste good food or you'll get it! Might Weaken Red enemies.",
+                    "This Magical Cat made a contract with a suspicious white creature. Made her spear in shop class. Might Weaken Red enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "PIKOTARO",
                     "NEKOTARO",
                     ""
