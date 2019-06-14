@@ -6473,6 +6473,38 @@
             },
             {
                 "name": [
+                    "Kyubey",
+                    "Kyubey & Cat",
+                    ""
+                ],
+                "cost": [
+                    660,
+                    660,
+                    null
+                ],
+                "ability": [
+                    "Survive, Single Attack",
+                    "Survive, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! Make a contract with him and your wish will come true. Tough vs. Aliens, might Survive a lethal attack",
+                    "From Madoka Magica The Movie -Rebellion-! He seeks pure-hearted girls dreaming of a miracle. Tough vs. Aliens, might Survive a lethal attack",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Belial",
                     "Reckless Belial",
                     ""
