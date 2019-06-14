@@ -8875,32 +8875,32 @@
                 "name": [
                     "Aer",
                     "Erphuan",
-                    ""
+                    "Aervanta"
                 ],
                 "cost": [
                     1080,
                     3930,
-                    null
+                    3930
                 ],
                 "ability": [
                     "Warp Blocker, Area Attack, Long Distance",
                     "Barrier Breaker, Warp Blocker, Area Attack, Long Distance",
-                    ""
+                    "Barrier Breaker, Warp Blocker, Area Attack, Long Distance"
                 ],
                 "target": [
                     "",
                     "Alien",
-                    ""
+                    "Alien"
                 ],
                 "effect": [
                     "",
                     "Resistant",
-                    ""
+                    "Resistant"
                 ],
                 "description": [
                     "Cosmic storms, brought to life! This sylph spirit summons winds for long distance area attacks!",
                     "With winds that blast away the mountains, no Barrier can stand against its assaults. Tough, with long-range area attacks vs Aliens.",
-                    ""
+                    "Calling forth raging solar winds, can annihilate even a mighty nebula with the slightest of efforts. Tough, with long-range area attacks vs Aliens."
                 ]
             },
             {
