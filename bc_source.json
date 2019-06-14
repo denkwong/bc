@@ -9001,6 +9001,38 @@
             },
             {
                 "name": [
+                    "Mami Tomoe",
+                    "Mami & Cat",
+                    ""
+                ],
+                "cost": [
+                    4410,
+                    4410,
+                    null
+                ],
+                "ability": [
+                    "Witch Killer, Area Attack, Long Distance",
+                    "Witch Killer, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! Veteran Magical Girl who watches over rookies. Massive Long-Range Area damage vs. Angels.",
+                    "From Madoka Magica The Movie -Rebellion-! Magical Girl who endures painful loneliness. Massive Long-Range Area damage vs. Angels.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Bebe",
                     "Nagisa & Cat",
                     ""
