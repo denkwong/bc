@@ -4231,6 +4231,38 @@
             },
             {
                 "name": [
+                    "Madoka Cat",
+                    "Magical Girl Madoka Cat",
+                    ""
+                ],
+                "cost": [
+                    630,
+                    630,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Slow",
+                    "Slow",
+                    ""
+                ],
+                "description": [
+                    "A kind-hearted Cat who admires Magical Girls. She will do anything to help her friends. Might Slow Floating enemies.",
+                    "This Magical Cat made a contract with a suspicious white creature. Uses her powers only to help others. Might Slow Floating enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Homura Cat",
                     "Magical Girl Homura Cat",
                     ""
