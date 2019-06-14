@@ -9033,6 +9033,38 @@
             },
             {
                 "name": [
+                    "Sayaka Miki",
+                    "Sayaka & Cat",
+                    ""
+                ],
+                "cost": [
+                    4230,
+                    4230,
+                    null
+                ],
+                "ability": [
+                    "Strengthen, Survive, Witch Killer, Area Attack",
+                    "Strengthen, Survive, Witch Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! Practical Magical Girl, deals with trouble directly. Survives once, Area Atk power grows after damage!",
+                    "From Madoka Magica The Movie -Rebellion-! Made a healing wish as part of her contract. Survives once, Area Atk power grows after damage!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mami Tomoe",
                     "Mami & Cat",
                     ""
