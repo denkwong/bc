@@ -4231,6 +4231,38 @@
             },
             {
                 "name": [
+                    "Homura Cat",
+                    "Magical Girl Homura Cat",
+                    ""
+                ],
+                "cost": [
+                    660,
+                    660,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "A Cat who admires cool and mysterious Magical Girls. She's still too excitable to pull it off though... Might Freeze lack enemies.",
+                    "The Magical Cat made a contract with a suspicious white creature. Don't be intimidated by her toy gun. Might Freeze Black enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mami Cat",
                     "Magical Girl Mami Cat",
                     ""
