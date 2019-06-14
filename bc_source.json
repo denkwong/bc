@@ -8969,6 +8969,38 @@
             },
             {
                 "name": [
+                    "Bebe",
+                    "Nagisa & Cat",
+                    ""
+                ],
+                "cost": [
+                    1200,
+                    3900,
+                    null
+                ],
+                "ability": [
+                    "Witch Killer, Zombie Killer, Warp Blocker, Area Attack",
+                    "Witch Killer, Zombie Killer, Warp Blocker, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien, Zombie",
+                    "Alien, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! Mami's adorable, cheese-loving partner. Area attacks Weaken Aliens and Zombies.",
+                    "From Madoka Magica The Movie -Rebellion-! New Magical Girl who appears before Madoka. Area attacks Weaken Aliens and Zombies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mobius",
                     "Miraculous Mobius",
                     ""
