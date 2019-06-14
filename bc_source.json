@@ -8937,6 +8937,38 @@
             },
             {
                 "name": [
+                    "Madoka Kaname",
+                    "Madoka & Cat",
+                    ""
+                ],
+                "cost": [
+                    4350,
+                    4350,
+                    null
+                ],
+                "ability": [
+                    "Witch Killer, Area Attack, Long Distance",
+                    "Witch Killer, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Slow, Strong Against",
+                    "Slow, Strong Against",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! A sweet girl who cares deeply for her friends. Strong vs Floating, with Long-Range Slow Area atks.",
+                    "From Madoka Magica The Movie -Rebellion-! Loyal Magical Girl bearing a tremendous power. Strong vs Floating, with Long-Range Slow Area atks.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mobius",
                     "Miraculous Mobius",
                     ""
