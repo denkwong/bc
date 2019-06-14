@@ -9001,6 +9001,38 @@
             },
             {
                 "name": [
+                    "Homura Akemi",
+                    "Homura & Cat",
+                    ""
+                ],
+                "cost": [
+                    4470,
+                    4470,
+                    null
+                ],
+                "ability": [
+                    "Witch Killer, Area Attack",
+                    "Witch Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! A cool-headed and mysterious Magical Girl. Area attacks might Freeze Black enemies",
+                    "From Madoka Magica The Movie -Rebellion-! A Magical Girl who can command time itself. Area attacks might Freeze Black enemies",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mami Tomoe",
                     "Mami & Cat",
                     ""
