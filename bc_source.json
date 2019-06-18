@@ -6411,32 +6411,32 @@
                 "name": [
                     "Little Leaguer Cat",
                     "Major Leaguer Cat",
-                    ""
+                    "Golfer Cat"
                 ],
                 "cost": [
                     1200,
                     1200,
-                    null
+                    1200
                 ],
                 "ability": [
                     "Area Attack, Long Distance",
                     "Barrier Breaker, Area Attack, Long Distance",
-                    ""
+                    "Barrier Breaker, Area Attack, Long Distance"
                 ],
                 "target": [
                     "Alien",
                     "Alien",
-                    ""
+                    "Alien"
                 ],
                 "effect": [
                     "Resistant",
                     "Resistant",
-                    ""
+                    "Resistant"
                 ],
                 "description": [
                     "Young, but full of raw potential. Recruited straight from Tee-Ball to the local champs. Resistant to Aliens, Long-Range/Area Atks.",
                     "This team legend is now too chubby to run, but his batting average is out of this world. Resists Aliens, might break barriers, Long-range.",
-                    ""
+                    "Hole-in-One king of the local park. Interesting fairway technique inspired by his past career. Resists Aliens, might break barriers, Long-range."
                 ]
             },
             {
