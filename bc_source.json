@@ -1125,6 +1125,38 @@
             },
             {
                 "name": [
+                    "Li'l Homura",
+                    "Li'l Magical Girl Homura",
+                    "Li'l Devil Homura"
+                ],
+                "cost": [
+                    450,
+                    450,
+                    450
+                ],
+                "ability": [
+                    "Witch Killer, Single Attack",
+                    "Witch Killer, Area Attack",
+                    "Witch Killer, Area Attack"
+                ],
+                "target": [
+                    "",
+                    "",
+                    "Black"
+                ],
+                "effect": [
+                    "",
+                    "",
+                    "Weaken"
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! A young girl with an indomitable will.",
+                    "From Madoka Magica The Movie -Rebellion-! She will continue fighting until Walpurgisnacht is defeated, at any cost. (Area Attack)",
+                    "From Madoka Magica The Movie -Rebellion-! She will relentlessly consume all things holy. Area attacks might Weaken Black enemies."
+                ]
+            },
+            {
+                "name": [
                     "CPAC",
                     "PPAP",
                     ""
@@ -4135,6 +4167,230 @@
             },
             {
                 "name": [
+                    "Li'l Madoka",
+                    "Li'l Magical Girl Madoka",
+                    "Li'l Ultimate Madoka"
+                ],
+                "cost": [
+                    450,
+                    450,
+                    450
+                ],
+                "ability": [
+                    "Witch Killer, Single Attack",
+                    "Witch Killer, Single Attack, Long Distance",
+                    "Witch Killer, Area Attack, Long Distance"
+                ],
+                "target": [
+                    "",
+                    "Floating",
+                    "Floating"
+                ],
+                "effect": [
+                    "",
+                    "Massive Damage",
+                    "Massive Damage"
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! A girl with vast potential hiding in her tiny body.",
+                    "From Madoka Magica The Movie -Rebellion-! Bears the true power of a Magical Girl within her. Massive Long-range damage vs. Floating.",
+                    "From Madoka Magica The Movie -Rebellion-! Can alter the laws of time and space with her gift! Massive Long-range damage vs. Floating."
+                ]
+            },
+            {
+                "name": [
+                    "Kyubey Cat",
+                    "Tank Kyubey Cat",
+                    ""
+                ],
+                "cost": [
+                    90,
+                    180,
+                    null
+                ],
+                "ability": [
+                    "Survive, Single Attack",
+                    "Survive, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "A ruthless Cat wearing a cute animal costume. Seeking girls who have a wish they want granted. Might Survive a lethal attack.",
+                    "A ruthless Cat wearing a cute animal costume. Evolved for improved stylishness and adorability. Might Survive a lethal attack.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Madoka Cat",
+                    "Magical Girl Madoka Cat",
+                    ""
+                ],
+                "cost": [
+                    630,
+                    630,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Slow",
+                    "Slow",
+                    ""
+                ],
+                "description": [
+                    "A kind-hearted Cat who admires Magical Girls. She will do anything to help her friends. Might Slow Floating enemies.",
+                    "This Magical Cat made a contract with a suspicious white creature. Uses her powers only to help others. Might Slow Floating enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Homura Cat",
+                    "Magical Girl Homura Cat",
+                    ""
+                ],
+                "cost": [
+                    660,
+                    660,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "A Cat who admires cool and mysterious Magical Girls. She's still too excitable to pull it off though... Might Freeze lack enemies.",
+                    "The Magical Cat made a contract with a suspicious white creature. Don't be intimidated by her toy gun. Might Freeze Black enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Sayaka Cat",
+                    "Magical Girl Sayaka Cat",
+                    ""
+                ],
+                "cost": [
+                    600,
+                    600,
+                    null
+                ],
+                "ability": [
+                    "Strengthen, Single Attack",
+                    "Strengthen, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "A guileless Cat who admires Magical Girls. Visits her sick friend every day without fail. Grows stronger after taking damage!",
+                    "This Magical Cat made a contract with a suspicious white creature. Wields a magically summoned sword. Grows stronger after taking damage!",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Mami Cat",
+                    "Magical Girl Mami Cat",
+                    ""
+                ],
+                "cost": [
+                    645,
+                    645,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "A wise guardian Cat who admires Magical Girls. Gets excited whenever she sees a pretty ribbon. Delivers massive damage to Angels.",
+                    "This Magical Cat made a contract with a suspicious white creature. Gets dizzy after using Tiro Finale. Delivers massive damage to Angels.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Kyoko Cat",
+                    "Magical Girl Kyoko Cat",
+                    ""
+                ],
+                "cost": [
+                    615,
+                    615,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "A Cat who admires Magical Girls with endless appetite. Don't waste good food or you'll get it! Might Weaken Red enemies.",
+                    "This Magical Cat made a contract with a suspicious white creature. Made her spear in shop class. Might Weaken Red enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "PIKOTARO",
                     "NEKOTARO",
                     ""
@@ -6123,17 +6379,17 @@
                 "name": [
                     "Express Cat",
                     "Maglev Cat",
-                    ""
+                    "Bullet Train Cat"
                 ],
                 "cost": [
                     750,
                     750,
-                    null
+                    750
                 ],
                 "ability": [
                     "Extra Money, Single Attack",
                     "Extra Money, Single Attack",
-                    ""
+                    "Extra Money, Single Attack"
                 ],
                 "target": [
                     "",
@@ -6148,39 +6404,39 @@
                 "description": [
                     "1-car train with a max speed of 222kph 120% of seats were filled today. Extra money when defeating enemies!",
                     "222-Cat seater with a max speed of 2222kph, a blessing for all Cat commuters. Extra money when defeating enemies!",
-                    ""
+                    "Can take a maximum of 2222 passengers on a round-the-world journey at 20,000,000 km/h Extra money when defeating enemies!"
                 ]
             },
             {
                 "name": [
                     "Little Leaguer Cat",
                     "Major Leaguer Cat",
-                    ""
+                    "Golfer Cat"
                 ],
                 "cost": [
                     1200,
                     1200,
-                    null
+                    1200
                 ],
                 "ability": [
                     "Area Attack, Long Distance",
                     "Barrier Breaker, Area Attack, Long Distance",
-                    ""
+                    "Barrier Breaker, Area Attack, Long Distance"
                 ],
                 "target": [
                     "Alien",
                     "Alien",
-                    ""
+                    "Alien"
                 ],
                 "effect": [
                     "Resistant",
                     "Resistant",
-                    ""
+                    "Resistant"
                 ],
                 "description": [
                     "Young, but full of raw potential. Recruited straight from Tee-Ball to the local champs. Resistant to Aliens, Long-Range/Area Atks.",
                     "This team legend is now too chubby to run, but his batting average is out of this world. Resists Aliens, might break barriers, Long-range.",
-                    ""
+                    "Hole-in-One king of the local park. Interesting fairway technique inspired by his past career. Resists Aliens, might break barriers, Long-range."
                 ]
             },
             {
@@ -6308,6 +6564,38 @@
                 "description": [
                     "Recruited from Metal Slug Defense! Feared by allies and foes alike as the \"Demon Sergeant\" Survives one lethal strike.",
                     "Recruited from Metal Slug Defense! Shirtless even in subzero temperatures. Survives one lethal strike.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Kyubey",
+                    "Kyubey & Cat",
+                    ""
+                ],
+                "cost": [
+                    660,
+                    660,
+                    null
+                ],
+                "ability": [
+                    "Survive, Single Attack",
+                    "Survive, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! Make a contract with him and your wish will come true. Tough vs. Aliens, might Survive a lethal attack",
+                    "From Madoka Magica The Movie -Rebellion-! He seeks pure-hearted girls dreaming of a miracle. Tough vs. Aliens, might Survive a lethal attack",
                     ""
                 ]
             },
@@ -7595,32 +7883,32 @@
                 "name": [
                     "Ganglion",
                     "Ganglion the Ancient",
-                    ""
+                    "Ganglion the Unleashed"
                 ],
                 "cost": [
                     5400,
                     5400,
-                    null
+                    5400
                 ],
                 "ability": [
                     "Zombie Killer, Area Attack, Long Distance",
                     "Zombie Killer, Area Attack, Long Distance",
-                    ""
+                    "Zombie Killer, Area Attack, Long Distance"
                 ],
                 "target": [
                     "Alien, Zombie",
-                    "",
-                    ""
+                    "Alien, Zombie",
+                    "Alien, Zombie"
                 ],
                 "effect": [
                     "Strong Against",
-                    "",
-                    ""
+                    "Strong Against",
+                    "Strong Against"
                 ],
                 "description": [
                     "First emperor and founder of the Dragon dynasty. Who knows what overwhelming power he holds? Long-range attacks, strong vs Aliens and Zombies.",
                     "Has cultivated his strength for millennia, only growing ever more powerful in his old age. Long-range attacks, strong vs Aliens and Zombies.",
-                    ""
+                    "An unholy relic has undone the seals that kept his true might in check. Resist and meet your doom. Long-range attacks, strong vs Aliens and Zombies."
                 ]
             },
             {
@@ -8587,32 +8875,32 @@
                 "name": [
                     "Aer",
                     "Erphuan",
-                    ""
+                    "Aervanta"
                 ],
                 "cost": [
                     1080,
                     3930,
-                    null
+                    3930
                 ],
                 "ability": [
                     "Warp Blocker, Area Attack, Long Distance",
                     "Barrier Breaker, Warp Blocker, Area Attack, Long Distance",
-                    ""
+                    "Barrier Breaker, Warp Blocker, Area Attack, Long Distance"
                 ],
                 "target": [
                     "",
                     "Alien",
-                    ""
+                    "Alien"
                 ],
                 "effect": [
                     "",
                     "Resistant",
-                    ""
+                    "Resistant"
                 ],
                 "description": [
                     "Cosmic storms, brought to life! This sylph spirit summons winds for long distance area attacks!",
                     "With winds that blast away the mountains, no Barrier can stand against its assaults. Tough, with long-range area attacks vs Aliens.",
-                    ""
+                    "Calling forth raging solar winds, can annihilate even a mighty nebula with the slightest of efforts. Tough, with long-range area attacks vs Aliens."
                 ]
             },
             {
@@ -8676,6 +8964,198 @@
                 "description": [
                     "Dropping in from \"Survive! Mola Mola!\" His size is almost without equal, and so is his royal arrogance. (Area Attack)",
                     "Bears the burden of a watery destiny, Regrets? A good long scream can take care of doubt and worries! (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Madoka Kaname",
+                    "Madoka & Cat",
+                    ""
+                ],
+                "cost": [
+                    4350,
+                    4350,
+                    null
+                ],
+                "ability": [
+                    "Witch Killer, Area Attack, Long Distance",
+                    "Witch Killer, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Slow, Strong Against",
+                    "Slow, Strong Against",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! A sweet girl who cares deeply for her friends. Strong vs Floating, with Long-Range Slow Area atks.",
+                    "From Madoka Magica The Movie -Rebellion-! Loyal Magical Girl bearing a tremendous power. Strong vs Floating, with Long-Range Slow Area atks.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Homura Akemi",
+                    "Homura & Cat",
+                    ""
+                ],
+                "cost": [
+                    4470,
+                    4470,
+                    null
+                ],
+                "ability": [
+                    "Witch Killer, Area Attack",
+                    "Witch Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! A cool-headed and mysterious Magical Girl. Area attacks might Freeze Black enemies",
+                    "From Madoka Magica The Movie -Rebellion-! A Magical Girl who can command time itself. Area attacks might Freeze Black enemies",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Sayaka Miki",
+                    "Sayaka & Cat",
+                    ""
+                ],
+                "cost": [
+                    4230,
+                    4230,
+                    null
+                ],
+                "ability": [
+                    "Strengthen, Survive, Witch Killer, Area Attack",
+                    "Strengthen, Survive, Witch Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! Practical Magical Girl, deals with trouble directly. Survives once, Area Atk power grows after damage!",
+                    "From Madoka Magica The Movie -Rebellion-! Made a healing wish as part of her contract. Survives once, Area Atk power grows after damage!",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Mami Tomoe",
+                    "Mami & Cat",
+                    ""
+                ],
+                "cost": [
+                    4410,
+                    4410,
+                    null
+                ],
+                "ability": [
+                    "Witch Killer, Area Attack, Long Distance",
+                    "Witch Killer, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! Veteran Magical Girl who watches over rookies. Massive Long-Range Area damage vs. Angels.",
+                    "From Madoka Magica The Movie -Rebellion-! Magical Girl who endures painful loneliness. Massive Long-Range Area damage vs. Angels.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Kyoko Sakura",
+                    "Kyoko & Cat",
+                    ""
+                ],
+                "cost": [
+                    4290,
+                    4290,
+                    null
+                ],
+                "ability": [
+                    "Witch Killer, Area Attack",
+                    "Witch Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Weaken, Knockback",
+                    "Weaken, Knockback",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! Selfish Magical Girl, doesn't mind collateral damage. Area attacks might Weaken and Knockback Red.",
+                    "From Madoka Magica The Movie -Rebellion-! This Magical Girl won't forgive those who waste food. Area attacks might Weaken and Knockback Red.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Bebe",
+                    "Nagisa & Cat",
+                    ""
+                ],
+                "cost": [
+                    1200,
+                    3900,
+                    null
+                ],
+                "ability": [
+                    "Witch Killer, Zombie Killer, Warp Blocker, Area Attack",
+                    "Witch Killer, Zombie Killer, Warp Blocker, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien, Zombie",
+                    "Alien, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "From Madoka Magica The Movie -Rebellion-! Mami's adorable, cheese-loving partner. Area attacks Weaken Aliens and Zombies.",
+                    "From Madoka Magica The Movie -Rebellion-! New Magical Girl who appears before Madoka. Area attacks Weaken Aliens and Zombies.",
                     ""
                 ]
             },
@@ -9003,32 +9483,32 @@
                 "name": [
                     "Eva Unit-02",
                     "Eva Unit-02 & Cat",
-                    ""
+                    "Unit-02, Code 777"
                 ],
                 "cost": [
                     4500,
                     4500,
-                    null
+                    4500
                 ],
                 "ability": [
                     "Eva Angel Killer, Area Attack, Long Distance",
                     "Eva Angel Killer, Area Attack, Long Distance",
-                    ""
+                    "Strengthen, Eva Angel Killer, Area Attack, Long Distance"
                 ],
                 "target": [
                     "Red",
                     "Red",
-                    ""
+                    "Red"
                 ],
                 "effect": [
                     "Massive Damage",
                     "Massive Damage",
-                    ""
+                    "Massive Damage"
                 ],
                 "description": [
                     "Recruited from Evangelion! The Evangelion production model. Massive Long-Range/Area damage vs Red",
                     "Recruited from Evangelion! The true Evangelion, or so says the pilot. Massive Long-Range/Area damage vs Red",
-                    ""
+                    "Recruited from Evangelion! Eva 02's beast form, activated with a backdoor code. Massive Long-range Area damage vs Red, grows stronger after damage."
                 ]
             },
             {
@@ -9636,6 +10116,38 @@
                 "description": [
                     "Like a widow mourning her lost love, she is trapped within her memories. (Long Range Atk) Tough vs traitless, 100% Slow/Weaken chance.",
                     "Mitama has been betrayed by this cruel world and has embraced darkness. (Long Range Atk) Tough vs traitless enemies, 100% Slow chance.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "D'artanyan",
+                    "Meow-sketeer",
+                    ""
+                ],
+                "cost": [
+                    810,
+                    4350,
+                    null
+                ],
+                "ability": [
+                    "Area Attack, Long Distance",
+                    "Unharmed by Waves, Warp Blocker, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "A spunky young soldier with a lot to prove. But even he doesn't know his own strength. Extra damage to any traited enemy. (Long Range)",
+                    "With his razor-sharp blade and unbreakable spirit, he'll risk it all to protect his comrades. Extra damage to any traited enemy. (Long Range)",
                     ""
                 ]
             },
