@@ -7559,7 +7559,40 @@
                     "Crushes on any skier who is nice to her. Falling in love, or just slipping on ice? Resistant to Aliens/Angels. (Area Atk.)",
                     ""
                 ]
-            },            {
+            },
+            {
+                "name": [
+                    "Seashore Kai",
+                    "Seashore Kai, type u",
+                    ""
+                ],
+                "cost": [
+                    3990,
+                    3990,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack",
+                    "Zombie Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Black, Zombie",
+                    "Black, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "She's actually terrified of water, but Kalisa dragged her to the beach for the first time in years. Super tough vs Black/Zombies (Area Attack)",
+                    "Slowly growing more comfortable with the bikini look. Is today the day she finds her cute surfer boy? Super tough vs Black/Zombies (Area Attack)",
+                    ""
+                ]
+            },
+            {
                 "name": [
                     "Coppermine",
                     "Coppermine, type k",
