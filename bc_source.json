@@ -5289,6 +5289,38 @@
             },
             {
                 "name": [
+                    "Sunny Neneko",
+                    "Seaside Neneko",
+                    ""
+                ],
+                "cost": [
+                    148,
+                    148,
+                    null
+                ],
+                "ability": [
+                    "Critical, Single Attack",
+                    "Critical, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "This year, she'll definitely take the gold medal at the swim tournament, even though she won't take the gloves off. 100% Critical attack chance.",
+                    "Everyone's favorite pure idol is ready to overcome her anxiety of being seen in a swimsuit. You can do it, Neneko! 100% Critical attack chance.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Years-End Neneko",
                     "New Year Neneko",
                     ""
