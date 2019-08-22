@@ -7690,6 +7690,38 @@
             },
             {
                 "name": [
+                    "Seabreeze Coppermine",
+                    "Seabreeze Coppermine k",
+                    ""
+                ],
+                "cost": [
+                    3720,
+                    3720,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red, Black, Metal",
+                    "Red, Black, Metal",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "A cool beauty who gained command of her own ship! Now she just has to keep Cats from sinking it. Might freeze Red, Black or Metal enemies!",
+                    "Her Cat crew's recommendation earned her another tour of duty. Ah, nothing like a lovely sunset with a Cat. Might freeze Red, Black or Metal enemies!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Kalisa",
                     "Kalisa, type X",
                     "Divine Kalisa"
