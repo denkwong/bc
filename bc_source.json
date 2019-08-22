@@ -7498,6 +7498,38 @@
             },
             {
                 "name": [
+                    "Waverider Kuu",
+                    "Waverider Kuu y",
+                    ""
+                ],
+                "cost": [
+                    4200,
+                    4200,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack",
+                    "Zombie Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating, Zombie",
+                    "Floating, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "A fiery lass who runs a tiki bar by the sea. Boys at the beach don't seem to mind her abuse too much? Strong vs. Zombies/Floating (Area Atk)",
+                    "A rowdy beach babe who keeps the seaside bullies in check by patrolling on her custom speedboard. Strong vs. Zombies/Floating (Area Atk)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Kai",
                     "Kai, type u",
                     "Divine Kai"
