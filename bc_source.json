@@ -1509,6 +1509,38 @@
             },
             {
                 "name": [
+                    "Shakurel Cat",
+                    "Shakurel Macho Cat",
+                    ""
+                ],
+                "cost": [
+                    120,
+                    120,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "With extinction looming, this Cat will survive by evolving a mightier jaw.",
+                    "Sometimes a jaw isn't enough? Get swole for MORE POWER!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Li'l Cat",
                     "Li'l Macho Cat",
                     "Li'l Mohawk Cat"
