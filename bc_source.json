@@ -9834,6 +9834,38 @@
             },
             {
                 "name": [
+                    "Wolfchild Deale",
+                    "Wolf Princess Deale",
+                    ""
+                ],
+                "cost": [
+                    4620,
+                    4620,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel, Alien",
+                    "Angel, Alien",
+                    ""
+                ],
+                "effect": [
+                    "Knockback",
+                    "Knockback",
+                    ""
+                ],
+                "description": [
+                    "A lost cub from a mighty werewolf pack who found her calling in show business. Might knockback Angels & Aliens (Area Atk)",
+                    "The one-wolf show has revealed her true colors to universal acclaim. Are you not entertained?? Might knockback Angels & Aliens (Area Atk)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Nekoluga",
                     "Unknown Cat",
                     "Ultralan Pasalan"
