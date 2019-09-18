@@ -9802,6 +9802,38 @@
             },
             {
                 "name": [
+                    "Queen Reika",
+                    "Pharoah Reika",
+                    ""
+                ],
+                "cost": [
+                    4980,
+                    4980,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack",
+                    "Zombie Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien, Zombie",
+                    "Alien, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "A royal mummy from a mystic past. Actually, she mummified herself by over-applying foundation. Massive damage vs Aliens/Zombies (Area Atk)",
+                    "She may have died from it, but overdoing makeup keeps her looking stunning even 5000 years later. Massive damage vs Aliens/Zombies (Area Atk)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Nekoluga",
                     "Unknown Cat",
                     "Ultralan Pasalan"
