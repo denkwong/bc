@@ -9866,6 +9866,38 @@
             },
             {
                 "name": [
+                    "Graveflower Verbena",
+                    "Verbena the Bride",
+                    ""
+                ],
+                "cost": [
+                    3750,
+                    3750,
+                    null
+                ],
+                "ability": [
+                    "Critical, Area Attack",
+                    "Critical, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "A lost soul who came home from the other side. Hunting for a groom to fill her heart... or her stomach. Might deliver critical strikes (Area Attacks)",
+                    "Her hunger sated, she now looks forward to the wedding day of her undead dreams. Might deliver critical strikes (Area Attacks)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Nekoluga",
                     "Unknown Cat",
                     "Ultralan Pasalan"
