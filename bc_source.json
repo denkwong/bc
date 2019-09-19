@@ -3881,17 +3881,17 @@
                 "name": [
                     "Glass Cat",
                     "Macho Glass Cat",
-                    ""
+                    "Macho Crystal Cat"
                 ],
                 "cost": [
                     450,
                     450,
-                    null
+                    450
                 ],
                 "ability": [
                     "Metal, Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Single Attack",
                     "Metal, Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Single Attack",
-                    ""
+                    "Metal, Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Single Attack"
                 ],
                 "target": [
                     "",
@@ -3901,12 +3901,12 @@
                 "effect": [
                     "Slow",
                     "Slow",
-                    ""
+                    "Slow, Knockback"
                 ],
                 "description": [
                     "Made of fragile stuff, but his heart is sturdy! You only get once chance at life, so go for it! Only attacks once, slows traitless enemies.",
                     "Made using slightly more durable glass, but it still doesn't have much effect on the battlefield. Only attacks once, slows traitless enemies.",
-                    ""
+                    "His body has been perfectly polished to shine eternally. Lets live forever in radiant glory! Knockback/Slow vs Traitless (Single Attack)"
                 ]
             },
             {
