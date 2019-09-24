@@ -1317,6 +1317,38 @@
             },
             {
                 "name": [
+                    "Coin Cat",
+                    "Macho Coin Cat",
+                    ""
+                ],
+                "cost": [
+                    75,
+                    75,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "An invaluable collectors item! Only 9 billion were produced!",
+                    "A memorial item imbued with Cat gratitude. Every third Coin Cat earns you... another Coin Cat.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Farmer Cat",
                     "Harvest Cat",
                     ""
