@@ -10186,6 +10186,38 @@
             },
             {
                 "name": [
+                    "Li'l Valkyrie Dark",
+                    "Dark Rider Valkyrie",
+                    ""
+                ],
+                "cost": [
+                    4200,
+                    4200,
+                    null
+                ],
+                "ability": [
+                    "Wave Attack, Unharmed by Waves, Area Attack",
+                    "Wave Attack, Unharmed by Waves, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Valkyrie's younger sister, marked by the darkness. Valhalla's agent, smiting evil from within the abyss! Blocks enemy Waves! Strikes with Wave Attacks!",
+                    "Valkyrie's youngest sister, a fearsome bounty hunter. Rides with her posse to subdue agents of evil. Blocks enemy Waves! Strikes with Wave Attacks!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Pai-Pai",
                     "Pai-Pai Z",
                     ""
