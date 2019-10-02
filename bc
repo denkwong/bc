@@ -130,6 +130,7 @@ if __name__ == "__main__":
     parser.add_argument("--description", "-d", help="Search by description")
     parser.add_argument("--effect", "-e", help="Search by effect")
     parser.add_argument("--form", "-f", help="Search by form")
+    parser.add_argument("--list", "-l", action="store_true", help="List all cats all forms with rarity")
     parser.add_argument("--name", "-n", help="Search by name")
     parser.add_argument("--rarity", "-r", help="Search by rarity")
     parser.add_argument("--target", "-t", help="Search by target")
@@ -169,6 +170,8 @@ if __name__ == "__main__":
         if args.form:
             cats = bc.find_form(args.form, cats)
             logger.debug("Cat count after form = {0}".format(len(cats)))
+        if args.list:
+            bc.list_cats()
     except InputError:
         exit(1)
 

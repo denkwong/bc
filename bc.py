@@ -210,6 +210,23 @@ class Bc:
                 result.append(cat)
         return result
 
+    def list_cats(self):
+        """
+        Print list of cat names with rarity (n), (sp), (r), (sr), (u)
+        :return: None
+        """
+        rarity_map = {
+            "Normal": "n",
+            "Special": "sp",
+            "Rare": "r",
+            "Super": "sr",
+            "Uber": "u"
+         }
+        for cat in self.cats:
+            rarity = cat.get_rarity()
+            name = cat.get_name()
+            print("{0} ({1})".format(name, rarity_map[rarity]))
+
     def load_cats(self):
         """
         read cats from bc.json, create Cat objects and load them into self.cats.
