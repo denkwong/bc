@@ -7402,6 +7402,38 @@
             },
             {
                 "name": [
+                    "Narita Kaihime",
+                    "Wargod Kaihime",
+                    ""
+                ],
+                "cost": [
+                    5250,
+                    5250,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Savage Blow, Area Attack",
+                    "Zombie Killer, Savage Blow, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Black, Zombie",
+                    "Black, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Slow",
+                    "Slow",
+                    ""
+                ],
+                "description": [
+                    "This stunning warrior has been blessed with an invincible blade and a resolute body. Slows Black/Zombies, might strike Savage blows.",
+                    "Incomparable beauty who mercilessly destroys foes while maintaining perfect composure in battle. Slows Black/Zombies, might strike Savage blows.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Windy",
                     "Windy, type a",
                     "Divine Windy"
