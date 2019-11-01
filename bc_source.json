@@ -5156,6 +5156,38 @@
                     "Joining the fight from Betakkuma! Changed colors after training by an assassin's guild.. Might knockback Aliens.",
                     ""
                 ]
+            },
+            {
+                "name": [
+                    "Ryu Cat",
+                    "Ryu Cat CC",
+                    ""
+                ],
+                "cost": [
+                    675,
+                    675,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "A Cat endlessly training to fight the strongest warriors. Sadly, none seem to be around now. Might Freeze Black enemies.",
+                    "I hoped to meet one warrior stronger than me. Sadly, everyone seems to fit that description. Might Freeze Black enemies.",
+                    ""
+                ]
             }
         ],
         "super": [
