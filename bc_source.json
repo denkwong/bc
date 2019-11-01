@@ -9900,32 +9900,32 @@
                 "name": [
                     "Sea Maiden Ruri",
                     "Sea Mistress Ruri",
-                    ""
+                    "Mer-Queen Ruri"
                 ],
                 "cost": [
                     4260,
                     4260,
-                    null
+                    4260
                 ],
                 "ability": [
                     "Single Attack",
                     "Single Attack",
-                    ""
+                    "Single Attack"
                 ],
                 "target": [
                     "Red",
                     "Red",
-                    ""
+                    "Red"
                 ],
                 "effect": [
                     "Weaken, Resistant",
                     "Weaken, Resistant",
-                    ""
+                    "Weaken, Resistant"
                 ],
                 "description": [
                     "A mermaid NEET from the mystic seas. Dreams of cute boys who'd risk drowning to date her. Tough vs Red, weakens enemies.",
                     "True love has granted her feet to walk beside her dearest, but now all she wants is time to play video games. Tough vs Red, weakens enemies.",
-                    ""
+                    "Built a undersea palace hoping her crush will drop by. Until he grows gills, it's just her top-class gamer den. Tough vs Red, with 100% Weaken chance."
                 ]
             },
             {
