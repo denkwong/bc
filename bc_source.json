@@ -1573,6 +1573,38 @@
             },
             {
                 "name": [
+                    "Chun-Li Cat",
+                    "Chun-Li Cat CC",
+                    ""
+                ],
+                "cost": [
+                    600,
+                    600,
+                    null
+                ],
+                "ability": [
+                    "Critical, Single Attack",
+                    "Critical, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "A Cat who seems to have stuck buns in her hair. Trying to learn the Spinning Bird Kick. Small chance of Critical.",
+                    "Beautiful Cat working for the ICPO. Mesmerizing kicks stun her opponents. Small chance of Critical.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Li'l Cat",
                     "Li'l Macho Cat",
                     "Li'l Mohawk Cat"
