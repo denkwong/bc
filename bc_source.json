@@ -10090,6 +10090,38 @@
             },
             {
                 "name": [
+                    "Zangief",
+                    "Zangief CC",
+                    ""
+                ],
+                "cost": [
+                    4200,
+                    4200,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Immune to Slow, Immune to Knockback, Area Attack, Omni Strike",
+                    "Zombie Killer, Immune to Slow, Immune to Knockback, Area Attack, Omni Strike",
+                    ""
+                ],
+                "target": [
+                    "Zombie",
+                    "Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Dodge Attack",
+                    "Dodge Attack",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Street Fighter V AE! A towering wrestler called \"Red Cyclone\". Omnistrike, might avoid Zombie damage",
+                    "Joining the fight from Street Fighter V AE! Submit to the force of his Cyclone Lariat! Omnistrike, might avoid Zombie damage",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
