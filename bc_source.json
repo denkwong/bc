@@ -10186,6 +10186,38 @@
             },
             {
                 "name": [
+                    "Ken",
+                    "Ken CC",
+                    ""
+                ],
+                "cost": [
+                    3600,
+                    3600,
+                    null
+                ],
+                "ability": [
+                    "Area Attack, Omni Strike",
+                    "Area Attack, Omni Strike",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Angel",
+                    "Red, Floating, Angel",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against, Knockback",
+                    "Strong Against, Knockback",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Street Fighter V AE! Like a brother to Ryu, and his greatest rival. Knockback/Strong vs Red, Floating, Angels (Omni)",
+                    "Joining the fight from Street Fighter V AE! Ryu's ultimate rival, master of the Shoryuken. Knockback/Strong vs Red, Floating, Angels (Omni)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
