@@ -10026,6 +10026,38 @@
             },
             {
                 "name": [
+                    "Chun-Li",
+                    "Chun-Li CC",
+                    ""
+                ],
+                "cost": [
+                    3450,
+                    3450,
+                    null
+                ],
+                "ability": [
+                    "Knockback",
+                    "Knockback",
+                    ""
+                ],
+                "target": [
+                    "Red, Black, Alien",
+                    "Red, Black, Alien",
+                    ""
+                ],
+                "effect": [
+                    "Knockback",
+                    "Knockback",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Street Fighter V AE! ICPO agent searching for her lost father. Might Knockback Red, Black, and Aliens.",
+                    "Joining the fight from Street Fighter V AE! Can you withstand her lightning kicks? Might Knockback Red, Black, and Aliens.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
