@@ -10154,6 +10154,38 @@
             },
             {
                 "name": [
+                    "Dhalsim",
+                    "Dhalsim CC",
+                    ""
+                ],
+                "cost": [
+                    3750,
+                    3750,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Street Fighter V AE! Mystic who has mastered the arts of yoga. 100% Weaken vs Traitless (Area Attack)",
+                    "Joining the fight from Street Fighter V AE! Calls upon Agni to command holy fires. 100% Weaken vs Traitless (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
