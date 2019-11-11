@@ -10036,8 +10036,8 @@
                     null
                 ],
                 "ability": [
-                    "Knockback",
-                    "Knockback",
+                    "Single Attack",
+                    "Single Attack",
                     ""
                 ],
                 "target": [
@@ -10053,6 +10053,38 @@
                 "description": [
                     "Joining the fight from Street Fighter V AE! ICPO agent searching for her lost father. Might Knockback Red, Black, and Aliens.",
                     "Joining the fight from Street Fighter V AE! Can you withstand her lightning kicks? Might Knockback Red, Black, and Aliens.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Guile",
+                    "Guile CC",
+                    ""
+                ],
+                "cost": [
+                    4200,
+                    4200,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Weaken, Slow, Resistant",
+                    "Weaken, Slow, Resistant",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Street Fighter V AE! Hardened soldier seeking peace for his home. Tough vs Floating, 100% Slow/Weaken",
+                    "Joining the fight from Street Fighter V AE! Crush villains with a Somersault Kick! Tough vs Floating, 100% Slow/Weaken",
                     ""
                 ]
             },
