@@ -9962,6 +9962,38 @@
             },
             {
                 "name": [
+                    "AAA Wunder",
+                    "NNN Wunder",
+                    ""
+                ],
+                "cost": [
+                    5025,
+                    5025,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack",
+                    "Zombie Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel, Zombie",
+                    "Angel, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Cats have taken over WILLE's flagship! Seems they respected the original design and avoided customizing it. Massive Area damage vs. Angels and Zombies.",
+                    "Cat-powered airship built to overthrow NERV. A terrifying weapon staffed by capricious Cats... Massive Area damage vs. Angels and Zombies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
