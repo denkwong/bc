@@ -9994,6 +9994,38 @@
             },
             {
                 "name": [
+                    "Ryu",
+                    "Ryu CC",
+                    ""
+                ],
+                "cost": [
+                    3750,
+                    3750,
+                    null
+                ],
+                "ability": [
+                    "Savage Blow, Area Attack",
+                    "Savage Blow, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Street Fighter V AE! A hero walking the path of a true fighter. Chance to deliver a Savage Blow (Area Attack)",
+                    "Joining the fight from Street Fighter V AE! Seeking a rival who will finally test his skills. Chance to deliver a Savage Blow (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
