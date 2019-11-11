@@ -10122,6 +10122,38 @@
             },
             {
                 "name": [
+                    "Blanka",
+                    "Blanka CC",
+                    ""
+                ],
+                "cost": [
+                    3300,
+                    3300,
+                    null
+                ],
+                "ability": [
+                    "Barrier Breaker, Area Attack, Omni Strike",
+                    "Barrier Breaker, Area Attack, Omni Strike",
+                    ""
+                ],
+                "target": [
+                    "Alien",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Street Fighter V AE! Gentle defender of the Amazon forests. Massive Omnistrike damage vs Aliens",
+                    "Joining the fight from Street Fighter V AE! Strikes with a chaotic Rolling Attack! Massive Omnistrike damage vs Aliens",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
