@@ -3977,17 +3977,17 @@
                 "name": [
                     "Lone Cat and Kitten",
                     "Vendor Cat and Kitten",
-                    ""
+                    "Tourist Cat"
                 ],
                 "cost": [
                     810,
                     810,
-                    null
+                    810
                 ],
                 "ability": [
-                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Warp Blocker, Single Attack",
-                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Warp Blocker, Single Attack",
-                    ""
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Warp Blocker, Single Attack",
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Warp Blocker, Single Attack",
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Warp Blocker, Single Attack"
                 ],
                 "target": [
                     "",
@@ -3997,12 +3997,12 @@
                 "effect": [
                     "Freeze, Resistant, Knockback",
                     "Freeze, Resistant, Knockback",
-                    ""
+                    "Freeze, Resistant, Knockback"
                 ],
                 "description": [
                     "Master assassin who wanders the park with his cheeky child seeking vengeance against litterers. Tough + knockback + freeze vs Traitless.",
                     "Lone Cat is sick in bed, so naughty Kitten is helping mama while she sells drinks on the train. Tough + knockback + freeze vs Traitless.",
-                    ""
+                    "Papa and kitten are on a well-deserved tropical getaway. Saved on airfare by packing away baby. Tough + knockback + freeze vs Traitless."
                 ]
             },
             {
