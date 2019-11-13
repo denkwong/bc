@@ -337,7 +337,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Knockback, Area Attack"
+                    "Immune to Knockback, Area Attack"
                 ],
                 "target": [
                     "",
@@ -561,7 +561,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Weaken, Area Attack"
+                    "Immune to Weaken, Area Attack"
                 ],
                 "target": [
                     "",
@@ -1233,7 +1233,7 @@
                 "ability": [
                     "Single Attack",
                     "Single Attack",
-                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Resist Curse, Single Attack"
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Immune to Curse, Single Attack"
                 ],
                 "target": [
                     "Floating",
@@ -1649,7 +1649,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Freeze, Area Attack"
+                    "Immune to Freeze, Area Attack"
                 ],
                 "target": [
                     "",
@@ -1745,7 +1745,7 @@
                 "ability": [
                     "Single Attack",
                     "Single Attack",
-                    "Unharmed by Waves, Single Attack"
+                    "Immune to Waves, Single Attack"
                 ],
                 "target": [
                     "",
@@ -2033,7 +2033,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Curse, Area Attack"
+                    "Immune to Curse, Area Attack"
                 ],
                 "target": [
                     "Red, Floating, Black, Angel, Alien, Zombie, Relic",
@@ -2065,7 +2065,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Curse, Area Attack"
+                    "Immune to Curse, Area Attack"
                 ],
                 "target": [
                     "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
@@ -2097,7 +2097,7 @@
                 "ability": [
                     "Area Attack, Long Distance",
                     "Area Attack, Long Distance",
-                    "Resist Curse, Area Attack, Long Distance"
+                    "Immune to Curse, Area Attack, Long Distance"
                 ],
                 "target": [
                     "",
@@ -2127,9 +2127,9 @@
                     4800
                 ],
                 "ability": [
-                    "Unharmed by Waves, Area Attack",
-                    "Unharmed by Waves, Area Attack",
-                    "Zombie Killer, Unharmed by Waves, Resist Curse, Area Attack"
+                    "Immune to Waves, Area Attack",
+                    "Immune to Waves, Area Attack",
+                    "Zombie Killer, Immune to Waves, Immune to Curse, Area Attack"
                 ],
                 "target": [
                     "",
@@ -2161,7 +2161,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Curse, Area Attack"
+                    "Immune to Curse, Area Attack"
                 ],
                 "target": [
                     "",
@@ -2191,8 +2191,8 @@
                     null
                 ],
                 "ability": [
-                    "Warp Blocker, Resist Curse, Area Attack",
-                    "Warp Blocker, Resist Curse, Area Attack",
+                    "Warp Blocker, Immune to Curse, Area Attack",
+                    "Warp Blocker, Immune to Curse, Area Attack",
                     ""
                 ],
                 "target": [
@@ -2355,7 +2355,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Weaken, Area Attack"
+                    "Immune to Weaken, Area Attack"
                 ],
                 "target": [
                     "",
@@ -2995,7 +2995,7 @@
                 "ability": [
                     "Warp Blocker, Single Attack",
                     "Warp Blocker, Single Attack",
-                    "Resist Weaken, Resist Slow, Warp Blocker, Single Attack"
+                    "Immune to Weaken, Immune to Slow, Warp Blocker, Single Attack"
                 ],
                 "target": [
                     "Alien",
@@ -3219,7 +3219,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Freeze, Area Attack"
+                    "Immune to Freeze, Area Attack"
                 ],
                 "target": [
                     "Red",
@@ -3379,7 +3379,7 @@
                 "ability": [
                     "Single Attack",
                     "Single Attack",
-                    "Resist Weaken, Warp Blocker, Single Attack"
+                    "Immune to Weaken, Warp Blocker, Single Attack"
                 ],
                 "target": [
                     "",
@@ -3889,9 +3889,9 @@
                     720
                 ],
                 "ability": [
-                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Single Attack",
-                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Single Attack",
-                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Single Attack"
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Single Attack",
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Single Attack",
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Single Attack"
                 ],
                 "target": [
                     "",
@@ -3953,9 +3953,9 @@
                     450
                 ],
                 "ability": [
-                    "Metal, Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Single Attack",
-                    "Metal, Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Single Attack",
-                    "Metal, Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Single Attack"
+                    "Metal, Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Single Attack",
+                    "Metal, Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Single Attack",
+                    "Metal, Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Single Attack"
                 ],
                 "target": [
                     "",
@@ -4017,8 +4017,8 @@
                     null
                 ],
                 "ability": [
-                    "Resist Curse, Single Attack",
-                    "Resist Curse, Single Attack",
+                    "Immune to Curse, Single Attack",
+                    "Immune to Curse, Single Attack",
                     ""
                 ],
                 "target": [
@@ -4657,8 +4657,8 @@
                     null
                 ],
                 "ability": [
-                    "Unharmed by Waves, Single Attack",
-                    "Unharmed by Waves, Single Attack, Long Distance",
+                    "Immune to Waves, Single Attack",
+                    "Immune to Waves, Single Attack, Long Distance",
                     ""
                 ],
                 "target": [
@@ -5715,8 +5715,8 @@
                     null
                 ],
                 "ability": [
-                    "Strengthen, Survive, Resist Weaken, Area Attack",
-                    "Strengthen, Survive, Resist Weaken, Area Attack",
+                    "Strengthen, Survive, Immune to Weaken, Area Attack",
+                    "Strengthen, Survive, Immune to Weaken, Area Attack",
                     ""
                 ],
                 "target": [
@@ -5940,8 +5940,8 @@
                 ],
                 "ability": [
                     "Area Attack",
-                    "Resist Freeze, Area Attack",
-                    "Resist Freeze, Resist Curse, Area Attack"
+                    "Immune to Freeze, Area Attack",
+                    "Immune to Freeze, Immune to Curse, Area Attack"
                 ],
                 "target": [
                     "Floating",
@@ -6069,7 +6069,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Curse, Area Attack"
+                    "Immune to Curse, Area Attack"
                 ],
                 "target": [
                     "",
@@ -6931,8 +6931,8 @@
                     null
                 ],
                 "ability": [
-                    "Eva Angel Killer, Resist Freeze, Area Attack",
-                    "Eva Angel Killer, Resist Freeze, Area Attack",
+                    "Eva Angel Killer, Immune to Freeze, Area Attack",
+                    "Eva Angel Killer, Immune to Freeze, Area Attack",
                     ""
                 ],
                 "target": [
@@ -7061,9 +7061,9 @@
                     3000
                 ],
                 "ability": [
-                    "Resist Weaken, Single Attack",
-                    "Resist Weaken, Single Attack",
-                    "Resist Weaken, Single Attack"
+                    "Immune to Weaken, Single Attack",
+                    "Immune to Weaken, Single Attack",
+                    "Immune to Weaken, Single Attack"
                 ],
                 "target": [
                     "",
@@ -7095,7 +7095,7 @@
                 "ability": [
                     "Critical, Single Attack",
                     "Critical, Area Attack",
-                    "Critical, Resist Knockback, Area Attack"
+                    "Critical, Immune to Knockback, Area Attack"
                 ],
                 "target": [
                     "",
@@ -7125,9 +7125,9 @@
                     3150
                 ],
                 "ability": [
-                    "Resist Freeze, Area Attack",
-                    "Resist Freeze, Area Attack",
-                    "Wave Attack, Resist Freeze, Area Attack"
+                    "Immune to Freeze, Area Attack",
+                    "Immune to Freeze, Area Attack",
+                    "Wave Attack, Immune to Freeze, Area Attack"
                 ],
                 "target": [
                     "Floating, Alien",
@@ -7286,7 +7286,7 @@
                 "ability": [
                     "Strengthen, Area Attack",
                     "Strengthen, Area Attack",
-                    "Strengthen, Unharmed by Waves, Area Attack"
+                    "Strengthen, Immune to Waves, Area Attack"
                 ],
                 "target": [
                     "Black",
@@ -7670,7 +7670,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Weaken, Area Attack"
+                    "Immune to Weaken, Area Attack"
                 ],
                 "target": [
                     "Red, Black",
@@ -7766,7 +7766,7 @@
                 "ability": [
                     "Survive, Area Attack",
                     "Survive, Area Attack",
-                    "Survive, Resist Knockback, Area Attack"
+                    "Survive, Immune to Knockback, Area Attack"
                 ],
                 "target": [
                     "Floating",
@@ -7862,7 +7862,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Freeze, Area Attack"
+                    "Immune to Freeze, Area Attack"
                 ],
                 "target": [
                     "Floating",
@@ -8022,7 +8022,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Weaken, Area Attack"
+                    "Immune to Weaken, Area Attack"
                 ],
                 "target": [
                     "Black, Alien",
@@ -8116,9 +8116,9 @@
                     6450
                 ],
                 "ability": [
-                    "Resist Knockback, Area Attack",
-                    "Resist Knockback, Area Attack",
-                    "Resist Knockback, Area Attack"
+                    "Immune to Knockback, Area Attack",
+                    "Immune to Knockback, Area Attack",
+                    "Immune to Knockback, Area Attack"
                 ],
                 "target": [
                     "Floating",
@@ -8244,9 +8244,9 @@
                     6600
                 ],
                 "ability": [
-                    "Resist Slow, Area Attack",
-                    "Resist Slow, Area Attack",
-                    "Barrier Breaker, Resist Slow, Area Attack"
+                    "Immune to Slow, Area Attack",
+                    "Immune to Slow, Area Attack",
+                    "Barrier Breaker, Immune to Slow, Area Attack"
                 ],
                 "target": [
                     "Angel",
@@ -8406,7 +8406,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Weaken, Area Attack"
+                    "Immune to Weaken, Area Attack"
                 ],
                 "target": [
                     "Black, Angel",
@@ -8501,8 +8501,8 @@
                 ],
                 "ability": [
                     "Zombie Killer, Area Attack",
-                    "Zombie Killer, Resist Slow, Area Attack",
-                    "Zombie Killer, Resist Weaken, Resist Slow, Area Attack"
+                    "Zombie Killer, Immune to Slow, Area Attack",
+                    "Zombie Killer, Immune to Weaken, Immune to Slow, Area Attack"
                 ],
                 "target": [
                     "Angel, Zombie",
@@ -8532,9 +8532,9 @@
                     4860
                 ],
                 "ability": [
-                    "Resist Weaken, Area Attack",
-                    "Strengthen, Resist Weaken, Area Attack",
-                    "Resist Weaken, Unharmed by Waves, Area Attack"
+                    "Immune to Weaken, Area Attack",
+                    "Strengthen, Immune to Weaken, Area Attack",
+                    "Immune to Weaken, Immune to Waves, Area Attack"
                 ],
                 "target": [
                     "Alien",
@@ -8598,7 +8598,7 @@
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    "Resist Curse, Area Attack"
+                    "Immune to Curse, Area Attack"
                 ],
                 "target": [
                     "Floating, Alien",
@@ -8694,7 +8694,7 @@
                 "ability": [
                     "Base Destroyer, Area Attack",
                     "Extra Money, Area Attack",
-                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Area Attack"
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Area Attack"
                 ],
                 "target": [
                     "Floating, Alien",
@@ -8724,7 +8724,7 @@
                     null
                 ],
                 "ability": [
-                    "Resist Freeze, Resist Slow, Area Attack",
+                    "Immune to Freeze, Immune to Slow, Area Attack",
                     "Zombie Killer, Area Attack",
                     ""
                 ],
@@ -8756,9 +8756,9 @@
                     4275
                 ],
                 "ability": [
-                    "Critical, Resist Slow, Area Attack, Long Distance",
-                    "Resist Slow, Area Attack, Long Distance",
-                    "Zombie Killer, Resist Slow, Area Attack, Long Distance"
+                    "Critical, Immune to Slow, Area Attack, Long Distance",
+                    "Immune to Slow, Area Attack, Long Distance",
+                    "Zombie Killer, Immune to Slow, Area Attack, Long Distance"
                 ],
                 "target": [
                     "",
@@ -8852,8 +8852,8 @@
                     null
                 ],
                 "ability": [
-                    "Zombie Killer, Resist Slow, Unharmed by Waves, Area Attack",
-                    "Zombie Killer, Resist Slow, Unharmed by Waves, Area Attack",
+                    "Zombie Killer, Immune to Slow, Immune to Waves, Area Attack",
+                    "Zombie Killer, Immune to Slow, Immune to Waves, Area Attack",
                     ""
                 ],
                 "target": [
@@ -9012,8 +9012,8 @@
                     null
                 ],
                 "ability": [
-                    "Resist Freeze, Area Attack, Long Distance",
-                    "Resist Freeze, Area Attack, Long Distance",
+                    "Immune to Freeze, Area Attack, Long Distance",
+                    "Immune to Freeze, Area Attack, Long Distance",
                     ""
                 ],
                 "target": [
@@ -9684,8 +9684,8 @@
                     null
                 ],
                 "ability": [
-                    "Unharmed by Waves, Area Attack, Long Distance",
-                    "Unharmed by Waves, Area Attack, Long Distance",
+                    "Immune to Waves, Area Attack, Long Distance",
+                    "Immune to Waves, Area Attack, Long Distance",
                     ""
                 ],
                 "target": [
@@ -9812,8 +9812,8 @@
                     null
                 ],
                 "ability": [
-                    "Zombie Killer, Unharmed by Waves, Area Attack",
-                    "Zombie Killer, Unharmed by Waves, Area Attack",
+                    "Zombie Killer, Immune to Waves, Area Attack",
+                    "Zombie Killer, Immune to Waves, Area Attack",
                     ""
                 ],
                 "target": [
@@ -10550,7 +10550,7 @@
                 "ability": [
                     "Single Attack",
                     "Strengthen, Survive, Area Attack",
-                    "Strengthen, Survive, Unharmed by Waves, Area Attack"
+                    "Strengthen, Survive, Immune to Waves, Area Attack"
                 ],
                 "target": [
                     "",
@@ -10581,7 +10581,7 @@
                 ],
                 "ability": [
                     "Single Attack",
-                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Resist Curse, Area Attack, Long Distance",
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Immune to Curse, Area Attack, Long Distance",
                     ""
                 ],
                 "target": [
@@ -10612,8 +10612,8 @@
                     null
                 ],
                 "ability": [
-                    "Zombie Killer, Barrier Breaker, Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Resist Curse, Area Attack",
-                    "Zombie Killer, Barrier Breaker, Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Warp Blocker, Resist Curse, Area Attack",
+                    "Zombie Killer, Barrier Breaker, Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Immune to Curse, Area Attack",
+                    "Zombie Killer, Barrier Breaker, Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Immune to Curse, Area Attack",
                     ""
                 ],
                 "target": [
@@ -10644,8 +10644,8 @@
                     null
                 ],
                 "ability": [
-                    "Wave Attack, Unharmed by Waves, Area Attack",
-                    "Wave Attack, Unharmed by Waves, Area Attack",
+                    "Wave Attack, Immune to Waves, Area Attack",
+                    "Wave Attack, Immune to Waves, Area Attack",
                     ""
                 ],
                 "target": [
@@ -10676,8 +10676,8 @@
                     null
                 ],
                 "ability": [
-                    "Resist Weaken, Area Attack",
-                    "Resist Weaken, Area Attack",
+                    "Immune to Weaken, Area Attack",
+                    "Immune to Weaken, Area Attack",
                     ""
                 ],
                 "target": [
@@ -10708,8 +10708,8 @@
                     null
                 ],
                 "ability": [
-                    "Resist Slow, Area Attack",
-                    "Resist Slow, Area Attack",
+                    "Immune to Slow, Area Attack",
+                    "Immune to Slow, Area Attack",
                     ""
                 ],
                 "target": [
@@ -10740,8 +10740,8 @@
                     null
                 ],
                 "ability": [
-                    "Critical, Resist Weaken, Resist Slow, Area Attack",
-                    "Critical, Resist Weaken, Resist Slow, Area Attack",
+                    "Critical, Immune to Weaken, Immune to Slow, Area Attack",
+                    "Critical, Immune to Weaken, Immune to Slow, Area Attack",
                     ""
                 ],
                 "target": [
@@ -10773,7 +10773,7 @@
                 ],
                 "ability": [
                     "Area Attack",
-                    "Critical, Unharmed by Waves, Area Attack",
+                    "Critical, Immune to Waves, Area Attack",
                     ""
                 ],
                 "target": [
@@ -10804,8 +10804,8 @@
                     null
                 ],
                 "ability": [
-                    "Resist Knockback, Unharmed by Waves, Area Attack",
-                    "Resist Knockback, Unharmed by Waves, Area Attack",
+                    "Immune to Knockback, Immune to Waves, Area Attack",
+                    "Immune to Knockback, Immune to Waves, Area Attack",
                     ""
                 ],
                 "target": [
@@ -10836,8 +10836,8 @@
                     null
                 ],
                 "ability": [
-                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Area Attack, Long Distance",
-                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Area Attack, Long Distance",
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Area Attack, Long Distance",
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Area Attack, Long Distance",
                     ""
                 ],
                 "target": [
@@ -10868,8 +10868,8 @@
                     null
                 ],
                 "ability": [
-                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Area Attack, Long Distance",
-                    "Resist Weaken, Resist Freeze, Resist Slow, Resist Knockback, Unharmed by Waves, Area Attack, Long Distance",
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Area Attack, Long Distance",
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Area Attack, Long Distance",
                     ""
                 ],
                 "target": [
@@ -10901,7 +10901,7 @@
                 ],
                 "ability": [
                     "Area Attack, Long Distance",
-                    "Unharmed by Waves, Warp Blocker, Area Attack, Long Distance",
+                    "Immune to Waves, Warp Blocker, Area Attack, Long Distance",
                     ""
                 ],
                 "target": [
@@ -10932,8 +10932,8 @@
                     null
                 ],
                 "ability": [
-                    "Strengthen, Unharmed by Waves, Warp Blocker, Area Attack, Long Distance",
-                    "Strengthen, Unharmed by Waves, Warp Blocker, Area Attack, Long Distance",
+                    "Strengthen, Immune to Waves, Warp Blocker, Area Attack, Long Distance",
+                    "Strengthen, Immune to Waves, Warp Blocker, Area Attack, Long Distance",
                     ""
                 ],
                 "target": [
