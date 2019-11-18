@@ -18,6 +18,8 @@ class Cat:
         self.rarity_pct = cat["rarity_pct"]
         self.rarity_total = cat["rarity_total"]
         self.rarity = cat["rarity"]
+        if "talents" in cat and self.form == "True":
+            self.talents = cat["talents"]
         self.target = cat["target"]
 
     def get_ability(self, search=None):
@@ -136,3 +138,6 @@ class Cat:
         else:
             result = self.target
         return result
+
+    def get_talents(self):
+        return self.talents

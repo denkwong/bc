@@ -84,8 +84,34 @@ def convert_cat(cat, rarity, cat_position, cat_count):
             }
             if c["effect"][0] != "" and c["target"][0] == "":
                 c["target"] = ["traitless"]
+            if "talents" in cat and form == "True":
+                c["talents"] = cat["talents"]
+                c = add_talents(c)
             output.append(c)
     return output
+
+
+def add_talents(cat):
+    """ process talents for true forms. e.g. new targets are added to target.
+    :param dict cat: a single cat
+    :rtype: dict
+    :return: a single cat with talents added
+    """
+    for k, v in cat["talents"].items():
+        print(k, v)
+        # abilities
+        if k in ["Curse Immunity", "Money Up", "Slow", "Survives", "Weaken", "Zombie Killer"] and v != 0:
+            cat["ability"].append(k)
+        # resist ability
+        elif "Resist" in k and v != 0:
+            cat["ability"].append(k)
+        # strengthen ability
+        elif k == "Attack Up" and v != 0:
+            cat["ability"].append("Strengthen")
+        # targets
+        elif "Target" in k and v != 0:
+            cat["target"].append(k.replace("Target ", ""))
+    return cat
 
 
 def display_cat(cat, **kwargs):

@@ -118,9 +118,12 @@ class Bc:
         if operator in ("<", "<=", "==", ">=", ">"):
             result = list()
             for cat in cats:
-                cat_cost = cat.get_cost()
-                if eval("{0} {1} {2}".format(cat_cost, operator, cost)):
-                    result.append(cat)
+                cat_costs = cat.get_cost()
+                if isinstance(cat_costs, int):
+                    cat_costs = [cat_costs]
+                for cat_cost in cat_costs:
+                    if eval("{0} {1} {2}".format(cat_cost, operator, cost)):
+                        result.append(cat)
             return result
         else:
             print("Operator {0} is not supported.".format(operator))

@@ -2318,7 +2318,7 @@
                 "cost": [
                     1050,
                     1050,
-                    1050
+                    [1050, 1020]
                 ],
                 "ability": [
                     "Area Attack",
@@ -2339,7 +2339,14 @@
                     "Got tired of changing wheels of vehicles so became one instead. Spins so fast it burns. Massive damage against Aliens (Area Attack)",
                     "Got tired of moving around so decided to become a galaxy instead. Massive damage against Aliens (Area Attack)",
                     "An evolved Cat who is always calm and collected at the office. Massive area damage to Aliens."
-                ]
+                ],
+                "talents": {
+                    "Knockback": 0,
+                    "Resist Weaken": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Cost Down": 1
+                }
             },
             {
                 "name": [
@@ -2403,7 +2410,14 @@
                     "Descendant of an Ancient Cat Race that existed during the Jurassic Age. Might perform Critical attacks",
                     "Descendant of an Ancient Cat Race that takes care of the young during the Jurassic Era. Might perform Critical attacks",
                     "Discovered a cute dinosaur in a magical land of fungi. Features extra seating for the kids! Might perform Critical attacks."
-                ]
+                ],
+                "talents": {
+                    "Critical": 5,
+                    "Resist Knockback": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Cost Down": 0
+                }
             },
             {
                 "name": [
@@ -2531,7 +2545,14 @@
                     "A merciful Cat that brings peace and love to all of its followers. Charges for confessions. Might slow Floating enemies.",
                     "Envelopes the enemies in gracious serenity to allow them to move to the afterlife Might slow Floating enemies.",
                     "On a journey to save souls through enlightenment. Mostly just beats up the local wildlife, though. Might slow Floating enemies (Area Attack)"
-                ]
+                ],
+                "talents": {
+                    "Weaken": 0,
+                    "Slow": 5,
+                    "Survives": 0,
+                    "Target Angel": 1,
+                    "Defense Buff": 0
+                }
             },
             {
                 "name": [
@@ -2563,7 +2584,14 @@
                     "A Cat that loves the idea of fortune telling. Has read one too man astrology books. Might knockback Floating enemies.",
                     "Eldest son of a prominent Tuna fisherman. Gets seasick. Might knockback Floating enemies.",
                     "His medical philosophy is \"Hair of the Dog\". If it doesn't kill ya, it must be working, right?! Might knockback Floating enemies."
-                ]
+                ],
+                "talents": {
+                    "Resist Knockback": 0,
+                    "Resist Curse": 3,
+                    "Target Relic": 1,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -2659,7 +2687,14 @@
                     "Elite ranged Cat that can provide useful supporting fire. Bruises like a Tomato. Deals massive damage to Floating enemies.",
                     "Rains arrows of love upon unsuspecting foes. Does not like to get hurt. Deals massive damage to Floating enemies.",
                     "Once a glittering constellation, this demigod hides from heaven, firing powerful arrows at Floating enemies for massive damage."
-                ]
+                ],
+                "talents": {
+                    "Zombie Killer": 1,
+                    "Target Zombie": 1,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Recover Speed Up": 0
+                }
             },
             {
                 "name": [
@@ -7079,7 +7114,14 @@
                     "A mad cat that sacrificed itself to a a demon from the netherworld. Attacks with extreme force.",
                     "The mad cat managed to control the a demon from the netherworld. Attacks with extreme force.",
                     "HIs wanderings through the abyss have driven him mad with infernal ambitions. Tremendous damage to a single enemy."
-                ]
+                ],
+                "talents": {
+                    "Attack Up": 0,
+                    "Resist Wave": 5,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Cost Down": 0
+                }
             },
             {
                 "name": [
@@ -8870,7 +8912,14 @@
                     "God of Death who escorts human souls to the underworld. His Nether Staff purges mortals of sin. Unharmed by wave attacks. (Area Attack)",
                     "His dominance of the underworld is complete. A single touch from his Sacred Staff will extinguish any life. Unharmed by wave attacks. (Area Attack)",
                     ""
-                ]
+                ],
+                "talents": {
+                    "Resist Knockback": 0,
+                    "Resist Curse": 3,
+                    "Target Relic": 1,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
