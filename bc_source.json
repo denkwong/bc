@@ -2513,7 +2513,14 @@
                     "Moves fast. Steals faster. More money earned when defeating an enemy.",
                     "Moves too fast. Still steals the same. Has a large treasure collection now. More money earned when defeating an enemy.",
                     "Bandit of legend, last seen in old Japan fighting against the shogun's tyranny. Slips extra money out of enemy pockets with area attacks."
-                ]
+                ],
+                "talents": {
+                    "Attack Up": 0,
+                    "Zombie Killer": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Move Speed Up": 0
+                }
             },
             {
                 "name": [
@@ -2655,7 +2662,14 @@
                     "A Magical Cat that would rather be a Magical Girl than a Witch. Might slow Red enemies.",
                     "Obtained magic skills from online courses. Really popular at parties but doesn't get paid. Might slow Red enemies.",
                     "Used her clairvoyant powers to scry the best way to make it big on TV. Her star power might slow Red enemy movement."
-                ]
+                ],
+                "talents": {
+                    "Slow": 0,
+                    "Survives": 0,
+                    "Target Zombie": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -2726,7 +2740,14 @@
                     "Trained in a certain game to become a magic swordsman. Very effective Battle Cat. Fire sword does massive damage to Red enemies.",
                     "Mastered the art of dual wielding. Also can use magic. Scary combination. Flame swords do massive damage to Red enemies.",
                     "So in tune with his blades that he can now command the forces of nature themselves. Flames do massive damage to Red enemies."
-                ]
+                ],
+                "talents": {
+                    "Resist Weaken": 0,
+                    "Target Angel": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Recover Speed Up": 0
+                }
             },
             {
                 "name": [
@@ -2758,7 +2779,14 @@
                     "Nameless legend of the Western frontier. Today, he's out bringing bandits to justice. Sometimes slows Black enemies.",
                     "A wandering gunman of legend, wielding his pistol for justice! Italian is his first language. Sometimes slows Black enemies.",
                     "Retired from the desperado life and now in training to win the big bullriding competition. Sometimes slows Black enemies."
-                ]
+                ],
+                "talents": {
+                    "Resist Curse": 10,
+                    "Target Relic": 1,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Recover Speed Up": 0
+                }
             },
             {
                 "name": [
@@ -2854,7 +2882,14 @@
                     "A peanut farmer's son, became a rocker to avoid coming out about his nut allergies to his family. Resistant to Angelic attacks.",
                     "After album number 2 flopped, tried to get into fine art. Can only draw peanuts, so didn't sell. Resistant to Angel attacks.",
                     "Noodles might seem like a simple dish, but they need an artist's touch to master. Flashy prep style also boosts defense vs Angels."
-                ]
+                ],
+                "talents": {
+                    "Resist Slow": 0,
+                    "Resist Knockback": 0,
+                    "Resist Curse": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -2886,7 +2921,14 @@
                     "A mermaid who came onshore to meet a prince. Survives on land by taking long breaths. Strong vs floating, might survive a lethal strike.",
                     "Hearing her prince got kidnapped by terrorists, Mer-Cat joined the Green Berets to save him. Strong vs floating, might survive a lethal strike.",
                     "Putting her life on the line to tell the truth of the Great Cat War. Journalistic integrity causes huge area dmg vs Floating, might survive once."
-                ]
+                ],
+                "talents": {
+                    "Survives": 0,
+                    "Critical": 0,
+                    "Resist Wave": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -2918,7 +2960,14 @@
                     "Bends metal when excited. Loves cereal, but always ends up with a useless spoon before he can eat. Sometimes slows Alien movement.",
                     "His happiness opens up extradimensional portals. Don't accept his invitation to play catch-ball. Sometimes slows Alien movement.",
                     "All will be consumed by the portals he creates. Soon he himself will be sucked in to the dark realms. Sometimes slows Alien movement."
-                ]
+                ],
+                "talents": {
+                    "Weaken": 0,
+                    "Slow": 0,
+                    "Resist Freeze": 0,
+                    "Target Zombie": 0,
+                    "Defense Buff": 0
+                }
             },
             {
                 "name": [
@@ -5320,7 +5369,14 @@
                     "Flunking student from a certain dance school. Can be produced in masses. Flash Mob! Might slow Red enemies.",
                     "Someone you don't want to see on the street. Dances skillfully to keep the game kid-friendly. Might slow Red enemies.",
                     "Kicked out of dance school for improvising performances too provocative for family shows. Sometimes slows movement of Red enemies."
-                ]
+                ],
+                "talents": {
+                    "Money Up": 0,
+                    "Target Alien": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Move Speed Up": 0
+                }
             },
             {
                 "name": [
@@ -5352,7 +5408,14 @@
                     "A Cat that moves fast by spinning. The fresh meat can take a beating. (Area Attack) Resistant to Red, might weaken enemies.",
                     "A Cat that moves fast by spinning. Also got into Rock 'n' Roll (Area Attack) Resistant to Red, might weaken enemies.",
                     "Don't get all salty just because you'll lose! Eggs-elent defense and Area Attack. Resistant to Red, might weaken enemies."
-                ]
+                ],
+                "talents": {
+                    "Resist Freeze": 0,
+                    "Resist Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Cost Down": 0
+                }
             },
             {
                 "name": [
@@ -5832,7 +5895,14 @@
                     "Completely fearless... until leaving his basement. Net denizen who is famous for flaming. Uer Long Distance attack specialist.",
                     "Famous for making Big Red Buttons. Graduate from an elite tech university. Uber Long Distance attack specialist.",
                     "Having mastered virtual space, he's moved on to losing his shirt in the cryptocurrency market. Long-range area attacks slow non-Metal."
-                ]
+                ],
+                "talents": {
+                    "Slow": 0,
+                    "Survives": 0,
+                    "Barrier Breaker": 0,
+                    "Attack Buff": 0,
+                    "Cost Down": 0
+                }
             },
             {
                 "name": [
@@ -5864,7 +5934,14 @@
                     "Very effective in winter... not that it matters. Damage from Floating enemies greatly reduced. Might weaken Floating enemies.",
                     "Hid in a TV to scare people for fun. Was never able to get out. Haunts TVs now. Resistant to + might weaken Floating.",
                     "Extra-flexible Cat who feels most comfortable in small, dark spaces. Cancels wave attacks. Tough vs Floating, might weaken enemies."
-                ]
+                ],
+                "talents": {
+                    "Weaken": 0,
+                    "Resist Freeze": 0,
+                    "Resist Slow": 0,
+                    "Curse Immunity": 0,
+                    "Defense Buff": 0
+                }
             },
             {
                 "name": [
@@ -5928,7 +6005,14 @@
                     "Built from the pain of losing every race. Obtained its strength from tears of defeat. Deals massive damage to Floating enemies.",
                     "Managed to overcome the endless defeat with great effort. Now blessed with victory! Deals massive damage to Floating enemies.",
                     "This one can barely even be called a Cat. Submitted to gene therapy to become the world champion. Extreme damage to Floating."
-                ]
+                ],
+                "talents": {
+                    "Slow": 0,
+                    "Resist Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Move Speed Up": 0
+                }
             },
             {
                 "name": [
@@ -5960,7 +6044,14 @@
                     "Likes to keep clean. All. The. Time. Deals massive damage to Red enemies.",
                     "Likes to keep clean. All. The. Time. Enjoys a quite bath. Do Not Disturb. Deals massive damage to Red enemies.",
                     "Bubbles and gold leaf make for an extra decadent bathtime. Extra-powerful jets do massive damage against dirty Red enemies."
-                ]
+                ],
+                "talents": {
+                    "Knockback": 0,
+                    "Resist Weaken": 0,
+                    "Resist Wave": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -6024,7 +6115,14 @@
                     "A Cat that has reached a state of peace and pushed its body beyond physical limits. Might slow Floating enemies (Area Attack)",
                     "A Bodhisattva Cat who has shown compassion to many and all Battle Cats. Might slow Floating enemies (Area Attack)",
                     "Enlightened compassion flows from this Cat. But they say even the Buddha has a breaking point. Area attacks might weaken/slow Floating."
-                ]
+                ],
+                "talents": {
+                    "Weaken": 0,
+                    "Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Move Speed Up": 0
+                }
             },
             {
                 "name": [
@@ -6056,7 +6154,14 @@
                     "Dreams of a Romeo she met online. Favorite book: \"Pride, Prejudice and Haircuts\" Briefly freezes Angels (Area Attack)",
                     "All grown up, but still dreaming of her cyber-Romeo. Likes chicken kebabs. Briefly freezes Angels (Area Attack)",
                     "Romeo turned out to be a real jerk. Now aiming for a total image change (and a cute samurai lord). Briefly freezes Angels (Area Attack)"
-                ]
+                ],
+                "talents": {
+                    "Freeze": 0,
+                    "Resist Knockback": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Move Speed Up": 0
+                }
             },
             {
                 "name": [
@@ -6088,7 +6193,14 @@
                     "Lifting heavy things is the height of manliness. Supports 11 children, 7 wives and their parents. Massive damage to Black enemies (Area Attack)",
                     "Made it to the 12th round of life using her own toughness and wits. Girl can't be stopped! Massive damage to Black enemies (Area Attack)",
                     "World's biggest junk-food fan who's about to get a nasty surprise when he sees they forgot the extra anchovies. Massive Area damage to Black."
-                ]
+                ],
+                "talents": {
+                    "Slow": 0,
+                    "Wave Attack": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Cost Down": 0
+                }
             },
             {
                 "name": [
@@ -6152,7 +6264,14 @@
                     "Fed up with making toast every day, went on strike by firing bread at Dad's face. Might slow Angelic enemies. (Area Attack)",
                     "Used to projecting Hollywood stars, now worries it might be obsolete thanks to digital video. Might slow Angelic enemies. (Area Attack)",
                     "Melancholy melodies strip enemies of their will to fight! Area attacks might slow Angelic enemies and break Barriers!"
-                ]
+                ],
+                "talents": {
+                    "Barrier Breaker": 0,
+                    "Target Alien": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Cost Down": 0
+                }
             },
             {
                 "name": [
@@ -7018,7 +7137,14 @@
                     "A Cat that was entranced by a girl hailing from the Land of Ice. It is frozen. Might freeze Red enemies. (Area Attack)",
                     "Forgot to mention that the Cat is an eternal icicle. Don't think it complains much. Might freeze Red enemies. (Area Attack)",
                     "The Ice Queen's reign grows more secure, and so does her Cat companion's crystal shell. Freezes Red enemies in place (Area Attack)"
-                ]
+                ],
+                "talents": {
+                    "Survives": 0,
+                    "Resist Slow": 0,
+                    "Curse Immunity": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -7185,7 +7311,14 @@
                     "A baby Cat that still can't do anything by itself. Luckily, daddy is there to help. Might knockback Floating & Aliens (Area Atk)",
                     "Brought along it's baby sister. Dad has his work cut out for him. Might knockback Floating & Aliens (Area Atk)",
                     "Evey 7 kittens together can't do much... Luckily Dad's still keeping an eye out for bullies. Area wave attacks knockback Floating/Alien."
-                ]
+                ],
+                "talents": {
+                    "Slow": 0,
+                    "Resist Slow": 0,
+                    "Curse Immunity": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -7312,7 +7445,14 @@
                     "A famous warrior that was transformed by the Legendary Cat Armour into a Bird-type General. Deals massive damage to Black enemies.",
                     "Activated the armour's hidden function Jet Boosters. No stopping it now! Deals massive damage to Black enemies.",
                     "Crimson wings carry this wargod through the front lines, tearing them apart without mercy! Deals massive damage to Black enemies."
-                ]
+                ],
+                "talents": {
+                    "Attack Up": 0,
+                    "Resist Freeze": 0,
+                    "Resist Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -7376,7 +7516,14 @@
                     "The manifestation of the Grudge of Nobunaga from the lives of many (and one Cat) (Area Attack) 100% chance to Freeze Black enemies.",
                     "The Cat's spirit goes into overdrive. The grudge grows even stronger. (Area Attack) 100% chance to Freeze Black enemies.",
                     "Leads an army of vengeful spirits to fulfill his dream of unifying the heavens and the netherworld. 100% chance to Freeze Black enemies. (Area)"
-                ]
+                ],
+                "talents": {
+                    "Survives": 0,
+                    "Resist Wave": 0,
+                    "Curse Immunity": 0,
+                    "Defense Buff": 0,
+                    "Move Speed Up": 0
+                }
             },
             {
                 "name": [
@@ -7440,7 +7587,14 @@
                     "A master tactician of overwhelming power who is cursed by the Legendary Cat Sword. Area attacks only damage Black/Aliens.",
                     "Cat Sword's Tactics Mode - activate! Even greater destructive power! Area attacks only damage Black/Aliens.",
                     "The Cat Sword's path of destruction is unstoppable. There is no mercy to be given. Area attacks only damage Black/Aliens."
-                ]
+                ],
+                "talents": {
+                    "Barrier Breaker": 0,
+                    "Target Angel": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Cost Down": 0
+                }
             },
             {
                 "name": [
@@ -7600,7 +7754,14 @@
                     "A galaxy girl who manipulates wind. Her vacuum cannon cleans enemies from a distance Massive damage to Floating enemies. (Area Attack)",
                     "This strange girl can hear the wind whispering. The wind tells her that it is in pain... Massive damage to Floating enemies. (Area Attack)",
                     "Has a bad habit of impulse buying the latest mechas. Neo-Vacuum Cannon blasts from long-distance. Massive damage to Floating enemies. (Area Attack)"
-                ]
+                ],
+                "talents": {
+                    "Freeze": 0,
+                    "Attack Up": 0,
+                    "Curse Immunity": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -7664,7 +7825,14 @@
                     "A galaxy girl who can manipulate electricity. Brings down bolts from a distance. Massive damage to Red enemies. (Area Attack)",
                     "Always worries about her chronic neck pain. Likes watching cartoons in her spare time. Massive damage to Red enemies. (Area Attack)",
                     "When you have a goddess' body, it's tough to find clothes that fit. Long distance Area Attacks deliver massive damage to Red enemies."
-                ]
+                ],
+                "talents": {
+                    "Attack Up": 0,
+                    "Resist Wave": 0,
+                    "Curse Immunity": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -7728,7 +7896,14 @@
                     "Zealous user of strange witchcraft to control her staff for great damage from a distance. Strong against Black/Red enemies. (Area Attack)",
                     "Zealous user of strange witchcraft. Not good with men, ends with verbal abuse. Strong against Black/Red enemies. (Area Attack)",
                     "Treat her like a weakling and you'll know true pain. Your apologies will only make the staff smash down harder. Strong against Red/Black (Area Attack)."
-                ]
+                ],
+                "talents": {
+                    "Weaken": 0,
+                    "Resist Wave": 0,
+                    "Curse Immunity": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -8144,7 +8319,14 @@
                     "An awakened Anicent Cat Dragon. Created to purify the world (Area Attack) Might knockback and slow Floating enemies.",
                     "An awakened Anicent Cat Dragon. Megidora shifts to final Dragon form (Area Attack) Might knockback and slow Floating enemies.",
                     "Possessor of the Divine Dragon Stone. Ready to devour all to maintain its imperial throne. Area attacks might slow Floating enemies."
-                ]
+                ],
+                "talents": {
+                    "Knockback": 0,
+                    "Wave Attack": 0,
+                    "Curse Immunity": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -8176,7 +8358,14 @@
                     "An awakened Ancient Cat Dragon. Leaves destruction in it's wake (Area Attack) Might knockback/resistant to Floating.",
                     "An awakened Ancient Cat Dragon. Sodom shifted to final Dragon form (Area Attack) Might knockback/resistant to Floating.",
                     "Sodom unlocked his FINAL final Dragon form, Rending the very earth asunder with power! 100% area knockback/resistant vs Floating."
-                ]
+                ],
+                "talents": {
+                    "Weaken": 0,
+                    "Curse Immunity": 0,
+                    "Target Relic": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -8208,7 +8397,14 @@
                     "Legendary Dragon Knight Vars. (Area Attack) Has rode over a thousand dragons. Might knockback and slow Black enemies.",
                     "Legendary Dragon Knight Vars. (Area Attack) Vars now unleashes all of his power. Might knockback and slow Black enemies.",
                     "Legendary Knight who has mastered even the most savage mount to rain down Area attacks. Might knockback and slow Black enemies."
-                ]
+                ],
+                "talents": {
+                    "Knockback": 0,
+                    "Curse Immunity": 0,
+                    "Target Relic": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -8368,7 +8564,14 @@
                     "On a quest to find anyone stronger than him. Aim for the top! Watch the fans... Might freeze Angel/Red enemies. (Area attack)",
                     "A Road Gang of wild Cats who realized that effort and results are two different things. Might freeze Angel/Red enemies. (Area attack)",
                     "Ends may not justify the means, but they definitely justify owning a sweet ride. Might freeze Angel/Red enemies. (Area attack)"
-                ]
+                ],
+                "talents": {
+                    "Weaken": 0,
+                    "Freeze": 0,
+                    "Resist Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -8400,7 +8603,14 @@
                     "Beautiful Cat on assignment from the Moon. her true nature is still top secret... Might slow Angel/Metal enemies. (Area Atk)",
                     "A prototype of one of many Ancient Cat Weapons made from stolen blueprints. Might slow Angel/Metal enemies. (Area Atk)",
                     "Almost annihilated the galaxy once... Oops. That can happens when you design an AI with no conscience. Slows Angels/Metal (Area Atk)"
-                ]
+                ],
+                "talents": {
+                    "Knockback": 0,
+                    "Slow": 0,
+                    "Resist Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -8464,7 +8674,14 @@
                     "Elite Cat agent that holds the secret of the government bioweapon T.U.R.T.L.E. (Area Atk) Resistant to Black/Angel attacks.",
                     "A super-powerful T.U.R.T.L.E. enhanced by the top-secret T-VIRUS (Area Attack) Resistant to Black/Angel attacks.",
                     "To impress his crush at the secret lab, made some bold new fashion choices (and bought donuts). Resistant to Black/Angel attacks."
-                ]
+                ],
+                "talents": {
+                    "Slow": 0,
+                    "Resist Freeze": 0,
+                    "Resist Knockback": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -8592,7 +8809,14 @@
                     "A super-genius who dreamed of alien invasion. Recreated himself as a cyborg hero to defend the planet! Area attacks might freeze Aliens.",
                     "A bullied kid who hid in his room for years. No more! Now channels his fear into fighting for justice! Attack power increases when damaged! (Area)",
                     "Reinventing himself, he has changed his destiny! But can he change society with his powers? Strong vs. Aliens, immune to wave attacks."
-                ]
+                ],
+                "talents": {
+                    "Freeze": 0,
+                    "Attack Up": 0,
+                    "Survives": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -8624,7 +8848,14 @@
                     "Studied back issues of Mechanix Monthly to build the unstoppable killing machine of her dreams. Resistant to Alien/Black. Survives one lethal strike.",
                     "Broke into an airport and took apart a jet engine overnight to get parts for her mecha masterpiece. Magnifique. Knockback + Weaken against Aliens.",
                     "Recruited by NYASA to engineer mechs for deep-space recon. Astrophysics? No sweat. Massive area damage + Slow vs Aliens."
-                ]
+                ],
+                "talents": {
+                    "Weaken": 0,
+                    "Knockback": 0,
+                    "Survives": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -8752,7 +8983,14 @@
                     "A precocious young sorcerer who has enslaved a nightmare. Its infernal powers deliver massive damage only to Aliens, Floating and enemy bases.",
                     "With his nightmare's true form revealed, they now journey collecting wicked souls. Huge damage only to Angel/Alien, gets big money for each enemy defeat.",
                     "Picked up an online degree in occult anatomy. 1st attempt at a soul transplant: GREAT SUCCESS!(?) Delivers extreme damage, but only to Aliens/bases!"
-                ]
+                ],
+                "talents": {
+                    "Curse Immunity": 0,
+                    "Immune to Waves": 0,
+                    "Warp Blocker": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -9111,7 +9349,14 @@
                     "The spunky interns of Cat Corps of Engineers built an awesome land weapon! Powerful anti-Zombie long range attacks, might weaken!",
                     "Featuring thick armor, an arsenal of long-range cannons, and loaded with shock troops, CAT-6 is tough vs Zombies and weakens enemies.",
                     "The culmination of centuries of feline technology, this near-indestructable superweight tank has high defense vs Zombies and weakens enemies."
-                ]
+                ],
+                "talents": {
+                    "Slow": 0,
+                    "Wave Attack": 0,
+                    "Resist Freeze": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -9271,7 +9516,14 @@
                     "Cosmic fire, brought to life! This drake spirit commands flames that strike Aliens for extra damage!",
                     "With the power of a burning sun, its flares annihilate Barriers. Powerful defense & attack vs. Aliens",
                     "Carries a red giant's rage within its tiny body, ready to unleash a supernova on enemy Barriers. Powerful defense & attack vs. Aliens"
-                ]
+                ],
+                "talents": {
+                    "Attack Up": 0,
+                    "Resist Weaken": 0,
+                    "Resist Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -10455,7 +10707,14 @@
                     "Not sure if this is a Cat... Maybe if you evolve him...",
                     "God, I don't know if this is a Cat anymore. Seriously, I give up. Knocks back enemies. (Area Atk.)",
                     "Tired of scaring children, Luga decided to reinvent himself as that famous masked hero. Freezes and knocks back non-Metal enemies (Area Atk.)"
-                ]
+                ],
+                "talents": {
+                    "Freeze": 0,
+                    "Resist Wave": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Cost Down": 0
+                }
             },
             {
                 "name": [
@@ -10487,7 +10746,14 @@
                     "Not sure if this is a Cat... There's just something about those legs...",
                     "Unbelievable, just unbelievable. Seems like this one slows all enemies in range.",
                     "Is it a Cat? Or an overly melodramatic comic-book assassin of some kind? Slows enemies with Area Attacks."
-                ]
+                ],
+                "talents": {
+                    "Slow": 0,
+                    "Survives": 0,
+                    "Dodge Attack": 0,
+                    "Defense Buff": 0,
+                    "Cost Down": 0
+                }
             },
             {
                 "name": [
