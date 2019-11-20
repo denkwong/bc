@@ -9157,14 +9157,7 @@
                     "God of Death who escorts human souls to the underworld. His Nether Staff purges mortals of sin. Unharmed by wave attacks. (Area Attack)",
                     "His dominance of the underworld is complete. A single touch from his Sacred Staff will extinguish any life. Unharmed by wave attacks. (Area Attack)",
                     ""
-                ],
-                "talents": {
-                    "Resist Knockback": 0,
-                    "Resist Curse": 3,
-                    "Target Relic": 1,
-                    "Defense Buff": 0,
-                    "Attack Buff": 0
-                }
+                ]
             },
             {
                 "name": [
