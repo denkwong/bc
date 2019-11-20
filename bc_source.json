@@ -10585,32 +10585,32 @@
                 "name": [
                     "Queen Reika",
                     "Pharoah Reika",
-                    ""
+                    "Eternal Reika"
                 ],
                 "cost": [
                     4980,
                     4980,
-                    null
+                    4980
                 ],
                 "ability": [
                     "Zombie Killer, Area Attack",
                     "Zombie Killer, Area Attack",
-                    ""
+                    "Zombie Killer, Area Attack"
                 ],
                 "target": [
                     "Alien, Zombie",
                     "Alien, Zombie",
-                    ""
+                    "Alien, Zombie"
                 ],
                 "effect": [
                     "Massive Damage",
                     "Massive Damage",
-                    ""
+                    "Massive Damage"
                 ],
                 "description": [
                     "A royal mummy from a mystic past. Actually, she mummified herself by over-applying foundation. Massive damage vs Aliens/Zombies (Area Atk)",
                     "She may have died from it, but overdoing makeup keeps her looking stunning even 5000 years later. Massive damage vs Aliens/Zombies (Area Atk)",
-                    ""
+                    "Charismatic royal corpse who will crumble to dust if she ever leaves her prescription beauty throne. Massive damage to Aliens/Zombies (Area Attack)"
                 ]
             },
             {
