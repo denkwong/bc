@@ -7484,7 +7484,14 @@
                     "A warrior that was transformed by the Legendary Cat Armour into a Tiger-type General. (Area Attack) Resistant to Black, more damage when hurt.",
                     "The Legendary Cat Armour evolved and sprouted a Cherry Tree from his head (Area Attack) Resistant to Black, more damage when hurt.",
                     "As the cherries blossom, so does Keiji's battle fury. Resistant to Black, immune to Wave attacks. Area attacks grow stronger as he takes damage."
-                ]
+                ],
+                "talents": {
+                    "Attack Up": 0,
+                    "Resist Weaken": 0,
+                    "Cost Down": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -9555,7 +9562,14 @@
                     "Cosmic water, brought to life! This nymph spirit controls waves that knock Aliens far back!",
                     "With waves that can split the Earth, its attacks wash away enemy Barriers. Tough Anti-Alien defense and knockback attacks.",
                     "Master of water, sends cleansing waves to purify mortal realms of evil, washing away Barriers. Tough Anti-Alien defense and knockback attacks."
-                ]
+                ],
+                "talents": {
+                    "Slow": 0,
+                    "Survives": 0,
+                    "Resist Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
