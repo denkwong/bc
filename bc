@@ -108,7 +108,6 @@ def add_talents(cat):
             "Knockback",
             "Money Up",
             "Slow",
-            "Survives",
             "Warp Blocker",
             "Wave Attack",
             "Weaken",
@@ -118,6 +117,9 @@ def add_talents(cat):
         # strengthen ability
         elif k == "Attack Up" and v != 0:
             cat["ability"].append("Strengthen")
+        # survive ability
+        elif k == "Survives" and v != 0:
+            cat["ability"].append("Survive")
         # resist ability
         elif "Resist" in k and v != 0:
             cat["ability"].append(k)
