@@ -8543,6 +8543,38 @@
             },
             {
                 "name": [
+                    "Relentless Gladios",
+                    "Gladios the Annihilator",
+                    ""
+                ],
+                "cost": [
+                    5625,
+                    5625,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "Slow, Knockback",
+                    "Slow, Knockback",
+                    ""
+                ],
+                "description": [
+                    "Gargantuan horned beast, spitting vicious thunderbolts that shake the very firmament. Chance to Knockback/Slow Traitless enemies.",
+                    "None may stand against the horned king bearing the soul of storms and impenetrable ebony armor. Chance to Knockback/Slow Traitless enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Momotaro",
                     "The Peach Angels",
                     "The Peach Devils"
