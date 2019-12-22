@@ -8300,7 +8300,7 @@
                 "name": [
                     "Twinstars",
                     "Twinstars, type o",
-                    "Ultima Twinstars, type o"
+                    "Divine Twinstars"
                 ],
                 "cost": [
                     3900,
@@ -8326,6 +8326,38 @@
                     "The two purehearted sisters, Cici and Koma. Divine breath controls their mighty mecha claws. Massive area damage to Aliens/Black.",
                     "The mechanical catpaws \"AH\" and \"UN\" sweetly sweep away any threat to these cutie-pie demigods. Massive area damage to Aliens/Black.",
                     "Undisputed masters of the coordinated assault. They skipped detention today to join the battle! Massive area damage to Aliens/Black."
+                ]
+            },
+            {
+                "name": [
+                    "Snow Angel Twinstars",
+                    "Snow Angel Twinstars, type o",
+                    ""
+                ],
+                "cost": [
+                    3900,
+                    3900,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating, Angel",
+                    "Floating, Angel",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Overflowing with holiday cheer, they'll smash any grumps who won't get into the Xmas spirit. Massive Area damage to Angels and Floating.",
+                    "Two good kids who are never on Santa's naughty list. Always the first to help with Xmas decorations. Massive Area damage to Angels and Floating.",
+                    ""
                 ]
             },
             {
