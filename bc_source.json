@@ -3099,6 +3099,38 @@
             },
             {
                 "name": [
+                    "Wushu Cat",
+                    "Sifu Cat",
+                    ""
+                ],
+                "cost": [
+                    360,
+                    360,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Single Attack",
+                    "Zombie Killer, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Zombie",
+                    "Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "Top student at a discount martial arts school that costs $40 per month. Goes twice weekly after work. Tough vs Zombies.",
+                    "Owner of a discount martial arts school. His insistence on using custom equipment disqualifies him from official competitions. Tough vs Zombies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Sports Day Cat",
                     "Kidnapper Cats",
                     "Rampage Cats"
