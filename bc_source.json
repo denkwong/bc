@@ -6371,6 +6371,38 @@
             },
             {
                 "name": [
+                    "Nymph Cat",
+                    "Medalist Cat",
+                    ""
+                ],
+                "cost": [
+                    975,
+                    975,
+                    null
+                ],
+                "ability": [
+                    "Area Attack, Long Distance",
+                    "Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Some rude \"hero\" dropped his axes right in her pond. No time for litterbugs, no matter how handsome they might be! Long Range Area attacks.",
+                    "Somehow this Cat qualified for the tournament... Somehow she won Gold. An investigation is underway. Long-range Area Attacks.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Crazed Cat",
                     "Crazed Macho Cat",
                     "Manic Mohawk Cat"
