@@ -7508,7 +7508,40 @@
                 ],
                 "description": [
                     "A brave band of Cats out to defeat the King of Evil. Long-range Area strikes have chance of Critical. 100% chance to weaken Red, Black, and Floating.",
-                    "The Chosen One and 11 courageous adventurers. Long-range Area strikes have chance of Critical. 100% chance to weaken Red, Black, and Floating."
+                    "The Chosen One and 11 courageous adventurers. Long-range Area strikes have chance of Critical. 100% chance to weaken Red, Black, and Floating.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Losvoss",
+                    "Ultimate Lasvoss",
+                    ""
+                ],
+                "cost": [
+                    5400,
+                    5400,
+                    null
+                ],
+                "ability": [
+                    "Strengthen, Survive, Savage Blow, Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Immune to Curse, Area Attack",
+                    "Strengthen, Survive, Savage Blow, Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Immune to Curse, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Incarnation of Evil summoned to eradicate the forces of Good. May strike a Savage Blow imbued with dark power. Survives once, stronger after taking damage.",
+                    "His final form, revealed for the final confrontation wit the heroes. Smites adventurers with Savage Blows, Survives once, Stronger after taking damage.",
+                    ""
                 ]
             },
             {
