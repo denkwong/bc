@@ -9588,7 +9588,14 @@
                     "The spunky interns of Cat Corps of Engineers built a retro battleship for marine dominance! Area atks deliver huge damage vs Red enemies.",
                     "Boasting a complement of elite marines and a drill able to punch through any hull, the Lionheart delivers huge area damage vs Reds and Zombies.",
                     "Cat Army Special Forces use this Nekonium drill-equipped destroyer to stage marine assaults. Huge area damage vs Reds and Zombies."
-                ]
+                ],
+                "talents": {
+                    "Dodge Attack": 0,
+                    "Resist Weaken": 0,
+                    "Resist Freeze": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
