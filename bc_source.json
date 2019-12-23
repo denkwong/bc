@@ -8327,7 +8327,14 @@
                     "Almost obliterated her school on the first day of class with her sword's dark magic. Massive damage against Angels. (Area Attack)",
                     "Banished her principal to the netherworld at the graduation ceremony. Things never change. Massive damage against Angels. (Area Attack)",
                     "All of the nice boys who confess their love to her soon find themselves \"graduated\" to the next world. Massive damage against Angels. (Area Attack)"
-                ]
+                ],
+                "talents": {
+                    "Slow": 0,
+                    "Curse Immunity": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Move Speed Up": 0
+                }
             },
             {
                 "name": [
