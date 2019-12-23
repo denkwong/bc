@@ -3099,6 +3099,38 @@
             },
             {
                 "name": [
+                    "Matador Cat",
+                    "Flamenco Cat",
+                    ""
+                ],
+                "cost": [
+                    540,
+                    540,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Dodge Attack",
+                    "Dodge Attack",
+                    ""
+                ],
+                "description": [
+                    "Fearless bullfighter dodging danger with a hearty Ole! Pacifist at heart, his only weapon is his crimson cape. Has a chance to dodge Red attacks.",
+                    "Graceful dancer dodging danger to hearty Oles! Well trained in the art of Dodging Red attacks (as well as unwanted advances from certain tomcats.)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Wushu Cat",
                     "Sifu Cat",
                     ""
