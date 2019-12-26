@@ -4187,6 +4187,38 @@
             },
             {
                 "name": [
+                    "Mightycat",
+                    "Supercat",
+                    ""
+                ],
+                "cost": [
+                    720,
+                    720,
+                    null
+                ],
+                "ability": [
+                    "Wave Shield, Single Attack",
+                    "Wave Shield, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "Heroic caped Cat who soars through the air (while worrying about being fired from his part-time job.) Weaken Traitless, nullfies Wave Attacks",
+                    "Grew Macho thanks to his nervous eating habit. Practices singing in the park when no one's around. Weaken Traitless, nullfies Wave Attacks",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "HYAKUTARO",
                     "HYAKUTARO CC",
                     ""
