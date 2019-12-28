@@ -7516,32 +7516,32 @@
                 "name": [
                     "Cat Clan Heroes",
                     "Cat Guild Heroes",
-                    ""
+                    "Cat Quest Heroes"
                 ],
                 "cost": [
                     3450,
                     3450,
-                    null
+                    3450
                 ],
                 "ability": [
                     "Critical, Area Attack, Long Distance",
                     "Critical, Area Attack, Long Distance",
-                    ""
+                    "Critical, Immune to Curse, Area Attack, Long Distance"
                 ],
                 "target": [
                     "Red, Floating, Black",
                     "Red, Floating, Black",
-                    ""
+                    "Red, Floating, Black, Relic"
                 ],
                 "effect": [
                     "Weaken",
                     "Weaken",
-                    ""
+                    "Weaken"
                 ],
                 "description": [
                     "A brave band of Cats out to defeat the King of Evil. Long-range Area strikes have chance of Critical. 100% chance to weaken Red, Black, and Floating.",
                     "The Chosen One and 11 courageous adventurers. Long-range Area strikes have chance of Critical. 100% chance to weaken Red, Black, and Floating.",
-                    ""
+                    "Our adventurers take their quest to the skies! Long-range Area strikes have chance of Critical. 100% Weaken vs Red, Black, Floating, Relics."
                 ]
             },
             {
