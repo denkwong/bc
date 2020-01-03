@@ -4219,6 +4219,38 @@
             },
             {
                 "name": [
+                    "Medusa Cat",
+                    "Twintail Medusa Cat",
+                    ""
+                ],
+                "cost": [
+                    750,
+                    750,
+                    null
+                ],
+                "ability": [
+                    "Immune to Curse, Area Attack, Long Distance",
+                    "Immune to Curse, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Relic",
+                    "Relic",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "Fiercely proud of her edgy hairstyle. Uses extra spray to prevent her locks from slithering out of place. Long-range area attacks may Freeze Relics.",
+                    "The spray couldn't hold them down, so she had to tie her unruly locks up to keep them under control. Long-range area attacks may Freeze Relics.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "HYAKUTARO",
                     "HYAKUTARO CC",
                     ""
