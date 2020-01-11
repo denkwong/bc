@@ -9052,6 +9052,38 @@
             },
             {
                 "name": [
+                    "Kintaro",
+                    "Kinrangers RoboForce",
+                    ""
+                ],
+                "cost": [
+                    840,
+                    4650,
+                    null
+                ],
+                "ability": [
+                    "Savage Blow, Area Attack, Long Distance",
+                    "Savage Blow, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Slow",
+                    "Slow",
+                    ""
+                ],
+                "description": [
+                    "Young exec at AxeCorp, managing operations at the mountain office with intern Li'l Bear. Might Slow Angels and strike a Savage Blow.",
+                    "Gathered the whole Beast Division for a unified fight against a very hostile acquisition attempt. Might Slow Angels and strike a Savage Blow.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Akira",
                     "Shadow Akira",
                     "Inferno Akira"
