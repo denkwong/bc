@@ -4251,6 +4251,38 @@
             },
             {
                 "name": [
+                    "Cossack Cat",
+                    "Vodka Cat",
+                    ""
+                ],
+                "cost": [
+                    600,
+                    600,
+                    null
+                ],
+                "ability": [
+                    "Immune to Curse, Single Attack",
+                    "Immune to Curse, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Relic",
+                    "Relic",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "A Cat of the steppes, master of the dance. Years of practice developed powerful thighs to deliver massive damage to Relics.",
+                    "On fearsome winter nights, enjoys a powerful liquor to warm himself and enhance his leg power. Massive damage to Relics!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "HYAKUTARO",
                     "HYAKUTARO CC",
                     ""
