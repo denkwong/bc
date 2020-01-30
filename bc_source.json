@@ -2213,6 +2213,38 @@
             },
             {
                 "name": [
+                    "Urs & Fenrir",
+                    "Urs & Minka",
+                    ""
+                ],
+                "cost": [
+                    4875,
+                    4875,
+                    null
+                ],
+                "ability": [
+                    "Immune to Curse, Area Attack",
+                    "Immune to Curse, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black, Angel, Alien, Zombie, Relic",
+                    "Red, Floating, Black, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "The weak shall serve the strong! Or so they say. The founding ancestor of a proud warrior clan. Area attacks might weaken non-Metal enemies.",
+                    "The first of their line to terrorize enemies by riding a ferocious Cat-beast into the enemy lines. Area attacks might weaken non-Metal enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Hermit Cat",
                     "Grandmaster Cat",
                     ""
