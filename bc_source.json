@@ -11325,17 +11325,17 @@
                 "name": [
                     "Nobiluga",
                     "Nobilan Pasalan",
-                    ""
+                    "Mystican Pasalan"
                 ],
                 "cost": [
                     4500,
                     4500,
-                    null
+                    2250
                 ],
                 "ability": [
                     "Single Attack",
                     "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Immune to Curse, Area Attack, Long Distance",
-                    ""
+                    "Immune to Weaken, Immune to Freeze, Immune to Slow, Immune to Knockback, Immune to Waves, Warp Blocker, Immune to Curse, Area Attack, Long Distance"
                 ],
                 "target": [
                     "",
@@ -11350,7 +11350,7 @@
                 "description": [
                     "Not sure if this is a Cat... There's just something about that cool 'stache...",
                     "I can't stand it anymore... Seems like this one is immune to Wave attacks. (Long Range Area Attack)",
-                    ""
+                    "Monster? Magician? ...Or just a Cat? No one can explain how its powers work. Immune to Wave attacks (Long-Range Area)"
                 ]
             },
             {
