@@ -2919,8 +2919,8 @@
                     "Resist Slow": 0,
                     "Resist Knockback": 0,
                     "Resist Curse": 0,
-                    "Defense Buff": 0,
-                    "Attack Buff": 1
+                    "Defense Buff": 10,
+                    "Attack Buff": 6
                 }
             },
             {
