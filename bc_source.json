@@ -4347,6 +4347,38 @@
             },
             {
                 "name": [
+                    "Teacher BearCat",
+                    "Assassin BearCat",
+                    ""
+                ],
+                "cost": [
+                    660,
+                    660,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Insane Damage",
+                    "Insane Damage",
+                    ""
+                ],
+                "description": [
+                    "Lead in the hit drama \"Trial of Teacher Bear\". Smashes anyone who steals his spotlight. Delivers insane area damage to Traitless.",
+                    "Production assistant on the set of \"Teacher Bear\". Obliterates anyone who stands in front of him. Delivers insane area damage to Black.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "HYAKUTARO",
                     "HYAKUTARO CC",
                     ""
