@@ -871,32 +871,32 @@
                 "name": [
                     "Titi",
                     "Titi CC",
-                    ""
+                    "Titi Cat CC"
                 ],
                 "cost": [
                     480,
                     480,
-                    null
+                    480
                 ],
                 "ability": [
                     "Single Attack",
                     "Single Attack",
-                    ""
+                    "Single Attack"
                 ],
                 "target": [
                     "Red, Floating, Black, Angel, Alien, Zombie, Relic",
                     "Red, Floating, Black, Angel, Alien, Zombie, Relic",
-                    ""
+                    "Red, Floating, Black, Angel, Alien, Zombie, Relic"
                 ],
                 "effect": [
                     "Slow",
                     "Slow",
-                    ""
+                    "Slow"
                 ],
                 "description": [
                     "Joining the fight from Merc Storia! Everyone's favorite PR pro is here! Might Slow a single enemy",
                     "Joining the fight from Merc Storia! Not only PR, she's an apple merchant too! Might Slow a single enemy",
-                    ""
+                    "Joining the fight from Merc Storia! The Battle Cats needs PR help too, right? Might Slow a single enemy"
                 ]
             },
             {
