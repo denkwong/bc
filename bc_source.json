@@ -871,32 +871,32 @@
                 "name": [
                     "Healer",
                     "Healer CC",
-                    ""
+                    "Healer Cat CC"
                 ],
                 "cost": [
                     300,
                     300,
-                    null
+                    300
                 ],
                 "ability": [
                     "Single Attack",
                     "Single Attack",
-                    ""
+                    "Area Attack"
                 ],
                 "target": [
                     "Red, Floating, Black, Angel, Alien, Zombie, Relic",
                     "Red, Floating, Black, Angel, Alien, Zombie, Relic",
-                    ""
+                    "Red, Floating, Black, Angel, Alien, Zombie, Relic"
                 ],
                 "effect": [
                     "Freeze",
                     "Freeze",
-                    ""
+                    "Freeze"
                 ],
                 "description": [
                     "The hero of Merc Storia joins the fight! Can soothe the heart of savage beasts. Small chance to Freeze enemies.",
                     "The hero of Merc Storia joins the fight! A weak and monster-phobic young lad. Small chance to Freeze enemies.",
-                    ""
+                    "The hero of Merc Storia joins the fight! Transformed into a Cat by his own experiments. Area Attacks have 100% Freeze."
                 ]
             },
             {
