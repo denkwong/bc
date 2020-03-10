@@ -869,6 +869,38 @@
             },
             {
                 "name": [
+                    "Healer",
+                    "Healer CC",
+                    ""
+                ],
+                "cost": [
+                    300,
+                    300,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black, Angel, Alien, Zombie, Relic",
+                    "Red, Floating, Black, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "The hero of Merc Storia joins the fight! Can soothe the heart of savage beasts. Small chance to Freeze enemies.",
+                    "The hero of Merc Storia joins the fight! A weak and monster-phobic young lad. Small chance to Freeze enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Titi",
                     "Titi CC",
                     "Titi Cat CC"
