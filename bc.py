@@ -228,8 +228,8 @@ class Bc:
         for cat in self.cats:
             rarity = cat.get_rarity()
             name = cat.get_name()
-            rarity_pct = cat.get_rarity_pct()
-            print("{0} ({1}) {2}%".format(name, rarity_map[rarity], int(rarity_pct * 100)))
+            rarity_pct = "{0:.2}".format(cat.get_rarity_pct())
+            print("{0} ({1}) | {2}".format(name, rarity_map[rarity], rarity_pct.lstrip("0").rstrip(".0)")))
 
     def load_cats(self):
         """
