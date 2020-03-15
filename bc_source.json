@@ -903,17 +903,17 @@
                 "name": [
                     "Merc",
                     "Merc CC",
-                    ""
+                    "Merc & Cat CC"
                 ],
                 "cost": [
                     570,
                     570,
-                    null
+                    570
                 ],
                 "ability": [
                     "Critical, Single Attack",
                     "Critical, Single Attack",
-                    ""
+                    "Critical, Single Attack"
                 ],
                 "target": [
                     "",
@@ -928,7 +928,7 @@
                 "description": [
                     "Joining the fight from Merc Storia! Mystic girl in a jar, bought for 10 Gold. Small chance of Critical Attack.",
                     "Joining the fight from Merc Storia! Cat joins her in the jar for the big fight! Small chance of Critical Attack.",
-                    ""
+                    "Joining the fight from Merc Storia! The girl in a jar bought a Cat for 10 Gold. Might Critical Attack."
                 ]
             },
             {
