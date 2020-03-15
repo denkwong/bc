@@ -901,6 +901,38 @@
             },
             {
                 "name": [
+                    "Merc",
+                    "Merc CC",
+                    ""
+                ],
+                "cost": [
+                    570,
+                    570,
+                    null
+                ],
+                "ability": [
+                    "Critical, Single Attack",
+                    "Critical, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Mystic girl in a jar, bought for 10 Gold. Small chance of Critical Attack.",
+                    "Joining the fight from Merc Storia! Cat joins her in the jar for the big fight! Small chance of Critical Attack.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Titi",
                     "Titi CC",
                     "Titi Cat CC"
