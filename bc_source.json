@@ -10543,32 +10543,32 @@
                 "name": [
                     "Juvens",
                     "Juvens CC",
-                    ""
+                    "Holiday Juvens CC"
                 ],
                 "cost": [
                     2850,
                     2850,
-                    null
+                    2850
                 ],
                 "ability": [
                     "Single Attack",
                     "Single Attack",
-                    ""
+                    "Single Attack"
                 ],
                 "target": [
                     "Angel",
                     "Angel",
-                    ""
+                    "Angel"
                 ],
                 "effect": [
                     "Resistant",
                     "Resistant",
-                    ""
+                    "Resistant, Dodge Attack"
                 ],
                 "description": [
                     "Joining the fight from Merc Storia! A kind knight troubled by uncanny strength from birth. Tough vs Angel enemies.",
                     "Joining the fight from Merc Storia! Merc says he's full of secrets. Tough vs Angel enemies.",
-                    ""
+                    "Joining the fight from Merc Storia! Merc says he fawns over cute things when no one is looking. Tough vs Angel enemies, might Dodge."
                 ]
             },
             {
