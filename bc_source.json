@@ -4475,6 +4475,38 @@
             },
             {
                 "name": [
+                    "Fuu",
+                    "Fuu CC",
+                    ""
+                ],
+                "cost": [
+                    450,
+                    450,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! A lass from the Sky Country, horned due to her mixed blood. Might Freeze Black enemies.",
+                    "Joining the fight from Merc Storia! Taking grand-dad's teachings to heart, she travels the world. Might Freeze Black enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "HYAKUTARO",
                     "HYAKUTARO CC",
                     ""
