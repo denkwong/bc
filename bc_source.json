@@ -4507,6 +4507,38 @@
             },
             {
                 "name": [
+                    "Nono",
+                    "Nono CC",
+                    ""
+                ],
+                "cost": [
+                    315,
+                    315,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! A gentle and naive young lady. Tough vs Black enemies.",
+                    "Joining the fight from Merc Storia! Don't be fooled, her tail is incredibly powerful! Tough vs Black enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Norn",
                     "Norn CC",
                     ""
