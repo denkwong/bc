@@ -10573,6 +10573,38 @@
             },
             {
                 "name": [
+                    "Wyvern",
+                    "Wyvern Cat",
+                    ""
+                ],
+                "cost": [
+                    4470,
+                    4470,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Delivering powerful blows from above that cause Massive Area damage vs Black enemies.",
+                    "The Cats adopted a poor lost Wyvern from Merc Storia to research Cat-Dragon fusion. Massive Area damage vs Black enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Hearscht",
                     "Hearscht CC",
                     "Revolutionary Hearscht CC"
