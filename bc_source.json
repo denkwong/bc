@@ -4539,6 +4539,38 @@
             },
             {
                 "name": [
+                    "Olga",
+                    "Olga CC",
+                    ""
+                ],
+                "cost": [
+                    480,
+                    480,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Knockback",
+                    "Knockback",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Left her homeland to learn about the world. Small chance to Knockback Red.",
+                    "Joining the fight from Merc Storia! Has a kind face but a sadistic nature. Small chance to Knockback Red.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Norn",
                     "Norn CC",
                     ""
