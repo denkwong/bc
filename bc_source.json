@@ -10033,6 +10033,38 @@
             },
             {
                 "name": [
+                    "Sharpshooter Saki",
+                    "Nighthunter Saki",
+                    ""
+                ],
+                "cost": [
+                    6300,
+                    6300,
+                    null
+                ],
+                "ability": [
+                    "Area Attack, Long Distance",
+                    "Zombie Killer, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Red, Alien",
+                    "Alien, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Attacks Only",
+                    "Attacks Only",
+                    ""
+                ],
+                "description": [
+                    "A sniper prodigy, small but effective. Can change the entire course of battle with a single bullet. Long-range attacks only hit Aliens & Red.",
+                    "The watchful guardian over the night city. Genius with a rifle, who still has to help Mom with the dishes. Long-range attacks only hit Aliens & Zombies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Thunder God Zeus",
                     "The Majestic Zeus",
                     ""
