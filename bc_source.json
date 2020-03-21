@@ -10669,6 +10669,38 @@
             },
             {
                 "name": [
+                    "Eyewaltz",
+                    "Eyewaltz CC",
+                    ""
+                ],
+                "cost": [
+                    3750,
+                    3750,
+                    null
+                ],
+                "ability": [
+                    "Survive, Savage Blow, Immune to Waves, Area Attack",
+                    "Survive, Savage Blow, Immune to Waves, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Renounced his pirate past to become a marine. 100% Survives, Chance of Savage Blow. (Area)",
+                    "Joining the fight from Merc Storia! Wields power for the cause of one special person. 100% Survives, Chance of Savage Blow. (Area)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mola King",
                     "Living Legend",
                     ""
