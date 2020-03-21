@@ -10509,6 +10509,38 @@
             },
             {
                 "name": [
+                    "Mystica",
+                    "Mystica CC",
+                    ""
+                ],
+                "cost": [
+                    5700,
+                    5700,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Knockback",
+                    "Knockback",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Odd girl who has made pacts with creatures of night. Long-range Area attacks, Strong vs Black.",
+                    "Joining the fight from Merc Storia! Touching her coffin will cause it to crumble to dust. Long-range Area attacks, Strong vs Black.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Michelia",
                     "Michelia CC",
                     "Naptime Michelia CC"
