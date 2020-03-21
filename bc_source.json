@@ -7395,6 +7395,38 @@
             },
             {
                 "name": [
+                    "Citrouille",
+                    "Citrouille CC",
+                    ""
+                ],
+                "cost": [
+                    810,
+                    810,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red, Black",
+                    "Red, Black",
+                    ""
+                ],
+                "effect": [
+                    "Slow, Knockback",
+                    "Slow, Knockback",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Gentleman of the dark, here thanks to a pact with a certain lad. Might Knockback/Slow Red & Black (Area)",
+                    "Joining the fight from Merc Storia! An eccentric citizen of the dreamworld. (Area Attacks) Might Knockback/Slow Red & Black",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Baby Mola",
                     "Young Man Mola",
                     ""
