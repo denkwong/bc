@@ -10541,6 +10541,38 @@
             },
             {
                 "name": [
+                    "Hearscht",
+                    "Hearscht CC",
+                    ""
+                ],
+                "cost": [
+                    2550,
+                    2550,
+                    null
+                ],
+                "ability": [
+                    "Critical, Single Attack",
+                    "Critical, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Metal",
+                    "Metal",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Silver beast with a blunt and logical attitude. Might Critical Attack, Tough vs Metal.",
+                    "Joining the fight from Merc Storia! A beguiling and handsome lady beast. Might Critical Attack, Tough vs Metal.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Juvens",
                     "Juvens CC",
                     "Holiday Juvens CC"
