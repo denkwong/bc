@@ -4571,6 +4571,38 @@
             },
             {
                 "name": [
+                    "Serum",
+                    "Serum CC",
+                    ""
+                ],
+                "cost": [
+                    510,
+                    510,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Knockback",
+                    "Knockback",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Loyal to her master in the Sky Country. Small chance to Knockback Black.",
+                    "Joining the fight from Merc Storia! Known among the people for devotion to justice! Small chance to Knockback Black.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Fuu",
                     "Fuu CC",
                     ""
