@@ -10543,32 +10543,32 @@
                 "name": [
                     "Hearscht",
                     "Hearscht CC",
-                    ""
+                    "Revolutionary Hearscht CC"
                 ],
                 "cost": [
                     2550,
                     2550,
-                    null
+                    2550
                 ],
                 "ability": [
                     "Critical, Single Attack",
                     "Critical, Single Attack",
-                    ""
+                    "Critical, Single Attack"
                 ],
                 "target": [
                     "Metal",
                     "Metal",
-                    ""
+                    "Metal"
                 ],
                 "effect": [
                     "Resistant",
                     "Resistant",
-                    ""
+                    "Resistant"
                 ],
                 "description": [
                     "Joining the fight from Merc Storia! Silver beast with a blunt and logical attitude. Might Critical Attack, Tough vs Metal.",
                     "Joining the fight from Merc Storia! A beguiling and handsome lady beast. Might Critical Attack, Tough vs Metal.",
-                    ""
+                    "Joining the fight from Merc Storia! Partisan fencer with radical fashion sense. Might Critical Attack, Tough vs Metal."
                 ]
             },
             {
