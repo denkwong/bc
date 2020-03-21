@@ -10541,6 +10541,38 @@
             },
             {
                 "name": [
+                    "Juvens",
+                    "Juvens CC",
+                    ""
+                ],
+                "cost": [
+                    2850,
+                    2850,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! A kind knight troubled by uncanny strength from birth. Tough vs Angel enemies.",
+                    "Joining the fight from Merc Storia! Merc says he's full of secrets. Tough vs Angel enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mystica",
                     "Mystica CC",
                     ""
