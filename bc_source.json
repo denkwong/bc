@@ -4475,6 +4475,38 @@
             },
             {
                 "name": [
+                    "Norn",
+                    "Norn CC",
+                    ""
+                ],
+                "cost": [
+                    645,
+                    645,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! A gentle young lad who loves stargazing. Small chance to Freeze Red.",
+                    "Joining the fight from Merc Storia! Serene but slightly absentminded youth. Small chance to Freeze Red.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Fuu",
                     "Fuu CC",
                     ""
