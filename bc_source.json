@@ -7523,6 +7523,38 @@
             },
             {
                 "name": [
+                    "Alois",
+                    "Alois CC",
+                    ""
+                ],
+                "cost": [
+                    1170,
+                    1170,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Knockback",
+                    "Knockback",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Master sorcerer cursed for unknown reasons. Area attacks might Knockback Angels.",
+                    "Joining the fight from Merc Storia! Recovered treasured items thanks to loyal disciples. Area attacks might Knockback Angels.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Citrouille",
                     "Citrouille CC",
                     ""
