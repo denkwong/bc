@@ -7427,6 +7427,38 @@
             },
             {
                 "name": [
+                    "Rei",
+                    "Rei CC",
+                    ""
+                ],
+                "cost": [
+                    1545,
+                    1545,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Slow",
+                    "Slow",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Her strong emotions cause shocks to people nearby. Area attacks might Slow Black.",
+                    "Joining the fight from Merc Storia! Monsters flee from her presence. Area attacks might Slow Black.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Citrouille",
                     "Citrouille CC",
                     ""
