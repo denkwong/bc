@@ -10381,6 +10381,38 @@
             },
             {
                 "name": [
+                    "Michelia",
+                    "Michelia CC",
+                    ""
+                ],
+                "cost": [
+                    4500,
+                    4500,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Freeze, Strong Against",
+                    "Freeze, Strong Against",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Called \"Holy Wings\" for obvious reasons. Strong vs/Might Freeze Floating",
+                    "Joining the fight from Merc Storia! Only by casting aside wings can you realize true sainthood. Strong vs/Might Freeze Floating",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mola King",
                     "Living Legend",
                     ""
