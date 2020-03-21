@@ -10383,32 +10383,32 @@
                 "name": [
                     "Michelia",
                     "Michelia CC",
-                    ""
+                    "Naptime Michelia CC"
                 ],
                 "cost": [
                     4500,
                     4500,
-                    null
+                    4500
                 ],
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    ""
+                    "Area Attack"
                 ],
                 "target": [
                     "Floating",
                     "Floating",
-                    ""
+                    "Floating"
                 ],
                 "effect": [
                     "Freeze, Strong Against",
                     "Freeze, Strong Against",
-                    ""
+                    "Freeze, Strong Against"
                 ],
                 "description": [
                     "Joining the fight from Merc Storia! Called \"Holy Wings\" for obvious reasons. Strong vs/Might Freeze Floating",
                     "Joining the fight from Merc Storia! Only by casting aside wings can you realize true sainthood. Strong vs/Might Freeze Floating",
-                    ""
+                    "Joining the fight from Merc Storia! Saint who avoids dependence on God's miracles. Strong vs/100% Freeze vs Floating"
                 ]
             },
             {
