@@ -10605,6 +10605,38 @@
             },
             {
                 "name": [
+                    "Cornelia",
+                    "Cornelia CC",
+                    ""
+                ],
+                "cost": [
+                    3750,
+                    3750,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red, Black",
+                    "Red, Black",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Lady who admires dragons, dreaming of a celestial bridge. Area attacks might Freeze Red/Black.",
+                    "Joining the fight from Merc Storia! Can't resist the dragon scales that build heaven's bridge. Area attacks might Freeze Red/Black.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Juvens",
                     "Juvens CC",
                     "Holiday Juvens CC"
