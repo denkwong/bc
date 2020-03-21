@@ -4507,6 +4507,38 @@
             },
             {
                 "name": [
+                    "Yoichi",
+                    "Yoichi CC",
+                    ""
+                ],
+                "cost": [
+                    1110,
+                    1110,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Slow",
+                    "Slow",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! A genteel youth with a reckless nature. Small chance to Slow Black enemies.",
+                    "Joining the fight from Merc Storia! Enjoys drinking under the moon, but he's a light-weight. Small chance to Slow Black enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Fuu",
                     "Fuu CC",
                     ""
