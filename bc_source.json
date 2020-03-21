@@ -4475,6 +4475,38 @@
             },
             {
                 "name": [
+                    "Celesse",
+                    "Celesse CC",
+                    ""
+                ],
+                "cost": [
+                    435,
+                    435,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Slow",
+                    "Slow",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Merc Storia! Kind-hearted girl who will do anything for others. Small chance to Slow Red enemies.",
+                    "Joining the fight from Merc Storia! Her fan club grows daily across the land. Small chance to Slow Red enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Norn",
                     "Norn CC",
                     ""
