@@ -11855,32 +11855,32 @@
                 "name": [
                     "Wolfchild Deale",
                     "Wolf Princess Deale",
-                    ""
+                    "Jester Queen Deale"
                 ],
                 "cost": [
                     4620,
                     4620,
-                    null
+                    4620
                 ],
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    ""
+                    "Area Attack"
                 ],
                 "target": [
                     "Angel, Alien",
                     "Angel, Alien",
-                    ""
+                    "Angel, Alien"
                 ],
                 "effect": [
                     "Knockback",
                     "Knockback",
-                    ""
+                    "Knockback"
                 ],
                 "description": [
                     "A lost cub from a mighty werewolf pack who found her calling in show business. Might knockback Angels & Aliens (Area Atk)",
                     "The one-wolf show has revealed her true colors to universal acclaim. Are you not entertained?? Might knockback Angels & Aliens (Area Atk)",
-                    ""
+                    "Started streaming her comedy act and earned a million bucks! Follow her for a special reward~* Area attacks might knockback Angels/Aliens"
                 ]
             },
             {
