@@ -11789,6 +11789,38 @@
             },
             {
                 "name": [
+                    "Hatsune Miku",
+                    "Hatsune Miku CC",
+                    ""
+                ],
+                "cost": [
+                    3900,
+                    3900,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Angel",
+                    "Red, Floating, Angel",
+                    ""
+                ],
+                "effect": [
+                    "Weaken, Strong Against",
+                    "Weaken, Strong Against",
+                    ""
+                ],
+                "description": [
+                    "Virtual singer loved by the entire Cat Empire! Cute & stylish electric pop diva. (Area Attack) Strong vs. & Weakens Red, Floating, Angels.",
+                    "Virtual singer loved by the entire Cat Empire! Her voice is famous around the globe. (Area Attack) Strong vs. & Weakens Red, Floating, Angels.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
