@@ -11853,6 +11853,38 @@
             },
             {
                 "name": [
+                    "Kagamine Rin & Len",
+                    "Kagamine Rin & Len CC",
+                    ""
+                ],
+                "cost": [
+                    4350,
+                    4350,
+                    null
+                ],
+                "ability": [
+                    "Immune to Knockback, Area Attack, Long Distance",
+                    "Immune to Knockback, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Black, Metal",
+                    "Black, Metal",
+                    ""
+                ],
+                "effect": [
+                    "Slow, Knockback",
+                    "Slow, Knockback",
+                    ""
+                ],
+                "description": [
+                    "Virtual singers loved by the entire Cat Empire! Powerful and charming twin vocals. Long-range Area attacks might Knockback/Slow Black & Metal",
+                    "Virtual singers loved by the entire Cat Empire! Voices filled with the dreams of youth. Long-range Area attacks might Knockback/Slow Black & Metal",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
