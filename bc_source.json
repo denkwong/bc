@@ -11821,6 +11821,38 @@
             },
             {
                 "name": [
+                    "Sakura Miku",
+                    "Sakura Miku CC",
+                    ""
+                ],
+                "cost": [
+                    3900,
+                    3900,
+                    null
+                ],
+                "ability": [
+                    "Barrier Breaker, Area Attack, Long Distance",
+                    "Barrier Breaker, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Alien",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "Virtual singer loved by the entire Cat Empire! Cute & stylish diva dressed for spring! Long-range Area attacks Freeze Aliens, might break Barriers.",
+                    "Virtual singer loved by the entire Cat Empire! Diva who dances among the cherry blossoms. Area attacks Freeze Aliens, might break Barriers.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
