@@ -10321,6 +10321,38 @@
             },
             {
                 "name": [
+                    "Hades the Punisher",
+                    "Hades the Deathdealer",
+                    ""
+                ],
+                "cost": [
+                    4425,
+                    4425,
+                    null
+                ],
+                "ability": [
+                    "Warp Blocker, Immune to Toxic, Area Attack",
+                    "Warp Blocker, Immune to Toxic, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Supreme overlord and judge of the dead. Condemns evil souls with his infernal scythe. Immune to Toxic & Warp (Area Attack)",
+                    "Ruler of the underworld who reaps the spirits of sinners, bringing them to their ultimate fate. Immune to Toxic & Warp (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Mighty Kat-A-Pult",
                     "CAT-6 Siege Engine",
                     "CAT-8 Behemoth"
