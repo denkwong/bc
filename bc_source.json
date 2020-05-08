@@ -4475,6 +4475,38 @@
             },
             {
                 "name": [
+                    "Rugby Cat",
+                    "Quarterback Cat",
+                    ""
+                ],
+                "cost": [
+                    900,
+                    900,
+                    null
+                ],
+                "ability": [
+                    "Immune to Waves, Area Attack, Long Distance",
+                    "Immune to Waves, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "Young and talented winger for Cat Empire F.C. Key attacker in recent wins against the Doges. Strong vs. Black, Immune to Waves. (Area Atk.)",
+                    "Moved across the sea and started a new sport. He seems to enjoy the extra padding. Strong vs Black, Immune to Waves (Long-range Area)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Celesse",
                     "Celesse CC",
                     ""
