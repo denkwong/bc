@@ -4731,6 +4731,38 @@
             },
             {
                 "name": [
+                    "Takuya & Yuki",
+                    "Takuya, Yuki & Cat",
+                    ""
+                ],
+                "cost": [
+                    450,
+                    450,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "Heroes from Shoumetsu Toshi! A brave deliveryman and a girl of mystery. Tough vs Floating (Area Attack)",
+                    "Gave a stray Cat a ride, thinking it was Sophia. Seeking answers in the destroyed metropolis. Tough vs Floating (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "HYAKUTARO",
                     "HYAKUTARO CC",
                     ""
