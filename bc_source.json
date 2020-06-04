@@ -4733,32 +4733,32 @@
                 "name": [
                     "Takuya & Yuki",
                     "Takuya, Yuki & Cat",
-                    ""
+                    "Takuya & Lovely Yuki"
                 ],
                 "cost": [
                     450,
                     450,
-                    null
+                    450
                 ],
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    ""
+                    "Extra Money, Area Attack"
                 ],
                 "target": [
                     "Floating",
                     "Floating",
-                    ""
+                    "Floating"
                 ],
                 "effect": [
                     "Resistant",
                     "Resistant",
-                    ""
+                    "Resistant"
                 ],
                 "description": [
                     "Heroes from Shoumetsu Toshi! A brave deliveryman and a girl of mystery. Tough vs Floating (Area Attack)",
                     "Gave a stray Cat a ride, thinking it was Sophia. Seeking answers in the destroyed metropolis. Tough vs Floating (Area Attack)",
-                    ""
+                    "Travelling with a mysterious being that is the key to find missing Yuki. Tough vs Floating Extra money from enemies (Area Atk)"
                 ]
             },
             {
