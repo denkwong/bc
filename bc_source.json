@@ -4763,6 +4763,38 @@
             },
             {
                 "name": [
+                    "Redhead Yuki Cat",
+                    "Redhead Lovely Yuki Cat",
+                    ""
+                ],
+                "cost": [
+                    600,
+                    600,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "Girl lost during the city's destruction, reborn as a Cat but retaining all her mysterious powers. Small chance to Freeze Aliens.",
+                    "Girl who became a Cat after the city's destruction, had a stylish outfit tailored to fit her new propotions. Small chance to Freeze Aliens.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "HYAKUTARO",
                     "HYAKUTARO CC",
                     ""
