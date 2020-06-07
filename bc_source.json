@@ -4795,6 +4795,38 @@
             },
             {
                 "name": [
+                    "Kano & Souma",
+                    "Kano & Souma & Cat",
+                    ""
+                ],
+                "cost": [
+                    420,
+                    420,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "Heroes from Shoumetsu Toshi! Two wanderers in the ruins of the city, confronting their own sins. Tough vs Aliens, Area Attack",
+                    "Joined by a Cat picked up at the seaside, our wanderers set their sights on the ruined city. Tough vs Aliens, Area Attack",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "HYAKUTARO",
                     "HYAKUTARO CC",
                     ""
