@@ -1093,6 +1093,38 @@
             },
             {
                 "name": [
+                    "Yuki Cat",
+                    "Lovely Yuki Cat",
+                    ""
+                ],
+                "cost": [
+                    600,
+                    600,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "Girl lost during the city's destruction, reborn as a Cat but retaining all her mysterious powers. Small chance to Freeze Floating.",
+                    "Girl who became a Cat after the city's destruction, now slowly regaining her former charisma. Small chance to Freeze Floating.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Catburger",
                     "Cat Royale",
                     "Value Meal Cat"
