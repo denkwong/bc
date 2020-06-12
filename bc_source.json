@@ -7843,6 +7843,38 @@
             },
             {
                 "name": [
+                    "Otaku Geek Cat",
+                    "Hacker Geek Cat",
+                    ""
+                ],
+                "cost": [
+                    3750,
+                    3750,
+                    null
+                ],
+                "ability": [
+                    "Single Attack, Long Distance",
+                    "Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black, Angel, Alien, Zombie, Relic",
+                    "Red, Floating, Black, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "Cat bearing the spirit of a legendary programmer dedicated to teaching the world through his blog. Long-distance attacks 100% Weaken non-Metal.",
+                    "An expert techie who knows any machine inside and out. Yesterday, his own blog was hacked... Long-distance attacks 100% Weaken non-Metal.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "SV-001",
                     "SV-001 CC",
                     ""
