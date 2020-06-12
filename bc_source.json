@@ -11117,6 +11117,38 @@
             },
             {
                 "name": [
+                    "Crazed Yuki",
+                    "Crazed Yuki & Cat",
+                    ""
+                ],
+                "cost": [
+                    4320,
+                    4320,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red, Black",
+                    "Red, Black",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Possessed by a dark soul, she feverishly hunts down the mystery behind the annihiliation. Massive Area damage against Red and Black.",
+                    "Desperate to solve the mystery, she has given herself totally over to darkness and Catness. Massive Area damage against Red and Black.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Lost World Yuki",
                     "Lost World Yuki & Cat",
                     "Lost World Catgirl Yuki"
