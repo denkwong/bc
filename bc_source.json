@@ -11119,32 +11119,32 @@
                 "name": [
                     "Mystery Girl Yuki",
                     "Mystery Yuki & Cat",
-                    ""
+                    "Mystery Catgirl Yuki"
                 ],
                 "cost": [
                     4320,
                     4320,
-                    null
+                    4320
                 ],
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    ""
+                    "Immune to Weaken, Area Attack"
                 ],
                 "target": [
                     "Floating",
                     "Floating",
-                    ""
+                    "Floating"
                 ],
                 "effect": [
                     "Massive Damage",
                     "Massive Damage",
-                    ""
+                    "Massive Damage"
                 ],
                 "description": [
                     "Mysteriously reappeared after being lost in the city's destruction, with strange new powers... Massive Area damage to Floating enemies.",
                     "Enigmatic girl with the power to call forth souls (with some help from the Cat). Massive Area damage to Floating enemies.",
-                    ""
+                    "Since growing cat ears to better speak with Cats, her soul communion has also improved? Massive Area damage to Floating enemies."
                 ]
             },
             {
