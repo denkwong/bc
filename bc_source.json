@@ -11181,6 +11181,38 @@
             },
             {
                 "name": [
+                    "Benevolent Souma",
+                    "Souma & Cat",
+                    ""
+                ],
+                "cost": [
+                    4200,
+                    4200,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel, Alien",
+                    "Angel, Alien",
+                    ""
+                ],
+                "effect": [
+                    "Weaken, Slow",
+                    "Weaken, Slow",
+                    ""
+                ],
+                "description": [
+                    "Yuki's brother, who arrived in the world beyond as a boy. Seeking to advance past the sins of the past. Area attacks might Slow and Weaken Angels/Aliens.",
+                    "Souma was saved from being swept up by a Cat and granted powers to summon lost souls. Area attacks might Slow and Weaken Angels/Aliens.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Madoka Kaname",
                     "Madoka & Cat",
                     ""
