@@ -11117,6 +11117,38 @@
             },
             {
                 "name": [
+                    "Mystery Girl Yuki",
+                    "Mystery Yuki & Cat",
+                    ""
+                ],
+                "cost": [
+                    4320,
+                    4320,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Mysteriously reappeared after being lost in the city's destruction, with strange new powers... Massive Area damage to Floating enemies.",
+                    "Enigmatic girl with the power to call forth souls (with some help from the Cat). Massive Area damage to Floating enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Crazed Yuki",
                     "Crazed Yuki & Cat",
                     "Crazed Catgirl Yuki"
