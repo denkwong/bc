@@ -4859,6 +4859,38 @@
             },
             {
                 "name": [
+                    "Souma Cat",
+                    "Stylish Souma Cat",
+                    ""
+                ],
+                "cost": [
+                    600,
+                    600,
+                    null
+                ],
+                "ability": [
+                    "Wave Attack, Single Attack",
+                    "Wave Attack, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "A boy lost to the destruction, reborn as a Cat who makes ominous statements. 100% chance of Wave Attack.",
+                    "Over time, the boy-turned-Cat evolved the powerful legs from his time as a human. 100% chance of Wave Attack.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "HYAKUTARO",
                     "HYAKUTARO CC",
                     ""
