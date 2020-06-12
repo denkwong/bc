@@ -11119,32 +11119,32 @@
                 "name": [
                     "Crazed Yuki",
                     "Crazed Yuki & Cat",
-                    ""
+                    "Crazed Catgirl Yuki"
                 ],
                 "cost": [
                     4320,
                     4320,
-                    null
+                    4320
                 ],
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    ""
+                    "Immune to Slow, Area Attack"
                 ],
                 "target": [
                     "Red, Black",
                     "Red, Black",
-                    ""
+                    "Red, Black"
                 ],
                 "effect": [
                     "Massive Damage",
                     "Massive Damage",
-                    ""
+                    "Massive Damage"
                 ],
                 "description": [
                     "Possessed by a dark soul, she feverishly hunts down the mystery behind the annihiliation. Massive Area damage against Red and Black.",
                     "Desperate to solve the mystery, she has given herself totally over to darkness and Catness. Massive Area damage against Red and Black.",
-                    ""
+                    "Darkness has given Yuki cute Cat ears, a tail, and the power to call forth stronger corrupt souls. Massive Area damage against Red and Black."
                 ]
             },
             {
