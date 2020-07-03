@@ -82,6 +82,8 @@ def convert_cat(cat, rarity, cat_position, cat_count):
                 "rarity_pct": 1.0 * cat_position / cat_count,
                 "rarity_total": cat_count
             }
+            if c["name"] in c["alias"]:
+                c["alias"].remove(c["name"])
             if c["effect"][0] != "" and c["target"][0] == "":
                 c["target"] = ["traitless"]
             if "talents" in cat and form == "True":
@@ -140,7 +142,6 @@ def display_cat(cat, **kwargs):
     """
     name = cat.get_name()
     aliases = cat.get_alias()
-    aliases.remove(name)
     aliases = ", ".join(aliases)
     display_str = "{0} ({1}), {2}, {3}% ({4}/{5})".format(
         name,
