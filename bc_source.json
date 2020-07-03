@@ -4539,6 +4539,38 @@
             },
             {
                 "name": [
+                    "Phantom Cat",
+                    "Miasma Cat",
+                    ""
+                ],
+                "cost": [
+                    675,
+                    675,
+                    null
+                ],
+                "ability": [
+                    "Immune to Weaken, Immune to Freeze, Area Attack, Long Distance",
+                    "Immune to Weaken, Immune to Freeze, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "A vague shape that kind of resembles a Cat. Finds it tough to keep it together in windy places. Long-range Area attacks hit Angels for massive damage.",
+                    "An ambiguously Cat-like being made of dark vapor. Belches up foul gasses when he has tummy trouble. Long-range Area attacks hit Angels for massive damage.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Celesse",
                     "Celesse CC",
                     ""
