@@ -34,7 +34,7 @@ for val in "${tests[@]}"; do
   fi
 done
 
-echo "Error count = " $errors
+echo "Error count =" $errors
 if [ "$errors" -gt 0 ]
 then
   exit 1
