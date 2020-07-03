@@ -8275,7 +8275,7 @@
                 "cost": [
                     3000,
                     3000,
-                    3000
+                    [3000, 2925, 2850, 2775, 2700, 2625]
                 ],
                 "ability": [
                     "Immune to Weaken, Single Attack",
@@ -8302,7 +8302,7 @@
                     "Resist Wave": 5,
                     "Defense Buff": 0,
                     "Attack Buff": 0,
-                    "Cost Down": 0
+                    "Cost Down": 5
                 }
             },
             {
