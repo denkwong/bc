@@ -6171,11 +6171,11 @@
                     "Kicked out of dance school for improvising performances too provocative for family shows. Sometimes slows movement of Red enemies."
                 ],
                 "talents": {
-                    "Money Up": 0,
-                    "Target Alien": 0,
+                    "Money Up": 1,
+                    "Target Alien": 1,
                     "Defense Buff": 0,
                     "Attack Buff": 0,
-                    "Move Speed Up": 0
+                    "Move Speed Up": 10
                 }
             },
             {
