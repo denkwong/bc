@@ -9705,17 +9705,17 @@
                 "name": [
                     "Relentless Gladios",
                     "Gladios the Annihilator",
-                    ""
+                    "God-Emperor Gladios"
                 ],
                 "cost": [
                     5625,
                     5625,
-                    null
+                    5625
                 ],
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    ""
+                    "Area Attack"
                 ],
                 "target": [
                     "",
@@ -9725,12 +9725,12 @@
                 "effect": [
                     "Slow, Knockback",
                     "Slow, Knockback",
-                    ""
+                    "Slow, Knockback"
                 ],
                 "description": [
                     "Gargantuan horned beast, spitting vicious thunderbolts that shake the very firmament. Chance to Knockback/Slow Traitless enemies.",
                     "None may stand against the horned king bearing the soul of storms and impenetrable ebony armor. Chance to Knockback/Slow Traitless enemies.",
-                    ""
+                    "Bathed in the light of obliteration at a holy mountain and realized the power to destroy all life. (Area Atk) 100% Chance to Knockback/Slow Traitless."
                 ]
             },
             {
