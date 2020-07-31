@@ -4571,6 +4571,38 @@
             },
             {
                 "name": [
+                    "Bakery Cat",
+                    "Boomerang Cat",
+                    ""
+                ],
+                "cost": [
+                    720,
+                    720,
+                    null
+                ],
+                "ability": [
+                    "Immune to Freeze, Warp Blocker, Single Attack, Long Distance",
+                    "Immune to Freeze, Warp Blocker, Single Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Angel, Alien, Zombie",
+                    "Angel, Alien, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Curse",
+                    "Curse",
+                    ""
+                ],
+                "description": [
+                    "Cat who ran away from home to become a baker in the big city. His croissants are tasty AND battle-ready! Long-range atks 100% Curse Angels/Aliens/Zombies",
+                    "Disillusioned by city life, returned home to reclaim his place as a proud hunter wielding a high-tech homing weapon. Long-range atks 100% Curse Angels/Aliens/Zombies",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Celesse",
                     "Celesse CC",
                     ""
