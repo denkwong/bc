@@ -102,8 +102,10 @@ def add_talents(cat):
     for k, v in cat["talents"].items():
         # abilities
         if k in [
+            "Attack Buff",
             "Barrier Breaker",
             "Curse Immunity",
+            "Defense Buff",
             "Dodge Attack",
             "Freeze",
             "Immune to Waves",
