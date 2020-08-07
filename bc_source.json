@@ -6237,8 +6237,8 @@
                 "talents": {
                     "Money Up": 1,
                     "Target Alien": 1,
-                    "Defense Buff": 0,
-                    "Attack Buff": 0,
+                    "Defense Buff": 2,
+                    "Attack Buff": 2,
                     "Move Speed Up": 10
                 }
             },
@@ -6907,7 +6907,7 @@
                     "Resist Slow": 0,
                     "Defense Buff": 0,
                     "Attack Buff": 0,
-                    "Move Speed Up": 0
+                    "Move Speed Up": 5
                 }
             },
             {
