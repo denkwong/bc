@@ -12763,6 +12763,38 @@
             },
             {
                 "name": [
+                    "Papaluga",
+                    "Papalan Pasalan",
+                    ""
+                ],
+                "cost": [
+                    4500,
+                    4500,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Immune to Curse, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "Red, Floating, Black, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "Curse",
+                    ""
+                ],
+                "description": [
+                    "Not sure if this is a Cat... There's just something about that toothless smile...",
+                    "Great googly moogly! Seems like this mysterious old-timer has Area attacks that 100% Curse non-Metal.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Li'l Valkyrie",
                     "Wind Dancer Valkyrie",
                     ""
