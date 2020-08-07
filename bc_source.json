@@ -2434,6 +2434,38 @@
                     "Remade his holy mask in the image of his new Cat Army comrades. It really embarrasses his 12-year old daughter. Long-range area attacks.",
                     ""
                 ]
+            },
+            {
+                "name": [
+                    "Master Uril",
+                    "Mystic Uril",
+                    ""
+                ],
+                "cost": [
+                    4050,
+                    4050,
+                    null
+                ],
+                "ability": [
+                    "Surge Attacks, Immune to Curse, Area Attack",
+                    "Surge Attacks, Immune to Curse, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Relic",
+                    "Relic",
+                    ""
+                ],
+                "effect": [
+                    "Slow",
+                    "Slow",
+                    ""
+                ],
+                "description": [
+                    "The will of one in flowing robes is the law! And so, he forced his way into the Cat Army. 100% Slow vs Relics, Area Surge attacks.",
+                    "Fabled martial artist who sealed away the demon king. ... says the parrot. This mask is a gift from his grandchild. 100% Slow vs Relics, Area Surge attacks.",
+                    ""
+                ]
             }
         ],
         "rare": [
