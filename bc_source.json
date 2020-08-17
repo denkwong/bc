@@ -8320,6 +8320,38 @@
                     "Recruited from Evangelion! After becoming a WILLE officer, treats Shinji coolly. Area attacks might Weaken Aliens.",
                     ""
                 ]
+            },
+            {
+                "name": [
+                    "Rei Ayanami (???)",
+                    "Awakened Ayanami",
+                    ""
+                ],
+                "cost": [
+                    1185,
+                    1185,
+                    null
+                ],
+                "ability": [
+                    "Eva Angel Killer, Immune to Knockback, Area Attack",
+                    "Eva Angel Killer, Immune to Knockback, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Weaken, Resistant",
+                    "Weaken, Resistant",
+                    ""
+                ],
+                "description": [
+                    "Recruited from Evangelion! But it seems she has no memory of Shinji...? Tough vs Black, Area attacks might Weaken.",
+                    "Recruited from Evangelion! Beginning to wonder about her true identity... Tough vs Black, Area attacks might Weaken.",
+                    ""
+                ]
             }
         ],
         "uber": [
