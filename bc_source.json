@@ -8288,6 +8288,38 @@
                     "Recruited from Evangelion! Her love for piloting Eva is plain to see. Strong vs. Floating (Area Attack)",
                     ""
                 ]
+            },
+            {
+                "name": [
+                    "Ritsuko Akagi",
+                    "First Officer Ritsuko",
+                    ""
+                ],
+                "cost": [
+                    1125,
+                    1125,
+                    null
+                ],
+                "ability": [
+                    "Immune to Weaken, Warp Blocker, Area Attack",
+                    "Immune to Weaken, Warp Blocker, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "Recruited from Evangelion! Cool researcher from NERV's technical development team. Area attacks might Weaken Aliens.",
+                    "Recruited from Evangelion! After becoming a WILLE officer, treats Shinji coolly. Area attacks might Weaken Aliens.",
+                    ""
+                ]
             }
         ],
         "uber": [
