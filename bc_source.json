@@ -2499,7 +2499,14 @@
                     "Sucked in to recent (?) trend of toys. Still, looks pretty fun. Cheap to produce, might survive being broken.",
                     "Volunteered overseas and experienced cultural exchange. Took home a costume. Cheap to produce, might survive lethal strikes.",
                     "Horror movie maniac, or real g-g-ghost? Mystic seal is just this month's gas bill... Cheap to produce, 100% survives once!"
-                ]
+                ],
+                "talents": {
+                    "Resist Slow": 0,
+                    "Resist Wave": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Move Speed Up": 0
+                }
             },
             {
                 "name": [
@@ -8598,7 +8605,14 @@
                     "Her warm smile and healing aura take away the sting of her piercing syringe (Area attack) Might knockback/slow Black/Floating enemies.",
                     "A battlefield nurse saving lives with a syringe. Defensive power/area increased (Area attack) Might knockback/slow Black/Floating enemies.",
                     "A beloved medic & veteran of many Cat campaigns. Area attacks deliver vital medicine. Might knockback/slow Black/Floating enemies."
-                ]
+                ],
+                "talents": {
+                    "Slow": 0,
+                    "Knockback": 0,
+                    "Curse Immunity": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -10104,7 +10118,14 @@
                     "Cat Army R&D cloned an anicent superweapon: a cute Tanuki that can survive being set on fire... Might weaken Alien/Angel attacks. (Area Attack)",
                     "Communing with ancient spirits, Kachi now gathers all the heat he has absorbed for explosive assaults! Weakens Alien/Angel attacks. (Area Attack)",
                     "Ancient magic empowered by modern technology. Burn it all down and leave no evidence behind! Weakens Alien/Angel attacks. (Area Attack)"
-                ]
+                ],
+                "talents": {
+                    "Resist Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Cost Down": 0,
+                    "Recover Speed Up": 0
+                }
             },
             {
                 "name": [
