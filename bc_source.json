@@ -10566,6 +10566,38 @@
             },
             {
                 "name": [
+                    "Squirtgun Saki",
+                    "Aquabuster Saki",
+                    ""
+                ],
+                "cost": [
+                    6300,
+                    6300,
+                    null
+                ],
+                "ability": [
+                    "Area Attack, Long Distance",
+                    "Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Floating, Black",
+                    "Floating, Angel",
+                    ""
+                ],
+                "effect": [
+                    "Attacks Only",
+                    "Attacks Only",
+                    ""
+                ],
+                "description": [
+                    "Waterguns are harder to aim... but at least accidental TKs only get summer camp friends wet. Long-Range area attacks only hit Floating/Black",
+                    "Watches over the starlit beaches, protecting sea turtles from rowdy partiers with illegal fireworks. Long-Range Area attacks only hit Floating/Angels",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Thunder God Zeus",
                     "The Majestic Zeus",
                     ""
