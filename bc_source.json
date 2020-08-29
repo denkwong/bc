@@ -12745,6 +12745,45 @@
             },
             {
                 "name": [
+                    "Summerluga",
+                    "Bikinilan Pasalan",
+                    ""
+                ],
+                "cost": [
+                    4500,
+                    4500,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Surge Attacks, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Not sure if this is a Cat... or a Gal? There's just something about that taste in swimwear...",
+                    "Blistering barnacles! Seems like this bodacious beach babe has 100% chance of Area Surge attacks",
+                    ""
+                ],
+                "talents": {
+                    "Freeze": 0,
+                    "Resist Wave": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0,
+                    "Cost Down": 0
+                }
+            },
+            {
+                "name": [
                     "Asiluga",
                     "Asilan Pasalan",
                     "Assassinlan Pasalan"
