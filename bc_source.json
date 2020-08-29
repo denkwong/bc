@@ -6802,6 +6802,38 @@
             },
             {
                 "name": [
+                    "Lifeguard Cats",
+                    "Sweet Bro Cats",
+                    ""
+                ],
+                "cost": [
+                    1080,
+                    1080,
+                    null
+                ],
+                "ability": [
+                    "Immune to Waves, Area Attack, Long Distance",
+                    "Immune to Waves, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "Slow",
+                    "Slow",
+                    ""
+                ],
+                "description": [
+                    "Best friends who keep the beaches safe and fun, endlessly scanning the surf with 20/20 vision. Long-range Area attacks have chance to Slow Traitless",
+                    "Three loyal brothers who resemble a sugary treat. The one on top is surprisingly not the oldest. Long-range Area attacks have chance to Slow Traitless",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Nerd Cat",
                     "Hacker Cat",
                     "Cyberpunk Cat"
