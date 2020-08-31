@@ -13397,6 +13397,40 @@
                     ""
                 ]
             }
+        ],
+        "legend": [
+            {
+                "name": [
+                    "Gaia the Creator",
+                    "Gaia the Supreme",
+                    ""
+                ],
+                "cost": [
+                    4470,
+                    4470,
+                    null
+                ],
+                "ability": [
+                    "Area Attack, Long Distance",
+                    "Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Insane Damage",
+                    "Insane Damage",
+                    ""
+                ],
+                "description": [
+                    "The origin of all Life... and she can choose to undo it all whenever she pleases. Long-range Area attacks deal extreme damage to Traited.",
+                    "The ultimate Goddess, who directs mana birthed from the World Tree to annihilate enemies of Good. Extreme damage to Traited. (Long-range Area Atks)",
+                    ""
+                ]
+            }
         ]
     }
 }
