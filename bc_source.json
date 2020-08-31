@@ -6239,6 +6239,38 @@
                     "Taking first steps toward global pop stardom. Has front row seats for Miku's next show. Might Dodge Floating enemy attacks",
                     ""
                 ]
+            },
+            {
+                "name": [
+                    "Luka Cat",
+                    "Luka Cat CC",
+                    ""
+                ],
+                "cost": [
+                    495,
+                    495,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Dodge Attack",
+                    "Dodge Attack",
+                    ""
+                ],
+                "description": [
+                    "Die-hard fan of a cool & mysterious singer. Avoids dancing to preserve her mysterious allure. Chance to Dodge Alien attacks",
+                    "To better be like that cool & mysterious singer, dances with a tuna and talks like a salty sea dog. Chance to Dodge Alien attacks",
+                    ""
+                ]
             }
         ],
         "super": [
