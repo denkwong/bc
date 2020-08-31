@@ -182,7 +182,7 @@ class Bc:
     def find_rarity(self, rarity, cats=None):
         """
         return a list of cats that match specified rarity
-        :param str rarity: normal, special, rare, super, uber
+        :param str rarity: normal, special, rare, super, uber, legend
         :param list cats: optional list of Cats to search
         :return: list of Cats that match rarity
         :rtype: list
@@ -215,7 +215,7 @@ class Bc:
 
     def list_cats(self):
         """
-        Print list of cat names with rarity (n), (sp), (r), (sr), (u)
+        Print list of cat names with rarity (n), (sp), (r), (sr), (u), (l)
         :return: None
         """
         rarity_map = {
@@ -223,7 +223,8 @@ class Bc:
             "Special": "sp",
             "Rare": "r",
             "Super": "sr",
-            "Uber": "u"
+            "Uber": "u",
+            "Legend": "l"
          }
         for cat in self.cats:
             rarity = cat.get_rarity()
