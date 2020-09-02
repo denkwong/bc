@@ -13430,6 +13430,38 @@
                     "The ultimate Goddess, who directs mana birthed from the World Tree to annihilate enemies of Good. Extreme damage to Traited. (Long-range Area Atks)",
                     ""
                 ]
+            },
+            {
+                "name": [
+                    "Lumina",
+                    "Luminalia",
+                    ""
+                ],
+                "cost": [
+                    1110,
+                    3675,
+                    null
+                ],
+                "ability": [
+                    "Barrier Breaker, Immune to Slow, Warp Blocker, Area Attack",
+                    "Barrier Breaker, Immune to Slow, Warp Blocker, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Weaken, Insanely Tough",
+                    "Weaken, Insanely Tough",
+                    ""
+                ],
+                "description": [
+                    "The ultimate elemental manifestation, projected from a dying star at the end of the universe. Insanely tough, might Weaken, Barrier Breaker.",
+                    "Omniscient cosmic visionary from the future, mastery of all elements allows it to ignore Barriers. Insanely tough, 100% Weaken, Barrier Breaker.",
+                    ""
+                ]
             }
         ]
     }
