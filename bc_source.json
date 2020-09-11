@@ -12578,6 +12578,38 @@
             },
             {
                 "name": [
+                    "Megurine Luka",
+                    "Megurine Luka CC",
+                    ""
+                ],
+                "cost": [
+                    3750,
+                    3750,
+                    null
+                ],
+                "ability": [
+                    "Immune to Knockback, Area Attack, Long Distance",
+                    "Immune to Knockback, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Floating, Black",
+                    "Floating, Black",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Virtual singer loved by the entire Cat Empire! Bilingual vocalist with just a bit of mystery to her. Massive Long-Range Area Damage to Floating/Black",
+                    "Virtual singer loved by the entire Cat Empire! Laid-back bilingual vocalist with a silky smooth voice. Massive Long-Range Area Damage to Floating/Black",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
