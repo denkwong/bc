@@ -13494,6 +13494,38 @@
                     "Omniscient cosmic visionary from the future, mastery of all elements allows it to ignore Barriers. Insanely tough, 100% Weaken, Barrier Breaker.",
                     ""
                 ]
+            },
+            {
+                "name": [
+                    "Kyosaka Nanaho",
+                    "True Kyosaka Nanaho",
+                    ""
+                ],
+                "cost": [
+                    4050,
+                    4050,
+                    null
+                ],
+                "ability": [
+                    "Survive, Critical, Zombie Killer, Barrier Breaker, Area Attack, Long Distance",
+                    "Survive, Critical, Zombie Killer, Barrier Breaker, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Metal",
+                    "Metal",
+                    ""
+                ],
+                "effect": [
+                    "Insanely Tough",
+                    "Insanely Tough",
+                    ""
+                ],
+                "description": [
+                    "Curious maiden exploring the fantastic Cat Empire Strikes down demons with her blade Honoka. Insanely Tough vs Metal, Area attacks Might Critical.",
+                    "Her experiences in our world have made her wiser. Honoka has protected her in many a fierce battle. Insanely Tough vs Metal, Area attacks Might Critical.",
+                    ""
+                ]
             }
         ]
     }
