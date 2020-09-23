@@ -6644,17 +6644,17 @@
                 "name": [
                     "Rich Cat III",
                     "Rich Cat Sr.",
-                    ""
+                    "Richest Cat"
                 ],
                 "cost": [
                     600,
                     600,
-                    null
+                    600
                 ],
                 "ability": [
                     "Extra Money, Single Attack",
                     "Extra Money, Single Attack",
-                    ""
+                    "Extra Money, Single Attack"
                 ],
                 "target": [
                     "",
@@ -6669,7 +6669,7 @@
                 "description": [
                     "Heir of the legendary Rich Cat. Born wealthy, still pinches every penny. Goes through the pockets of defeated enemies for extra cash.",
                     "Father of the legendary Rich Cat. Got rich by never spending profits from his small business. Lives off of defeated enemies' pocket money.",
-                    ""
+                    "Grandfather of the legendary Rich Cat. Invested six dllars in NekoSoft two hundred years ago. Every fallen enemy adds more $ to their account."
                 ]
             },
             {
