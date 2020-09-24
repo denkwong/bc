@@ -6938,7 +6938,7 @@
                     "Weaken": 0,
                     "Resist Freeze": 0,
                     "Resist Slow": 0,
-                    "Curse Immunity": 0,
+                    "Curse Immunity": 1,
                     "Defense Buff": 0
                 }
             },
