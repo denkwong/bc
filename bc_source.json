@@ -2755,7 +2755,7 @@
                 "talents": {
                     "Weaken": 0,
                     "Slow": 5,
-                    "Survives": 0,
+                    "Survives": 10,
                     "Target Angel": 1,
                     "Defense Buff": 0
                 }
