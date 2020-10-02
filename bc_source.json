@@ -6676,32 +6676,32 @@
                 "name": [
                     "Sniper the Recruit",
                     "Sniper the Heavy",
-                    ""
+                    "Sniper the Deadeye"
                 ],
                 "cost": [
                     900,
                     900,
-                    null
+                    900
                 ],
                 "ability": [
                     "Single Attack",
                     "Single Attack",
-                    ""
+                    "Single Attack"
                 ],
                 "target": [
                     "Red, Floating, Black, Angel, Alien, Zombie, Relic",
                     "Red, Floating, Black, Angel, Alien, Zombie, Relic",
-                    ""
+                    "Red, Floating, Black, Angel, Alien, Zombie, Relic"
                 ],
                 "effect": [
                     "Knockback",
                     "Knockback",
-                    ""
+                    "Slow, Knockback"
                 ],
                 "description": [
                     "Before the battlefield, boot camp. Only given a potato gun, so don't expect TOO much knockback from his super long-distance attack.",
                     "A grim assassin who never fails a contract. Still uses potato guns for the extra challenge. Long distance atk. with non-metal knockback.",
-                    ""
+                    "Free agent sniper, 31 years old, who bought all their equipment secondhand off of Daveslist. Long distance atk. with non-metal knockback."
                 ]
             },
             {
