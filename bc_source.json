@@ -7274,6 +7274,38 @@
             },
             {
                 "name": [
+                    "Piledriver Cat",
+                    "Power Piledriver Cat",
+                    ""
+                ],
+                "cost": [
+                    1500,
+                    1500,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack, Omni Strike",
+                    "Zombie Killer, Area Attack, Omni Strike",
+                    ""
+                ],
+                "target": [
+                    "Zombie",
+                    "Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Resistant, Knockback",
+                    "Resistant, Knockback",
+                    ""
+                ],
+                "description": [
+                    "Drives stakes deep in the earth! She doesn't need your permission, she'll hammer where she likes! Tough & Knockback vs Zombies! (Omni-Strike)",
+                    "The rest of Grandon is a little scared of her. Don't like it? She'll put a stake right up your nose! Tough & Knockback vs Zombies! (Omni-Strike)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Cutter Cat",
                     "Power Cutter Cat",
                     ""
