@@ -741,6 +741,38 @@
             },
             {
                 "name": [
+                    "Bean Cats",
+                    "Brah Cats",
+                    ""
+                ],
+                "cost": [
+                    495,
+                    495,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Knockback",
+                    "Knockback",
+                    ""
+                ],
+                "description": [
+                    "Said to also have the \"MeowMeow\" alias. Always play nice with each other. Might knockback Red enemies.",
+                    "Earned the nickname \"Sweater Brahs\" when they traded their beanpod for fine French silk. Might knockback Red enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Moneko",
                     "Miss MONEKO",
                     ""
@@ -805,6 +837,38 @@
             },
             {
                 "name": [
+                    "Flower Cat",
+                    "Cooldown Cat",
+                    "Bombercat"
+                ],
+                "cost": [
+                    510,
+                    510,
+                    510
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    "Area Attack"
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    "Black"
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    "Freeze"
+                ],
+                "description": [
+                    "Fascinated by pretty petals. Never forgets to water every day. Might stop Black enemies.",
+                    "Hogs the fan after getting out of a hot bath. Attack style shows his aggressive selfishness. Might stop Black Enemies.",
+                    "Daily stress can cause you to want to explode, whether or not your job is carting cartoon bombs all day. Area attacks 100% freeze Black Enemies."
+                ]
+            },
+            {
+                "name": [
                     "Capsule Cat",
                     "Cramped Cats",
                     ""
@@ -864,6 +928,134 @@
                 "description": [
                     "Living happily in a plastic bubble. No need for the outside world!!! (Don't make them a role model, kids...)",
                     "A homemade fortress as resilient as the $0.75 budget allows. Tough against various attacks, except moisture... a bit weak against that.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Squish Ball Cat",
+                    "Muscleman Cat",
+                    ""
+                ],
+                "cost": [
+                    870,
+                    870,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Got hooked on new capsule material somehow managed to transform itself into something similar (Area Attack)",
+                    "See the truth inside. Macho Cat's trainer. Everyone is facsinated by its rippling triceps. Distant relative of the Titan Cat. (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Catburger",
+                    "Cat Royale",
+                    "Value Meal Cat"
+                ],
+                "cost": [
+                    75,
+                    750,
+                    750
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Area Attack",
+                    "Area Attack"
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "A quarter pound of A-grade aggression! Perfect for a quick lunch or guerilla assaults. 100% beef! You didn't think... ?",
+                    "Piled high with lettuce, cheese and fighting spirit! The deluxe set for those with true hunger for battle. Eat in moderation, and remember to exercise!",
+                    "Celebrate 3 years of The Battle Cats! Time to feed your enemies 1000 KCal of hurt! Your choice of sides: fries... or fries... or fries."
+                ]
+            },
+            {
+                "name": [
+                    "Coin Cat",
+                    "Macho Coin Cat",
+                    ""
+                ],
+                "cost": [
+                    75,
+                    75,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "An invaluable collectors item! Only 9 billion were produced!",
+                    "A memorial item imbued with Cat gratitude. Every third Coin Cat earns you... another Coin Cat.",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Farmer Cat",
+                    "Harvest Cat",
+                    ""
+                ],
+                "cost": [
+                    540,
+                    540,
+                    null
+                ],
+                "ability": [
+                    "Extra Money, Single Attack",
+                    "Extra Money, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "A humble cat who grows tasty things to make others happy. Selected for the Cat Army from many others. Collects extra money when defeating enemies.",
+                    "Heard that the turnip market was booming. Time to profit off her crops! A respected Cat Army veteran. Collects extra money when defeating enemies.",
                     ""
                 ]
             },
@@ -965,102 +1157,6 @@
             },
             {
                 "name": [
-                    "Bean Cats",
-                    "Brah Cats",
-                    ""
-                ],
-                "cost": [
-                    495,
-                    495,
-                    null
-                ],
-                "ability": [
-                    "Single Attack",
-                    "Single Attack",
-                    ""
-                ],
-                "target": [
-                    "Red",
-                    "Red",
-                    ""
-                ],
-                "effect": [
-                    "Knockback",
-                    "Knockback",
-                    ""
-                ],
-                "description": [
-                    "Said to also have the \"MeowMeow\" alias. Always play nice with each other. Might knockback Red enemies.",
-                    "Earned the nickname \"Sweater Brahs\" when they traded their beanpod for fine French silk. Might knockback Red enemies.",
-                    ""
-                ]
-            },
-            {
-                "name": [
-                    "Flower Cat",
-                    "Cooldown Cat",
-                    "Bombercat"
-                ],
-                "cost": [
-                    510,
-                    510,
-                    510
-                ],
-                "ability": [
-                    "Single Attack",
-                    "Single Attack",
-                    "Area Attack"
-                ],
-                "target": [
-                    "Black",
-                    "Black",
-                    "Black"
-                ],
-                "effect": [
-                    "Freeze",
-                    "Freeze",
-                    "Freeze"
-                ],
-                "description": [
-                    "Fascinated by pretty petals. Never forgets to water every day. Might stop Black enemies.",
-                    "Hogs the fan after getting out of a hot bath. Attack style shows his aggressive selfishness. Might stop Black Enemies.",
-                    "Daily stress can cause you to want to explode, whether or not your job is carting cartoon bombs all day. Area attacks 100% freeze Black Enemies."
-                ]
-            },
-            {
-                "name": [
-                    "Squish Ball Cat",
-                    "Muscleman Cat",
-                    ""
-                ],
-                "cost": [
-                    870,
-                    870,
-                    null
-                ],
-                "ability": [
-                    "Area Attack",
-                    "Area Attack",
-                    ""
-                ],
-                "target": [
-                    "",
-                    "",
-                    ""
-                ],
-                "effect": [
-                    "",
-                    "",
-                    ""
-                ],
-                "description": [
-                    "Got hooked on new capsule material somehow managed to transform itself into something similar (Area Attack)",
-                    "See the truth inside. Macho Cat's trainer. Everyone is facsinated by its rippling triceps. Distant relative of the Titan Cat. (Area Attack)",
-                    ""
-                ]
-            },
-            {
-                "name": [
                     "Meowla Meowla",
                     "Catorpedo",
                     ""
@@ -1121,38 +1217,6 @@
                     "Girl lost during the city's destruction, reborn as a Cat but retaining all her mysterious powers. Small chance to Freeze Floating.",
                     "Girl who became a Cat after the city's destruction, now slowly regaining her former charisma. Small chance to Freeze Floating.",
                     ""
-                ]
-            },
-            {
-                "name": [
-                    "Catburger",
-                    "Cat Royale",
-                    "Value Meal Cat"
-                ],
-                "cost": [
-                    75,
-                    750,
-                    750
-                ],
-                "ability": [
-                    "Single Attack",
-                    "Area Attack",
-                    "Area Attack"
-                ],
-                "target": [
-                    "",
-                    "",
-                    ""
-                ],
-                "effect": [
-                    "",
-                    "",
-                    ""
-                ],
-                "description": [
-                    "A quarter pound of A-grade aggression! Perfect for a quick lunch or guerilla assaults. 100% beef! You didn't think... ?",
-                    "Piled high with lettuce, cheese and fighting spirit! The deluxe set for those with true hunger for battle. Eat in moderation, and remember to exercise!",
-                    "Celebrate 3 years of The Battle Cats! Time to feed your enemies 1000 KCal of hurt! Your choice of sides: fries... or fries... or fries."
                 ]
             },
             {
@@ -1440,70 +1504,6 @@
                 "description": [
                     "A Cat who strives to be a defender of justice. Spent months in his room trying to summon a Heroic Spirit. Strong vs. Black enemies.",
                     "Still hasn't succeeded at Heroic Spirit summoning. Now leaves his room sometimes to do night patrols. Strong vs. Black enemies.",
-                    ""
-                ]
-            },
-            {
-                "name": [
-                    "Coin Cat",
-                    "Macho Coin Cat",
-                    ""
-                ],
-                "cost": [
-                    75,
-                    75,
-                    null
-                ],
-                "ability": [
-                    "Single Attack",
-                    "Single Attack",
-                    ""
-                ],
-                "target": [
-                    "",
-                    "",
-                    ""
-                ],
-                "effect": [
-                    "",
-                    "",
-                    ""
-                ],
-                "description": [
-                    "An invaluable collectors item! Only 9 billion were produced!",
-                    "A memorial item imbued with Cat gratitude. Every third Coin Cat earns you... another Coin Cat.",
-                    ""
-                ]
-            },
-            {
-                "name": [
-                    "Farmer Cat",
-                    "Harvest Cat",
-                    ""
-                ],
-                "cost": [
-                    540,
-                    540,
-                    null
-                ],
-                "ability": [
-                    "Extra Money, Single Attack",
-                    "Extra Money, Single Attack",
-                    ""
-                ],
-                "target": [
-                    "",
-                    "",
-                    ""
-                ],
-                "effect": [
-                    "",
-                    "",
-                    ""
-                ],
-                "description": [
-                    "A humble cat who grows tasty things to make others happy. Selected for the Cat Army from many others. Collects extra money when defeating enemies.",
-                    "Heard that the turnip market was booming. Time to profit off her crops! A respected Cat Army veteran. Collects extra money when defeating enemies.",
                     ""
                 ]
             },
@@ -2246,7 +2246,7 @@
             {
                 "name": [
                     "Miyamoku Musashi",
-                    "Legendary Musashi",
+                    "Heroic Musashi",
                     "Awakened Musashi"
                 ],
                 "cost": [
