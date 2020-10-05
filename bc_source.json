@@ -12868,17 +12868,17 @@
                 "name": [
                     "Graveflower Verbena",
                     "Verbena the Bride",
-                    ""
+                    "Opulent Verbena"
                 ],
                 "cost": [
                     3750,
                     3750,
-                    null
+                    3750
                 ],
                 "ability": [
                     "Critical, Area Attack",
                     "Critical, Area Attack",
-                    ""
+                    "Critical, Area Attack"
                 ],
                 "target": [
                     "",
@@ -12893,7 +12893,7 @@
                 "description": [
                     "A lost soul who came home from the other side. Hunting for a groom to fill her heart... or her stomach. Might deliver critical strikes (Area Attacks)",
                     "Her hunger sated, she now looks forward to the wedding day of her undead dreams. Might deliver critical strikes (Area Attacks)",
-                    ""
+                    "Using her late love's estate to live the afterlife of her dreams. Now both her heart and stomach are full to bursting. Area attacks might Critical."
                 ]
             },
             {
