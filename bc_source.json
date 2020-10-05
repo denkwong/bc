@@ -5860,32 +5860,32 @@
                 "name": [
                     "Shinji & Cat",
                     "Plug Suit Shinji",
-                    ""
+                    "Plug Suit Shinji Black"
                 ],
                 "cost": [
                     375,
                     375,
-                    null
+                    375
                 ],
                 "ability": [
                     "Eva Angel Killer, Area Attack",
                     "Eva Angel Killer, Area Attack",
-                    ""
+                    "Zombie Killer, Eva Angel Killer, Area Attack"
                 ],
                 "target": [
                     "",
                     "",
-                    ""
+                    "Alien, Zombie"
                 ],
                 "effect": [
                     "",
                     "",
-                    ""
+                    "Resistant"
                 ],
                 "description": [
                     "Recruited from Evangelion! A boy suddenly forced to pilot Evangelion. Resents his distant father. (Area Attack)",
                     "Recruited from Evangelion! Hoping to be respected by his comrades for his piloting skills. (Area Attack)",
-                    ""
+                    "Recruited from Evangelion! Agreed to pilot Eva once again for a chance at redemption. Tough vs. Alens/Zombies (Area Attack)"
                 ]
             },
             {
