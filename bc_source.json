@@ -7338,6 +7338,38 @@
             },
             {
                 "name": [
+                    "Backhoe Cat",
+                    "Power Backhoe Cat",
+                    ""
+                ],
+                "cost": [
+                    1500,
+                    1500,
+                    null
+                ],
+                "ability": [
+                    "Critical, Extra Money, Single Attack",
+                    "Critical, Extra Money, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Metal",
+                    "Metal",
+                    ""
+                ],
+                "effect": [
+                    "Attacks Only",
+                    "Attacks Only",
+                    ""
+                ],
+                "description": [
+                    "No one digs like this guy. Don't even try, you'll lose. Only attacks Metal, with Critical chance! Gains extra money when defeating enemies!",
+                    "The way he picks up dirt is just... glorious. Only attacks Metal, with Critical chance! Gains extra money when defeating enemies!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Miter Saw Cat",
                     "Power Saw Cat",
                     ""
