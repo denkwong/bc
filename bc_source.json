@@ -12162,6 +12162,38 @@
             },
             {
                 "name": [
+                    "Eva Unit-00",
+                    "Eva Unit-00 & Cat",
+                    ""
+                ],
+                "cost": [
+                    4425,
+                    4425,
+                    null
+                ],
+                "ability": [
+                    "Eva Angel Killer, Wave Shield, Area Attack",
+                    "Eva Angel Killer, Wave Shield, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating, Angel",
+                    "Floating, Angel",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "Recruited from Evangelion! A humanoid superweapon prototype. Tough vs Angel/Floating, negates Waves.",
+                    "Recruited from Evangelion! Notorious for violent incidents in testing. Tough vs Angel/Floating, negates Waves.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Eva Unit-01",
                     "Eva Unit-01 & Cat",
                     ""
