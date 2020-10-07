@@ -2309,6 +2309,38 @@
             },
             {
                 "name": [
+                    "Idi:N",
+                    "Idi:N2",
+                    ""
+                ],
+                "cost": [
+                    4200,
+                    4200,
+                    null
+                ],
+                "ability": [
+                    "Evade Surge, Immune to Curse, Area Attack",
+                    "Evade Surge, Immune to Curse, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Relic",
+                    "Relic",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Mystery lifeform that seems to be analyzing the Cats. No one know why it has joined their army. Massive Area damage to Relics.",
+                    "Appears out of nowhere to perform scans of powerful Cats. Its mission is still unknown. Massive Area damage to Relics.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Dogumaru",
                     "Doguemon",
                     ""
