@@ -13399,6 +13399,38 @@
             },
             {
                 "name": [
+                    "Hell Warden Emma",
+                    "Hell Sentinel Emma",
+                    ""
+                ],
+                "cost": [
+                    4350,
+                    4350,
+                    null
+                ],
+                "ability": [
+                    "Wave Shield, Area Attack, Omni Strike",
+                    "Wave Shield, Area Attack, Omni Strike",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "Hunter of evil souls trying to escape their eternal punishment. Back to the pit with you! Omnistrikes might Weaken. Immune to Waves.",
+                    "Judge, jury and executioner of the treacherous dead who cast aside all honor for victory in battle. Omnistrikes might Weaken. Immune to Waves.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Baby Gao",
                     "Mighty Lord Gao",
                     ""
