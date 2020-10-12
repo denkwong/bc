@@ -6178,6 +6178,38 @@
             },
             {
                 "name": [
+                    "Prince Yamato",
+                    "Holy Yamato",
+                    ""
+                ],
+                "cost": [
+                    900,
+                    900,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack",
+                    "Zombie Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien, Zombie",
+                    "Alien, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Angel born from the heart of heavenly power, wielding a sword that strikes down devils. Massive Area damage to Aliens/Zombies",
+                    "Revealed the next world via harmonic power. With dawn blade in hand, the prophecy is fulfilled! Massive Area damage to Aliens/Zombies",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Ryu Cat",
                     "Ryu Cat CC",
                     ""
