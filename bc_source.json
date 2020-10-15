@@ -1669,6 +1669,38 @@
             },
             {
                 "name": [
+                    "Rosary Angel",
+                    "Cross Angel",
+                    ""
+                ],
+                "cost": [
+                    600,
+                    600,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red, Black",
+                    ""
+                ],
+                "effect": [
+                    "Weaken",
+                    "Weaken",
+                    ""
+                ],
+                "description": [
+                    "Generates radiant light by the power of Amen and Wink Eye that subdues even the fiercest devil. Might Weaken Red enemies.",
+                    "Shoots down invading demons with her Golden Cross cannon. Her devotion to the cause of the holy egg is unshakeable. Might Weaken Red/Black.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Shakurel Cat",
                     "Shakurel Macho Cat",
                     ""
