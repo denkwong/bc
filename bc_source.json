@@ -1797,6 +1797,38 @@
             },
             {
                 "name": [
+                    "Heavenly Jack",
+                    "Heavenly Lord Jack",
+                    ""
+                ],
+                "cost": [
+                    450,
+                    450,
+                    null
+                ],
+                "ability": [
+                    "Extra Money, Single Attack",
+                    "Extra Money, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "An angel who frolics through the elysian fields. Make the devils dance before crushing them! Extra money earned by defeating enemies!",
+                    "Divine King who uses godlike speed to fulfill the prophecies of the heavenly realms. Extra money earned by defeating enemies!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Shakurel Cat",
                     "Shakurel Macho Cat",
                     ""
