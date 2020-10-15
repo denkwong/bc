@@ -1733,6 +1733,38 @@
             },
             {
                 "name": [
+                    "Devil Cat",
+                    "Infernal Cat",
+                    ""
+                ],
+                "cost": [
+                    1260,
+                    1260,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "Behold the next stage of devilish evolution! Gimme a Catfruit and I might let you live! Strong vs Angels (Area Attack)",
+                    "The lord of devils. His ambition threatens to consume all light, love, and Cat Food. Strong vs Angels (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Shakurel Cat",
                     "Shakurel Macho Cat",
                     ""
