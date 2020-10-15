@@ -1765,6 +1765,38 @@
             },
             {
                 "name": [
+                    "Nekonosuke",
+                    "Old Guardian Cat",
+                    ""
+                ],
+                "cost": [
+                    1245,
+                    1245,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "My mighty body will fend off devilish attacks! (If it's too much, I'll just get an angel to step in.) Strong vs Aliens (Area Attack)",
+                    "Defender of a profitable holy meatball business. Still, sometimes the angels have to lend a hand. Strong vs Aliens (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Shakurel Cat",
                     "Shakurel Macho Cat",
                     ""
