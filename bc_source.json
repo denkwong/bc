@@ -1701,6 +1701,38 @@
             },
             {
                 "name": [
+                    "Wakamiko Cat",
+                    "Warrior King Cat",
+                    ""
+                ],
+                "cost": [
+                    1230,
+                    1230,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "Angel born in the Holy Cat realm. Sworn to slay the wicked devil-doges by the power of Light. Strong vs Black (Area Attack)",
+                    "Gathers the divine harmonic forces of the Cat to open the gates to a new realm of holy potential. Strong vs Black (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Shakurel Cat",
                     "Shakurel Macho Cat",
                     ""
