@@ -1671,32 +1671,32 @@
                 "name": [
                     "Rosary Angel",
                     "Cross Angel",
-                    ""
+                    "Strike Angel"
                 ],
                 "cost": [
                     600,
                     600,
-                    null
+                    600
                 ],
                 "ability": [
                     "Single Attack",
                     "Single Attack",
-                    ""
+                    "Zombie Killer, Single Attack"
                 ],
                 "target": [
                     "Red",
                     "Red, Black",
-                    ""
+                    "Red, Black, Zombie"
                 ],
                 "effect": [
                     "Weaken",
                     "Weaken",
-                    ""
+                    "Weaken"
                 ],
                 "description": [
                     "Generates radiant light by the power of Amen and Wink Eye that subdues even the fiercest devil. Might Weaken Red enemies.",
                     "Shoots down invading demons with her Golden Cross cannon. Her devotion to the cause of the holy egg is unshakeable. Might Weaken Red/Black.",
-                    ""
+                    "Watches over the holy labyrinth with the teachings of the sages behind her. Smashes evil with her righteous cross. Might Weaken Red/Black/Zombies."
                 ]
             },
             {
