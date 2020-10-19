@@ -11037,33 +11037,40 @@
                 "name": [
                     "Shining Amaterasu",
                     "Glorious Amaterasu",
-                    ""
+                    "Almighty Amaterasu"
                 ],
                 "cost": [
                     4740,
                     4740,
-                    null
+                    4740
                 ],
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    ""
+                    "Area Attack"
                 ],
                 "target": [
                     "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
                     "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
-                    ""
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic"
                 ],
                 "effect": [
                     "Massive Damage",
                     "Massive Damage",
-                    ""
+                    "Massive Damage"
                 ],
                 "description": [
                     "The might and beauty of the Sun personified. Subdues enemies using her sacred mirror. Massive area damage to any enemy with a trait.",
                     "No one can stand against the radiance of this goddess. Dark souls kneel before her holy mirror! Massive area damage to any enemy with a trait.",
-                    ""
-                ]
+                    "Merciful goddess who uses the power of the fruit of creation to bless the earth with the light of the Sun. Massive Area damage to any enemy with a trait."
+                ],
+                "talents": {
+                    "Zombie Killer": 0,
+                    "Barrier Breaker": 0,
+                    "Survives": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
