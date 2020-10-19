@@ -3134,7 +3134,7 @@
                 ],
                 "talents": {
                     "Resist Weaken": 0,
-                    "Target Angel": 0,
+                    "Target Angel": 1,
                     "Defense Buff": 0,
                     "Attack Buff": 0,
                     "Recover Speed Up": 0
