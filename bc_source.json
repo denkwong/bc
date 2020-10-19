@@ -10946,7 +10946,14 @@
                     "The highest authority among the old gods of Olympus. Rains down destruction with ihs Heavenly Lance. Strong vs. Angels. (Area Atk)",
                     "Empowered by divine fury, his might grows ever more! His Heavenly Blade reduces existence to ashes. Strong vs. Angels. (Area Atk)",
                     "Inheritor of Mana's blessing, wields the power of the fruit of creation to create a new paradise. Weak to Hera's anger, Strong vs. Angels. (Area Atk)"
-                ]
+                ],
+                "talents": {
+                    "Resist Wave": 0,
+                    "Resist Weaken": 0,
+                    "Target Zombie": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
