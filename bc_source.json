@@ -11076,17 +11076,17 @@
                 "name": [
                     "Splendid Ganesha",
                     "Exalted Ganesha",
-                    ""
+                    "Almighty Ganesha"
                 ],
                 "cost": [
                     4350,
                     4350,
-                    null
+                    4350
                 ],
                 "ability": [
                     "Strengthen, Area Attack, Long Distance",
                     "Strengthen, Area Attack, Long Distance",
-                    ""
+                    "Strengthen, Area Attack, Long Distance"
                 ],
                 "target": [
                     "",
@@ -11101,8 +11101,15 @@
                 "description": [
                     "Lord of scholarship and splendor, guardian of the sacred treasures that ward against misfortune. Gains power when damaged (Long Range Area Atk)",
                     "All who follow him will grow prosperous and wise, as he smites his enemies with infinite might. Gains power when damaged (Long Range Area Atk)",
-                    ""
-                ]
+                    "The god of prosperity who uses the fruit of creation to bless mankind with wealth, wisdom and fortune. Long-Range Area attacks gain power when damaged."
+                ],
+                "talents": {
+                    "Attack Up": 0,
+                    "Resist Weaken": 0,
+                    "Immune to Knockback": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
