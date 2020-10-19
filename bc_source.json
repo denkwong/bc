@@ -11115,33 +11115,40 @@
                 "name": [
                     "Wrathful Poseidon",
                     "Valiant Poseidon",
-                    ""
+                    "Almighty Poseidon"
                 ],
                 "cost": [
                     3900,
                     3900,
-                    null
+                    3900
                 ],
                 "ability": [
                     "Zombie Killer, Area Attack",
                     "Zombie Killer, Area Attack",
-                    ""
+                    "Zombie Killer, Area Attack"
                 ],
                 "target": [
                     "Metal, Zombie",
                     "Metal, Zombie",
-                    ""
+                    "Metal, Zombie"
                 ],
                 "effect": [
                     "Freeze",
                     "Freeze",
-                    ""
+                    "Freeze"
                 ],
                 "description": [
                     "Master of storms and seas, one of the 12 supreme Olympian gods. Sacred Trident's area attack 100% freezes Zombies/Metal foes.",
                     "Undisputed lord of the waters. Can command sea serpents to obliterate those who defy him. Area attack 100% freezes Zombies/Metal foes.",
-                    ""
-                ]
+                    "Lord of the seas, who wields the powers of the fruit of creation to bring order to the wind and waves. Area attack 100% freezes Zombies/Metal foes."
+                ],
+                "talents": {
+                    "Dodge Attack": 0,
+                    "Resist Freeze": 0,
+                    "Savage Blow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
