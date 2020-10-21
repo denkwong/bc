@@ -6698,7 +6698,14 @@
                     "Found a giant apple floating in a river. Decided to use that as a costume. Might stop Red enemies.",
                     "Found a giant head sitting on the road. Decided to use that as a costume. Might stop Red enemies.",
                     "Found a colorful apple near Silicon Valley while turtleneck shopping one day. Area attacks 100% stop Red enemies."
-                ]
+                ],
+                "talents": {
+                    "Resist Slow": 0,
+                    "Resist Freeze": 0,
+                    "Move Speed Up": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
