@@ -3028,7 +3028,14 @@
                     "Able to communicate with the supernatural. ... is what it says on the Wiki. Might freeze Floating enemies.",
                     "Turns out it was the supernatural that was controlling this Cat in the end. Might freeze Floating enemies.",
                     "His bewitching dance is fueled by dark powers. Can you resist his devilish groove? Might freeze Floating enemies for longer."
-                ]
+                ],
+                "talents": {
+                    "Wave Attack": 0,
+                    "Immune to Toxic": 0,
+                    "Resist Freeze": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
