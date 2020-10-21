@@ -9777,7 +9777,14 @@
                     "Magical beauty powered by her staff Releases beams of light (Area Attack) Might freeze floating enemies.",
                     "Doesn't smil that often. (Area Attack) In front of cats, however.. different story. Might stop floating enemies.",
                     "What can you do for her that her favorite Cat doesn't already? Come back in 100 years, kid. Might stop Floating (Area Attack)"
-                ]
+                ],
+                "talents": {
+                    "Resist Wave": 0,
+                    "Resist Slow": 0,
+                    "Cost Down": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
