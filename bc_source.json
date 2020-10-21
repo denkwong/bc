@@ -10228,7 +10228,14 @@
                     "This dragon lord seeks to set it all ablaze. Lay waste with epically mighty area attacks. Might knockback and slow Angels.",
                     "An ancient dragon of unquestioned authority. Lay waste with epically mighty area attacks. Might knockback and slow Angels.",
                     "Brutal attacks powered by hate - a family tradition of mercilessness. 100% Barrier break, plus Knockback & Slow vs Angels (Area Atk)"
-                ]
+                ],
+                "talents": {
+                    "Attack Up": 0,
+                    "Resist Freeze": 0,
+                    "Resist Weaken": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
