@@ -9230,7 +9230,14 @@
                     "The curse of the Legendary Cat Shield has made him a killing machine. (Area Attack) Might knockback Black and Red enemies.",
                     "Cat Shield's Hell Mode - activate! Infernal (Area attacks slice through his foes! Might knockback Black and Red enemies.",
                     "Infernal hatred has fully infused the Shield. Karmic blades sweep through all enemies! Area atks. knockback Black and Red enemies."
-                ]
+                ],
+                "talents": {
+                    "Kockback": 0,
+                    "Resist Wave": 0,
+                    "Immune to Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
