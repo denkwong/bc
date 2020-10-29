@@ -8769,32 +8769,32 @@
                 "name": [
                     "Holy Knight Alibaba",
                     "Holy King Alibaba",
-                    ""
+                    "Ghost Alibaba"
                 ],
                 "cost": [
                     900,
                     900,
-                    null
+                    2700
                 ],
                 "ability": [
                     "Immune to Freeze, Area Attack, Long Distance",
                     "Immune to Freeze, Area Attack, Long Distance",
-                    ""
+                    "Immune to Knockback, Area Attack, Long Distance"
                 ],
                 "target": [
                     "Black",
                     "Black",
-                    ""
+                    "Black, Angel"
                 ],
                 "effect": [
                     "Massive Damage",
                     "Massive Damage",
-                    ""
+                    "Massive Damage"
                 ],
                 "description": [
                     "An angel born in the realm of dreams, who soars through the heavens sealing away stray devils. Massive long-range damage to Black/Angels!",
                     "Sealing demons with his righteous blade, the true scion of the heavenly realms! massive long-range damage to Black/Angels!",
-                    ""
+                    "Heaven's hero, corrupted by infernal magics?! Can this fallen knight's rampage be stopped?? Massive long-range damage to Black/Angels!"
                 ]
             }
         ],
