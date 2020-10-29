@@ -8764,6 +8764,38 @@
                     "The inferal kings' power brought this nemesis of the angels to his full potential. Massive Omnistrike damage to Zombies",
                     ""
                 ]
+            },
+            {
+                "name": [
+                    "Holy Knight Alibaba",
+                    "Holy King Alibaba",
+                    ""
+                ],
+                "cost": [
+                    900,
+                    900,
+                    null
+                ],
+                "ability": [
+                    "Immune to Freeze, Area Attack, Long Distance",
+                    "Immune to Freeze, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "An angel born in the realm of dreams, who soars through the heavens sealing away stray devils. Massive long-range damage to Black/Angels!",
+                    "Sealing demons with his righteous blade, the true scion of the heavenly realms! massive long-range damage to Black/Angels!",
+                    ""
+                ]
             }
         ],
         "uber": [
