@@ -12893,6 +12893,38 @@
             },
             {
                 "name": [
+                    "Heracrist",
+                    "Perfect Heracrist",
+                    ""
+                ],
+                "cost": [
+                    4500,
+                    4500,
+                    null
+                ],
+                "ability": [
+                    "Immune to Slow, Warp Blocker, Single Attack",
+                    "Immune to Slow, Warp Blocker, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "Holy android created by 12 archangels. Rumors say that its powers unbalanced could undo reality. Strong vs. Floating enemies.",
+                    "The ultimate sacred weapon created by the highest authority in Heaven to suppress the forces of evil. Strong vs. Alien enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Ryu",
                     "Ryu CC",
                     ""
