@@ -8732,6 +8732,38 @@
                     "Recruited from Evangelion! Beginning to wonder about her true identity... Tough vs Black, Area attacks might Weaken.",
                     ""
                 ]
+            },
+            {
+                "name": [
+                    "Fiendish Nero",
+                    "Beastly Nero",
+                    ""
+                ],
+                "cost": [
+                    1485,
+                    1485,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack, Omni Strike",
+                    "Zombie Killer, Area Attack, Omni Strike",
+                    ""
+                ],
+                "target": [
+                    "Zombie",
+                    "Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "A chaos too great for even the netherworld bursts forth... will this flame consume even the heavens? Massive Omnistrike damage to Zombies",
+                    "The inferal kings' power brought this nemesis of the angels to his full potential. Massive Omnistrike damage to Zombies",
+                    ""
+                ]
             }
         ],
         "uber": [
