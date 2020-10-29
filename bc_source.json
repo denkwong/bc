@@ -12831,32 +12831,32 @@
                 "name": [
                     "Super Devil",
                     "Imposter Super Devil",
-                    ""
+                    "Super D-Devil"
                 ],
                 "cost": [
                     4200,
                     4200,
-                    null
+                    4200
                 ],
                 "ability": [
                     "Immune to Slow, Area Attack, Long Distance",
                     "Immune to Slow, Area Attack, Long Distance",
-                    ""
+                    "Immune to Slow, Area Attack, Long Distance"
                 ],
                 "target": [
                     "Angel",
                     "Angel",
-                    ""
+                    "Angel"
                 ],
                 "effect": [
                     "Slow",
                     "Slow",
-                    ""
+                    "Slow"
                 ],
                 "description": [
                     "Reigning over the realms of darkness, all demons are bound to obey his infernal commandments! Long-range Area attacks Slow Angels.",
                     "Deceiver who captures naive angels and recruits them to the cause of the netherworld! Long-range Area attacks Slow Angels.",
-                    ""
+                    "The embrace of an uncanny moonlight has granted him the ultimate dark power to rule over all reality. Long-range Area attacks Slow Angels."
                 ]
             },
             {
