@@ -12925,6 +12925,38 @@
             },
             {
                 "name": [
+                    "Shaman Khan",
+                    "All-Loving Shaman Khan",
+                    ""
+                ],
+                "cost": [
+                    4650,
+                    4650,
+                    null
+                ],
+                "ability": [
+                    "Area Attack, Long Distance",
+                    "Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Slow, Knockback",
+                    "Slow, Knockback",
+                    ""
+                ],
+                "description": [
+                    "Heavenly hero serving the will of Nadia. Also the parent of Super Zeus. Long-range attacks might Knockback traited enemies.",
+                    "The ultimate manifestation of compassion raising his sword to defend innocents from evil!! Long-range attacks Knockback traited enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Ryu",
                     "Ryu CC",
                     ""
