@@ -12829,6 +12829,38 @@
             },
             {
                 "name": [
+                    "Super Devil",
+                    "Imposter Super Devil",
+                    ""
+                ],
+                "cost": [
+                    4200,
+                    4200,
+                    null
+                ],
+                "ability": [
+                    "Immune to Slow, Area Attack, Long Distance",
+                    "Immune to Slow, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Slow",
+                    "Slow",
+                    ""
+                ],
+                "description": [
+                    "Reigning over the realms of darkness, all demons are bound to obey his infernal commandments! Long-range Area attacks Slow Angels.",
+                    "Deceiver who captures naive angels and recruits them to the cause of the netherworld! Long-range Area attacks Slow Angels.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Ryu",
                     "Ryu CC",
                     ""
