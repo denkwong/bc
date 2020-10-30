@@ -104,32 +104,38 @@ def add_talents(cat):
         if k in [
             "Attack Buff",
             "Barrier Breaker",
-            "Curse Immunity",
             "Defense Buff",
-            "Dodge Attack",
-            "Freeze",
             "Immune to Waves",
-            "Knockback",
             "Move Speed Up",
-            "Slow",
             "Warp Blocker",
             "Wave Attack",
-            "Weaken",
             "Zombie Killer"
         ] and v != 0:
             cat["ability"].append(k)
+        # effects
+        elif k in [
+            "Dodge Attack",
+            "Freeze",
+            "Knockback",
+            "Slow",
+            "Weaken"
+        ] and v != 0:
+            cat["effect"].append(k)
         # strengthen ability
         elif k == "Attack Up" and v != 0:
             cat["ability"].append("Strengthen")
+        # curse immunity ability
+        elif k == "Curse Immunity" and v != 0:
+            cat["ability"].append("Immune to Curse")
         # extra money ability
         elif k == "Money Up" and v != 0:
             cat["ability"].append("Extra Money")
-        # survive ability
-        elif k == "Survives" and v != 0:
-            cat["ability"].append("Survive")
         # resist ability
         elif "Resist" in k and v != 0:
             cat["ability"].append(k)
+        # survive ability
+        elif k == "Survives" and v != 0:
+            cat["ability"].append("Survive")
         # targets
         elif "Target" in k and v != 0:
             cat["target"].append(k.replace("Target ", ""))
