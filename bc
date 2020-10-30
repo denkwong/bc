@@ -177,7 +177,7 @@ def display_stats(stats_obj):
     """
     for categories in stats_obj.keys():
         print(categories)
-        for k, v in stats_obj[categories].items():
+        for k, v in sorted(stats_obj[categories].items()):
             print("  {0}: {1}".format(k, v))
 
 
