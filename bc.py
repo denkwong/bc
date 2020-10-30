@@ -239,3 +239,25 @@ class Bc:
         """
         for cat in self.json_cats["cats"]:
             self.cats.append(Cat(cat))
+
+    def stats(self):
+        """
+        Build stats of abilities, effects, rarities and targets.
+        :return: stats dictionary
+        :rtype: dict
+        """
+        stats = {"abilities": {}, "effects": {}, "rarities": {}, "targets": {}}
+        for cat in self.cats:
+            for ability in cat.get_ability():
+                stats["abilities"][ability] = stats["abilities"].get(ability, 0) + 1
+
+            for effect in cat.get_effect():
+                stats["effects"][effect] = stats["effects"].get(effect, 0) + 1
+
+            rarity = cat.get_rarity()
+            stats["rarities"][rarity] = stats["rarities"].get(rarity, 0) + 1
+
+            for target in cat.get_target():
+                stats["targets"][target] = stats["targets"].get(target, 0) + 1
+
+        return stats

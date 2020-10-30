@@ -169,6 +169,18 @@ def display_cat(cat, **kwargs):
     print(display_str)
 
 
+def display_stats(stats_obj):
+    """
+    Display the stats for all the cats.
+    :param dict stats_obj: Nested dict of Cats stats.
+    :return: None
+    """
+    for categories in stats_obj.keys():
+        print(categories)
+        for k, v in stats_obj[categories].items():
+            print("  {0}: {1}".format(k, v))
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Battle Cats, search for cats by attributes.")
     parser.add_argument("--ability", "-a", help="Search by ability")
@@ -180,6 +192,7 @@ if __name__ == "__main__":
     parser.add_argument("--list", "-l", action="store_true", help="List all cats all forms with rarity")
     parser.add_argument("--name", "-n", help="Search by name")
     parser.add_argument("--rarity", "-r", help="Search by rarity")
+    parser.add_argument("--stats", "-s", action="store_true", help="Display stats")
     parser.add_argument("--target", "-t", help="Search by target")
     args = parser.parse_args()
     logger.info("==========")
@@ -219,6 +232,8 @@ if __name__ == "__main__":
             logger.debug("Cat count after form = {0}".format(len(cats)))
         if args.list:
             bc.list_cats()
+        if args.stats:
+            display_stats(bc.stats())
     except InputError:
         exit(1)
 
