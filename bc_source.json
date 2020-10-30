@@ -10200,6 +10200,38 @@
             },
             {
                 "name": [
+                    "Skull Rider Vars",
+                    "Nightmare King Vars",
+                    ""
+                ],
+                "cost": [
+                    5610,
+                    5610,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Barrier Breaker, Area Attack",
+                    "Zombie Killer, Barrier Breaker, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Alien, Zombie",
+                    "Alien, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Slow, Knockback",
+                    "Slow, Knockback",
+                    ""
+                ],
+                "description": [
+                    "A long-dead dragon lord who made a pact with a skeletal beast to gain vast power (and lots of candy) Area Attacks Slow & Knockback Aliens/Zombies.",
+                    "Specter of a dragon lord who appears screaming through the skies on moonless Halloween nights. Area Attacks Slow & Knockback Aliens/Zombies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Kamukura",
                     "God Dragon Kamukura",
                     "God-Emperor Kamukura"
