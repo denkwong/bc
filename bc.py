@@ -101,7 +101,7 @@ class Bc:
             if matches:
                 cost = matches.group(0)
             else:
-                raise InputError("Invalid cost: {0}".format(cost))
+                raise InputError(f"Invalid cost: {cost}")
 
         result = self._find_cost(int(cost), operator, cats)
         return result
@@ -122,11 +122,11 @@ class Bc:
                 if isinstance(cat_costs, int):
                     cat_costs = [cat_costs]
                 for cat_cost in cat_costs:
-                    if eval("{0} {1} {2}".format(cat_cost, operator, cost)):
+                    if eval(f"{cat_cost} {operator} {cost}"):
                         result.append(cat)
             return result
         else:
-            print("Operator {0} is not supported.".format(operator))
+            print(f"Operator {operator} is not supported.")
 
     def find_description(self, description, cats=None):
         """
@@ -229,8 +229,8 @@ class Bc:
         for cat in self.cats:
             rarity = cat.get_rarity()
             name = cat.get_name()
-            rarity_pct = "{0:.2}".format(cat.get_rarity_pct())
-            print("{0} ({1});{2}".format(name, rarity_map[rarity], rarity_pct.lstrip("0").rstrip(".0)")))
+            rarity_pct = f"{cat.get_rarity_pct():.2}"
+            print(f"{name} ({rarity_map[rarity]});{rarity_pct.lstrip('0').rstrip('.0')}")
 
     def load_cats(self):
         """
