@@ -11677,6 +11677,38 @@
             },
             {
                 "name": [
+                    "Gravi",
+                    "Gravolo",
+                    ""
+                ],
+                "cost": [
+                    1155,
+                    3870,
+                    null
+                ],
+                "ability": [
+                    "Wave Attack, Immune to Waves, Warp Blocker, Area Attack",
+                    "Barrier Breaker, Wave Attack, Immune to Waves, Warp Blocker, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "Alien",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "A stone spirit who traversed the universe, gathering cosmic power as it soared through space. 100% chance of Wave Attack.",
+                    "Stone spirit who commands the latent energies of meteorites and asteroids to smash threats to the Cats. Tough vs Aliens, 100% chance of Wave Attack.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Wyvern",
                     "Wyvern Cat",
                     ""
