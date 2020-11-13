@@ -14223,6 +14223,38 @@
                     "He values nothing more than justice and will happily sacrifice it all for his cause! Gains attack power when damaged, effective vs all traitless enemies!",
                     ""
                 ]
+            },
+            {
+                "name": [
+                    "Kasli the Scourge",
+                    "Ritual Saint Kasli",
+                    ""
+                ],
+                "cost": [
+                    780,
+                    4800,
+                    null
+                ],
+                "ability": [
+                    "Surge Attacks, Area Attack, Long Distance",
+                    "Surge Attacks, Immune to Weaken, Immune to Waves, Immune to Curse, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Knockback",
+                    "Knockback",
+                    ""
+                ],
+                "description": [
+                    "Young wanderer whose soul is a prison to 1000 vengeful ghosts. Trifle with her at your peril. Long-range Surges might Knockback Traited!",
+                    "",
+                    ""
+                ]
             }
         ],
         "legend": [
