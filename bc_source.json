@@ -4722,32 +4722,32 @@
                 "name": [
                     "Teacher BearCat",
                     "Assassin BearCat",
-                    ""
+                    "Cadaver BearCat"
                 ],
                 "cost": [
                     660,
                     660,
-                    null
+                    660
                 ],
                 "ability": [
                     "Area Attack",
                     "Area Attack",
-                    ""
+                    "Zombie Killer, Area Attack"
                 ],
                 "target": [
                     "",
                     "Black",
-                    ""
+                    "Zombie"
                 ],
                 "effect": [
                     "Insane Damage",
                     "Insane Damage",
-                    ""
+                    "Insane Damage"
                 ],
                 "description": [
                     "Lead in the hit drama \"Trial of Teacher Bear\". Smashes anyone who steals his spotlight. Delivers insane area damage to Traitless.",
                     "Production assistant on the set of \"Teacher Bear\". Obliterates anyone who stands in front of him. Delivers insane area damage to Black.",
-                    ""
+                    "B-movie actor famous for \"Bear of the Living Dead\". Now he's so typecast that he can't get other work. Delivers Insane Area damage to Zombies."
                 ]
             },
             {
