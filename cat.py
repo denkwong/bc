@@ -52,12 +52,6 @@ class Cat:
             result = self.ability + self.effect
         return result
 
-    def get_alias(self):
-        return self.alias
-
-    def get_cost(self):
-        return self.cost
-
     def get_description(self, search=None):
         """
         returns description or one that matches search regex
@@ -107,21 +101,6 @@ class Cat:
             result = self.form
         return result
 
-    def get_name(self):
-        return self.name
-
-    def get_rarity(self):
-        return self.rarity
-
-    def get_rarity_index(self):
-        return self.rarity_index
-
-    def get_rarity_pct(self):
-        return self.rarity_pct
-
-    def get_rarity_total(self):
-        return self.rarity_total
-
     def get_target(self, search=None):
         """
         return list of targets or targets that match search regex
@@ -138,6 +117,3 @@ class Cat:
         else:
             result = self.target
         return result
-
-    def get_talents(self):
-        return self.talents

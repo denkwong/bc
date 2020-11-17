@@ -148,13 +148,13 @@ def display_cat(cat, **kwargs):
     :param Bc.Cat cat: cat object
     :return: None
     """
-    name = cat.get_name()
-    aliases = cat.get_alias()
+    name = cat.name
+    aliases = cat.alias
     aliases = ", ".join(aliases)
-    display_str = f"{name} ({aliases}), {cat.get_rarity()}, {int(cat.get_rarity_pct()*100)}% " \
-                  f"({cat.get_rarity_index()}/{cat.get_rarity_total()})"
+    display_str = f"{name} ({aliases}), {cat.rarity}, {int(cat.rarity_pct*100)}% " \
+                  f"({cat.rarity_index}/{cat.rarity_total})"
     if "cost" in kwargs and kwargs["cost"]:
-        display_str += f", c[{cat.get_cost()}]"
+        display_str += f", c[{cat.cost}]"
     if "form" in kwargs and kwargs["form"]:
         display_str += f", f[{cat.get_form(kwargs['form'])}]"
     if "ability" in kwargs and kwargs["ability"]:
@@ -166,7 +166,7 @@ def display_cat(cat, **kwargs):
     if "ability_effect" in kwargs and kwargs["ability_effect"]:
         display_str += f", b[{', '.join(cat.get_ability_effect(kwargs['ability_effect']))}]"
     if "description" in kwargs and kwargs["description"]:
-        display_str += f", d[{cat.get_description()}]"
+        display_str += f", d[{cat.description}]"
     print(display_str)
 
 

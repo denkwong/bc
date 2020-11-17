@@ -70,8 +70,7 @@ class Bc:
         if cats is None:
             cats = self.cats
         for cat in cats:
-            cat_name = cat.get_name()
-            matches = re.search(name, cat_name, re.IGNORECASE)
+            matches = re.search(name, cat.name, re.IGNORECASE)
             if matches:
                 result.append(cat)
         return result
@@ -118,7 +117,7 @@ class Bc:
         if operator in ("<", "<=", "==", ">=", ">"):
             result = list()
             for cat in cats:
-                cat_costs = cat.get_cost()
+                cat_costs = cat.cost
                 if isinstance(cat_costs, int):
                     cat_costs = [cat_costs]
                 for cat_cost in cat_costs:
@@ -191,7 +190,7 @@ class Bc:
         if cats is None:
             cats = self.cats
         for cat in cats:
-            matches = re.search(rarity, cat.get_rarity(), re.IGNORECASE)
+            matches = re.search(rarity, cat.rarity, re.IGNORECASE)
             if matches:
                 result.append(cat)
         return result
@@ -227,9 +226,9 @@ class Bc:
             "Legend": "l"
          }
         for cat in self.cats:
-            rarity = cat.get_rarity()
-            name = cat.get_name()
-            rarity_pct = f"{cat.get_rarity_pct():.2}"
+            rarity = cat.rarity
+            name = cat.name
+            rarity_pct = f"{cat.rarity_pct:.2}"
             print(f"{name} ({rarity_map[rarity]});{rarity_pct.lstrip('0').rstrip('.0')}")
 
     def load_cats(self):
@@ -248,16 +247,16 @@ class Bc:
         """
         stats = {"abilities": {}, "effects": {}, "rarities": {}, "targets": {}}
         for cat in self.cats:
-            for ability in cat.get_ability():
+            for ability in cat.ability:
                 stats["abilities"][ability] = stats["abilities"].get(ability, 0) + 1
 
-            for effect in cat.get_effect():
+            for effect in cat.effect:
                 stats["effects"][effect] = stats["effects"].get(effect, 0) + 1
 
-            rarity = cat.get_rarity()
+            rarity = cat.rarity
             stats["rarities"][rarity] = stats["rarities"].get(rarity, 0) + 1
 
-            for target in cat.get_target():
+            for target in cat.target:
                 stats["targets"][target] = stats["targets"].get(target, 0) + 1
 
         return stats
