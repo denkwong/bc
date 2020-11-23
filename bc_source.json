@@ -10540,9 +10540,9 @@
                 ],
                 "talents": {
                     "Slow": 0,
-                    "Resist Freeze": 0,
+                    "Resist Freeze": 5,
                     "Resist Knockback": 0,
-                    "Defense Buff": 0,
+                    "Defense Buff": 6,
                     "Attack Buff": 0
                 }
             },
