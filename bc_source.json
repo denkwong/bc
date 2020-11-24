@@ -6546,8 +6546,8 @@
                 "talents": {
                     "Money Up": 1,
                     "Target Alien": 1,
-                    "Defense Buff": 2,
-                    "Attack Buff": 2,
+                    "Defense Buff": 10,
+                    "Attack Buff": 10,
                     "Move Speed Up": 10
                 }
             },
