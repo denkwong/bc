@@ -2693,11 +2693,11 @@
                     "Horror movie maniac, or real g-g-ghost? Mystic seal is just this month's gas bill... Cheap to produce, 100% survives once!"
                 ],
                 "talents": {
-                    "Resist Slow": 0,
+                    "Resist Slow": 10,
                     "Resist Wave": 0,
-                    "Defense Buff": 0,
-                    "Attack Buff": 0,
-                    "Move Speed Up": 0
+                    "Defense Buff": 10,
+                    "Attack Buff": 10,
+                    "Move Speed Up": 10
                 }
             },
             {
