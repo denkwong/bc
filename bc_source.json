@@ -13908,32 +13908,32 @@
                 "name": [
                     "Pai-Pai",
                     "Pai-Pai Z",
-                    ""
+                    "Pai-Pai DX"
                 ],
                 "cost": [
                     4500,
                     4500,
-                    null
+                    4500
                 ],
                 "ability": [
                     "Immune to Weaken, Area Attack",
                     "Immune to Weaken, Area Attack",
-                    ""
+                    "Immune to Weaken, Area Attack"
                 ],
                 "target": [
                     "Red",
                     "Red",
-                    ""
+                    "Red"
                 ],
                 "effect": [
                     "Resistant, Massive Damage",
                     "Resistant, Massive Damage",
-                    ""
+                    "Insanely Tough, Massive Damage"
                 ],
                 "description": [
                     "Poster girl for a famous dim sum restaurant. Always carries her heirloom Scarlet Hammer. Resists Red attacks, massive area damage.",
                     "Mystic seals were broken, unleashing the sexy power of the Red Panda Hammer. Resists Red attacks, massive area damage.",
-                    ""
+                    "Obliterates rivals in the underground arena with the crushing power of the Master Panda Hammer! Resists Red attacks, massive Area damage."
                 ]
             },
             {
