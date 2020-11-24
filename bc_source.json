@@ -6599,7 +6599,7 @@
                 "cost": [
                     3750,
                     3750,
-                    3750
+                    [3750, 3675, 3600, 3525, 3450, 3375]
                 ],
                 "ability": [
                     "Single Attack, Long Distance",
@@ -6622,11 +6622,11 @@
                     "Having mastered virtual space, he's moved on to losing his shirt in the cryptocurrency market. Long-range area attacks slow non-Metal."
                 ],
                 "talents": {
-                    "Slow": 0,
-                    "Survives": 0,
+                    "Slow": 10,
+                    "Survives": 7,
                     "Barrier Breaker": 0,
-                    "Attack Buff": 0,
-                    "Cost Down": 0
+                    "Attack Buff": 10,
+                    "Cost Down": 5
                 }
             },
             {
