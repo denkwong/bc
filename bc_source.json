@@ -6599,7 +6599,7 @@
                 "cost": [
                     3750,
                     3750,
-                    [3750, 3675, 3600, 3525, 3450, 3375]
+                    [3750, 3675, 3600, 3525, 3450, 3375, 3300, 3225, 3150, 3075, 3000]
                 ],
                 "ability": [
                     "Single Attack, Long Distance",
@@ -6626,7 +6626,7 @@
                     "Survives": 7,
                     "Barrier Breaker": 0,
                     "Attack Buff": 10,
-                    "Cost Down": 5
+                    "Cost Down": 10
                 }
             },
             {
