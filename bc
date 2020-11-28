@@ -120,7 +120,8 @@ def add_talents(cat):
             "Slow",
             "Weaken"
         ] and v != 0:
-            cat["effect"].append(k)
+            if k not in cat["effect"]:
+                cat["effect"].append(k)
         # strengthen ability
         elif k == "Attack Up" and v != 0:
             cat["ability"].append("Strengthen")
