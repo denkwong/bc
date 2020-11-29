@@ -2913,7 +2913,7 @@
                     "Bandit of legend, last seen in old Japan fighting against the shogun's tyranny. Slips extra money out of enemy pockets with area attacks."
                 ],
                 "talents": {
-                    "Attack Up": 0,
+                    "Attack Up": 1,
                     "Zombie Killer": 0,
                     "Defense Buff": 0,
                     "Attack Buff": 0,
