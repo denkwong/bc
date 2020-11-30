@@ -94,24 +94,42 @@ def convert_cat(cat, rarity, cat_position, cat_count):
 
 
 def add_talents(cat):
-    """ process talents for true forms. e.g. new targets are added to target.
+    """
+    process talents for true forms. e.g. new targets are added to target.
     :param dict cat: a single cat
     :rtype: dict
     :return: a single cat with talents added
     """
+    # talent conversion to ability or effect
+    talent_map = {
+        "Attack Up": "Strengthen",
+        "Curse Immunity": "Immune to Curse",
+        "Money Up": "Extra Money",
+        "Survives": "Survive"
+    }
     for k, v in cat["talents"].items():
+        if v == 0:
+            continue
+
+        # remap talent
+        if k in talent_map.keys():
+            k = talent_map[k]
+
         # abilities
         if k in [
             "Attack Buff",
             "Barrier Breaker",
             "Defense Buff",
-            "Immune to Waves",
+            "Extra Money",
             "Move Speed Up",
+            "Strengthen",
+            "Survive",
             "Warp Blocker",
             "Wave Attack",
             "Zombie Killer"
-        ] and v != 0:
-            cat["ability"].append(k)
+        ]:
+            if k not in cat["ability"]:
+                cat["ability"].append(k)
         # effects
         elif k in [
             "Dodge Attack",
@@ -119,27 +137,18 @@ def add_talents(cat):
             "Knockback",
             "Slow",
             "Weaken"
-        ] and v != 0:
+        ]:
             if k not in cat["effect"]:
                 cat["effect"].append(k)
-        # strengthen ability
-        elif k == "Attack Up" and v != 0:
-            cat["ability"].append("Strengthen")
-        # curse immunity ability
-        elif k == "Curse Immunity" and v != 0:
-            cat["ability"].append("Immune to Curse")
-        # extra money ability
-        elif k == "Money Up" and v != 0:
-            cat["ability"].append("Extra Money")
-        # resist ability
-        elif "Resist" in k and v != 0:
-            cat["ability"].append(k)
-        # survive ability
-        elif k == "Survives" and v != 0:
-            cat["ability"].append("Survive")
-        # targets
-        elif "Target" in k and v != 0:
-            cat["target"].append(k.replace("Target ", ""))
+        elif "Immune to " in k:
+            if k not in cat["ability"]:
+                cat["ability"].append(k)
+        elif "Resist " in k:
+            if k not in cat["ability"]:
+                cat["ability"].append(k)
+        elif "Target " in k:
+            if k not in cat["target"]:
+                cat["target"].append(k.replace("Target ", ""))
     return cat
 
 
