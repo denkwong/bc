@@ -58,7 +58,7 @@ class Bc:
             result.add(cat)
         return list(result)
 
-    def find_cat(self, name, cats=None):
+    def find_name(self, name, cats=None):
         """
         find cat with name
         :param str name: name of cat, can be regex
