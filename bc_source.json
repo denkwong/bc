@@ -321,7 +321,14 @@
                     "One of the strongest fighters. Rivals with Axe Cat. 10 wins, 1 loss. Strong against Red enemies",
                     "Learned how to summon animals. Rides a frog for better mobility. Strong against Red enemies.",
                     "Dances across the sky, assaulting enemies using advanced ninjutsu. Cheap to produce, very strong against Red enemies!"
-                ]
+                ],
+                "talents": {
+                    "Target Black": 0,
+                    "Dodge Attack": 0,
+                    "Move Speed Up": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -353,7 +360,14 @@
                     "Tank Cat didn't listen when they said that size doesn't matter. Now with somewhat stronger attack (Area Attack)",
                     "Found his calling feeding other Sumo Cats. Make sure you finish your food... or else. Has a somewhat stronger attack (Area Attack)",
                     "Defense AND nutrition in a convenient hand-sized package. More durable than Tank Cat, with quickness from intense training (Area Attack)"
-                ]
+                ],
+                "talents": {
+                    "Immune to Freeze": 0,
+                    "Immune to Toxic": 0,
+                    "Immune to Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -385,7 +399,14 @@
                     "Sincerity is the way of the warrior. Exceptional health and attack. A very well-rounded Cat.",
                     "Added chivalry to his repertoire. Exceptional health and attack. A very well-rounded Cat.",
                     "Who says you can't love both cupcakes and carnage? A kitchen pro who flings powerful gobs of whipped cream to slow enemies."
-                ]
+                ],
+                "talents": {
+                    "Barrier Breaker": 0,
+                    "Weaken": 0,
+                    "Resist Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -417,7 +438,14 @@
                     "Studies at a certain film academy. Majors in special effects and makeup. Strong against Red enemies.",
                     "Got an A in his makeup class with this. Argues that he does better than Fish Cat. Strong against Red enemies.",
                     "Even a rusty nail can't stop the love in his heart from beating. More versatile than Fish Cat: strong against Red/Zombies, with area attacks."
-                ]
+                ],
+                "talents": {
+                    "Weaken": 0,
+                    "Resist Slow": 0,
+                    "Recover Speed Up": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -449,7 +477,14 @@
                     "These poor guys have been abandoned. They are now fending for themselves with GREAT JUSTICE and speed (Area Attack)",
                     "The hard life turned them towards the wild side. We should avoid them now. Who knows what they'll do (Area Attack)",
                     "An elite unit who keep the peace by rushing at the enemies of society. Might weaken Black enemy attacks (Area Attack)"
-                ]
+                ],
+                "talents": {
+                    "Massive Damage": 0,
+                    "Immune to Weaken": 0,
+                    "Resist Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -481,7 +516,14 @@
                     "No one can stop the beats! Cheap to produce. Comes with bonus groove. It's boogie time! Go! Go! Cat!",
                     "Beats have brought this one to eleven! Cheap and fast to produce. Everybody dance! Dance til you drop! Sammmbaaaaa!!111one",
                     "Out to bring joy to the senoritas of the world. He's never been to Mexico, he's just a Mariachi nerd. Can send enemies flying!"
-                ]
+                ],
+                "talents": {
+                    "Knockback": 0,
+                    "Immune to Surge": 0,
+                    "Resist Freeze": 0,
+                    "Resist Slow": 0,
+                    "Defense Buff": 0
+                }
             },
             {
                 "name": [
@@ -513,7 +555,14 @@
                     "Has extremely high stamina. Will happily take a beating from anyone. Strong against Red enemies.",
                     "Wants more pain. Will happily take a beating from anyone. Strong against Red enemies.",
                     "Offers himself up as a shield to achieve transcendant pleasure(?). Strong against Red, might survive a lethal attack."
-                ]
+                ],
+                "talents": {
+                    "Freeze": 0,
+                    "Dodge Attack": 0,
+                    "Immune to Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -545,7 +594,14 @@
                     "A very caring office worker during the day. Bondage Cat is her after hours regular. A quick attacker and strong against red enemies.",
                     "Might not be a Cat, loves violence. A quick attacker and strong against red enemies.",
                     "Ruthlessly striking down enemies with a flourescent bulb, this Dark Lord's quick attacks are more than a match for any Red or Black."
-                ]
+                ],
+                "talents": {
+                    "Wave Attack": 0,
+                    "Immune to Weaken": 0,
+                    "Cost Down": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -577,7 +633,14 @@
                     "Mid-range attack specialist. (Area Attack) Can fight off multiple enemies at once.",
                     "Adopted Drunken Fist style ? ... or just on a bender? (Area Attack)",
                     "A legendary dancer who infuses his strikes with fiery passion. So shy that he mastered walking backwards to avoid eye contact. (Area)"
-                ]
+                ],
+                "talents": {
+                    "Surge Attack": 0,
+                    "Immune to Freeze": 0,
+                    "Immune to Waves": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -609,7 +672,14 @@
                     "Maintains a high level of professionalism. Works very well with Sexy Legs Cat. Exceptional Area Attack power and range.",
                     "Her love is limitless! Works very well with Sexy Legs Cat. Exceptional Area Attack power and range.",
                     "Dominated the bareknuckle boxing circuit with long distance Area Attacks. Paired with legs that float like a butterfly, really stings like a bee!"
-                ]
+                ],
+                "talents": {
+                    "Attack Up": 0,
+                    "Immune to Surge": 0,
+                    "Resist Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -673,7 +743,14 @@
                     "Found a nicely fitting skirt at a boutique. Likes to wear it out... all the time. Advanced variation of Sexy Legs Cat",
                     "Looking for some variety, stumbled across a garter belt at the dollar store. Advanced variation of Sexy Legs Cat",
                     "Chose traditional undies to better show off shapely legs, and started a viral fashion trend. Rapid attacks with chance to break Barriers!"
-                ]
+                ],
+                "talents": {
+                    "Barrier Breaker": 0,
+                    "Warp Blocker": 0,
+                    "Weaken Alien": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -705,7 +782,14 @@
                     "The cold weather is nothing against the warm woolen material. Advanced variation of Sexy Legs Cat",
                     "Has the only important point covered. Not sure if it offers any protection. Advanced variation of Sexy Legs Cat",
                     "Used to be ashamed to go into battle exposed, but a kind cat came along and lent a hand... err... lollipop. Gained Area attacks!"
-                ]
+                ],
+                "talents": {
+                    "Slow Metal" : 1,
+                    "Immune to Weaken": 0,
+                    "Resist Freeze": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -737,7 +821,14 @@
                     "Mr. is here from the popular \"Mr.\" series. The series has trained his legs for speed, and he can shoot down all the enemies. (Area)",
                     "Mr. is here from the popular \"Mr.\" series. The series has trained his legs for speed, and now he has a bazooka. BAM. (Area)",
                     "Mr. is here from the world-famous \"Mr.\" games! He surges towards enemies, beating them down with a homemade boxing-glove gun. (Area)"
-                ]
+                ],
+                "talents": {
+                    "Knockback Zombie": 0,
+                    "Immune to Freeze": 0,
+                    "Warp Blocker": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff" : 0
+                }
             },
             {
                 "name": [
