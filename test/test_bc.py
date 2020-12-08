@@ -51,6 +51,78 @@ class TestBC(unittest.TestCase):
         self.assertEqual("Rare", cat.rarity)
         self.assertIn("Alien", cat.target)
 
+    def test_cost_equal(self):
+        cat = None
+        cats = self.bc.find_cost("=150")
+        for cat in cats:
+            if cat.name == "Eraser Cat":
+                break
+        self.assertEqual("Eraser Cat", cat.name)
+        self.assertEqual(150, cat.cost)
+
+        cats = self.bc.find_cost("==150", cats)
+        for cat in cats:
+            if cat.name == "Eraser Cat":
+                break
+        self.assertEqual("Eraser Cat", cat.name)
+        self.assertEqual(150, cat.cost)
+
+    def test_cost_greater_than(self):
+        cats = self.bc.find_cost(">7500")
+        self.assertListEqual([], cats)
+
+        cat = None
+        cats = self.bc.find_cost(">7499")
+        for cat in cats:
+            if cat.name == "Killer Cat":
+                break
+        self.assertEqual("Killer Cat", cat.name)
+        self.assertEqual(7500, cat.cost)
+
+    def test_cost_greater_than_or_equals(self):
+        cat = None
+        cats = self.bc.find_cost(">=7500")
+        for cat in cats:
+            if cat.name == "Killer Cat":
+                break
+        self.assertEqual("Killer Cat", cat.name)
+        self.assertEqual(7500, cat.cost)
+
+        cats = self.bc.find_cost(">=7499", cats)
+        for cat in cats:
+            if cat.name == "Killer Cat":
+                break
+        self.assertEqual("Killer Cat", cat.name)
+        self.assertEqual(7500, cat.cost)
+
+    def test_cost_less_than(self):
+        cats = self.bc.find_cost("<45")
+        self.assertListEqual([], cats)
+
+        cat = None
+        cats = self.bc.find_cost("<46")
+        for cat in cats:
+            if cat.name == "Li'l Mohawk Cat":
+                break
+        self.assertEqual("Li'l Mohawk Cat", cat.name)
+        self.assertEqual(45, cat.cost)
+
+    def test_cost_less_than_or_equals(self):
+        cat = None
+        cats = self.bc.find_cost("<=45")
+        for cat in cats:
+            if cat.name == "Li'l Mohawk Cat":
+                break
+        self.assertEqual("Li'l Mohawk Cat", cat.name)
+        self.assertEqual(45, cat.cost)
+
+        cats = self.bc.find_cost("<=46")
+        for cat in cats:
+            if cat.name == "Li'l Mohawk Cat":
+                break
+        self.assertEqual("Li'l Mohawk Cat", cat.name)
+        self.assertEqual(45, cat.cost)
+
     def test_description(self):
         cat = None
         cats = self.bc.find_description("Brilliant Bow can grant")
