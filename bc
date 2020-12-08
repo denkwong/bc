@@ -118,9 +118,12 @@ def add_talents(cat):
         if k in [
             "Attack Buff",
             "Barrier Breaker",
+            "Cost Down",
+            "Critical",
             "Defense Buff",
             "Extra Money",
             "Move Speed Up",
+            "Recover Speed Up",
             "Strengthen",
             "Survive",
             "Warp Blocker",
@@ -148,6 +151,8 @@ def add_talents(cat):
         elif "Target " in k:
             if k not in cat["target"]:
                 cat["target"].append(k.replace("Target ", ""))
+        else:
+            logger.error(f"""No handler for talent '{k}' for '{cat["name"]}'.""")
     return cat
 
 
