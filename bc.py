@@ -86,7 +86,7 @@ class Bc:
         if cats is None:
             cats = self.cats
 
-        matches = re.match("(=|==|<|<=|>=|>) *(\d+)$", cost)
+        matches = re.match(r"(=|==|<|<=|>=|>) *(\d+)$", cost)
         if matches:
             operator = matches.group(1)
             cost = matches.group(2)
@@ -94,7 +94,7 @@ class Bc:
             if operator == "=":
                 operator = "=="
         else:
-            matches = re.match("^\d+$", cost)
+            matches = re.match(r"^\d+$", cost)
             if matches:
                 cost = matches.group(0)
             else:
