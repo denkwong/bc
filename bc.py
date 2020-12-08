@@ -38,8 +38,7 @@ class Bc:
         if cats is None:
             cats = self.cats
         for cat in cats:
-            matches = cat.get_ability(ability)
-            if matches:
+            if cat.get_ability(ability):
                 result.append(cat)
         return result
 
@@ -70,8 +69,7 @@ class Bc:
         if cats is None:
             cats = self.cats
         for cat in cats:
-            matches = re.search(name, cat.name, re.IGNORECASE)
-            if matches:
+            if re.search(name, cat.name, re.IGNORECASE):
                 result.append(cat)
         return result
 
@@ -105,7 +103,8 @@ class Bc:
         result = self._find_cost(int(cost), operator, cats)
         return result
 
-    def _find_cost(self, cost, operator, cats):
+    @staticmethod
+    def _find_cost(cost, operator, cats):
         """
         helper method that handles cost search with supported operators
         :param int cost: cost of Cat
@@ -139,8 +138,7 @@ class Bc:
         if cats is None:
             cats = self.cats
         for cat in cats:
-            matches = cat.get_description(description)
-            if matches:
+            if cat.get_description(description):
                 result.append(cat)
         return result
 
@@ -156,8 +154,7 @@ class Bc:
         if cats is None:
             cats = self.cats
         for cat in cats:
-            matches = cat.get_effect(effect)
-            if matches:
+            if cat.get_effect(effect):
                 result.append(cat)
         return result
 
@@ -173,8 +170,7 @@ class Bc:
         if cats is None:
             cats = self.cats
         for cat in cats:
-            matches = cat.get_form(form)
-            if matches:
+            if cat.get_form(form):
                 result.append(cat)
         return result
 
@@ -190,8 +186,7 @@ class Bc:
         if cats is None:
             cats = self.cats
         for cat in cats:
-            matches = re.search(rarity, cat.rarity, re.IGNORECASE)
-            if matches:
+            if re.search(rarity, cat.rarity, re.IGNORECASE):
                 result.append(cat)
         return result
 
@@ -207,8 +202,7 @@ class Bc:
         if cats is None:
             cats = self.cats
         for cat in cats:
-            matches = cat.get_target(target)
-            if matches:
+            if cat.get_target(target):
                 result.append(cat)
         return result
 
@@ -224,7 +218,7 @@ class Bc:
             "Super": "sr",
             "Uber": "u",
             "Legend": "l"
-         }
+        }
         for cat in self.cats:
             rarity = cat.rarity
             name = cat.name
