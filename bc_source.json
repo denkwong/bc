@@ -2338,32 +2338,32 @@
                 "name": [
                     "Cat God the Great",
                     "Cat God the Awesome",
-                    ""
+                    "Cat God the Golden"
                 ],
                 "cost": [
                     3333,
                     3333,
-                    null
+                    3333
                 ],
                 "ability": [
                     "Area Attack, Omni Strike",
                     "Area Attack, Omni Strike",
-                    ""
+                    "Extra Money, Area Attack, Omni Strike"
                 ],
                 "target": [
                     "Red, Floating, Black, Angel, Alien, Zombie, Relic",
                     "Red, Floating, Black, Angel, Alien, Zombie, Relic",
-                    ""
+                    "Red, Floating, Black, Angel, Alien, Zombie, Relic"
                 ],
                 "effect": [
                     "Knockback",
                     "Knockback",
-                    ""
+                    "Knockback"
                 ],
                 "description": [
                     "At long last, Cat God has joined the fight! His holy sneeze knocks back all but Metal enemies, and his Omni-strikes are pretty cool too.",
                     "Shining with glorious purpose and divine charisma. His holy sneeze knocks back all but Metal enemies, and his Omni-strikes are pretty cool too.",
-                    ""
+                    "A deity so resplendent that it's actually obnoxious. His holy sneeze knocks back all but Metal enemies, and his Omni-strikes are pretty cool too."
                 ]
             },
             {
