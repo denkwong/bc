@@ -19,9 +19,9 @@ declare -A tests=(
   ["-t red"]="t\[Red\]"
   ["--target traitless"]="Gothic Mitama"
   ["-n wall -a.*"]="Wall Cat.*a\[Area Attack\]"
-  ["-n keiji -a.* -b.* -c>10 -d.* -e.* -f.* -r.* -t.*"]="Immortal Keiji (Maeda Keiji, Wargod Keiji), Uber, 7% (12/162), c\[3585\], f\[True\], a\[Strengthen, Immune to Waves, Area Attack\], t\[Black\], e\[Resistant\], b\[Strengthen, Immune to Waves, Area Attack, Resistant\], d\[As the cherries blossom, so does Keiji's battle fury. Resistant to Black, immune to Wave attacks. Area attacks grow stronger as he takes damage.\]"
+  ["-n keiji -a.* -b.* -c>10 -d.* -e.* -f.* -r.* -t.*"]="Immortal Keiji (Maeda Keiji, Wargod Keiji), Uber, .*, c\[3585\], f\[True\], a\[Strengthen, Immune to Waves, Area Attack\], t\[Black\], e\[Resistant\], b\[Strengthen, Immune to Waves, Area Attack, Resistant\], d\[As the cherries blossom, so does Keiji's battle fury. Resistant to Black, immune to Wave attacks. Area attacks grow stronger as he takes damage.\]"
   ["-n anubis -bcurse"]="0 cats found"
-  ["-n balrog -awave"]="Balrog Cat (Lesser Demon Cat, Greater Demon Cat), Uber, 2% (4/162), a\[Resist Wave\]"
+  ["-n balrog -awave"]="Balrog Cat (Lesser Demon Cat, Greater Demon Cat), Uber, .*, a\[Resist Wave\]"
 )
 
 declare -a failed_tests=()
@@ -45,6 +45,7 @@ if [ "$errors" -gt 0 ]
 then
   for failure in "${failed_tests[@]}"; do
     echo "  ./bc "$failure
+    echo "    expected: "${tests[$failure]}
   done
 fi
 
