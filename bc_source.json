@@ -9318,6 +9318,38 @@
             },
             {
                 "name": [
+                    "Keiji Claus",
+                    "Maeda Christmas",
+                    ""
+                ],
+                "cost": [
+                    3585,
+                    3585,
+                    null
+                ],
+                "ability": [
+                    "Strengthen, Immune to Waves, Area Attack",
+                    "Strengthen, Immune to Waves, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "Leading the charge in the war for Xmas! Gifts for good little warriors, and a sack 'o pain for bad kids! Tough vs Red, gets stronger after taking damage!",
+                    "Have you heard about the warrior who loved Xmas so much a fully-decorated tree sprouted from his head? Tough vs Red, gets stronger after taking damage!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Oda Nobunaga",
                     "Wargod Nobunaga",
                     "Immortal Nobunaga"
