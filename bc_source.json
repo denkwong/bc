@@ -14095,32 +14095,32 @@
                 "name": [
                     "Sakura Sonic",
                     "Afterschool Sakura",
-                    ""
+                    "Sacred Blade Sakura"
                 ],
                 "cost": [
                     4200,
                     4200,
-                    null
+                    4200
                 ],
                 "ability": [
                     "Critical, Immune to Weaken, Immune to Slow, Area Attack",
                     "Critical, Immune to Weaken, Immune to Slow, Area Attack",
-                    ""
+                    "Critical, Immune to Weaken, Immune to Slow, Area Attack"
                 ],
                 "target": [
                     "Metal",
                     "Metal",
-                    ""
+                    "Metal"
                 ],
                 "effect": [
                     "Weaken, Slow, Resistant",
                     "Weaken, Slow, Resistant",
-                    ""
+                    "Weaken, Slow, Insanely Tough"
                 ],
                 "description": [
                     "A totally average schoolgirl who likes bubble tea and vanquishing demons. Tough vs. Metal, Critical attacks slow & weaken Metal enemies.",
                     "It's tough to balance club activities and defending the saced legacy of your clan. Tough vs. Metal, Critical attacks slow & weaken Metal enemies.",
-                    ""
+                    "If you must deliver heaven's punishment, you might as well look really cute doing it. Might Critical, plus Slows, Weakens and Insanely tough vs Metal."
                 ]
             },
             {
