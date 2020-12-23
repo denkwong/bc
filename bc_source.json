@@ -3314,7 +3314,14 @@
                     "A cat so ambitious that he built wooden stilts to better reach for the stars. Knocks back Angels every once in a while.",
                     "Couldn't cut it by himself, so he gathered some pals to work together. Naturally, he's on top. Knocks back Angels every once in a while.",
                     "Hopefully this pair's choice of cheap Swedish furniture won't bring their dreams crashing to the ground. Sometimes knocks Angels back."
-                ]
+                ],
+                "talents": {
+                    "Surge Attack": 0,
+                    "Immune to Waves": 0,
+                    "Resist Freeze": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -7126,7 +7133,14 @@
                     "Spent so long hunting the perfect wave. Now he's reached 40 without truly living life(?) Might stop Aliens and survive lethal strikes. (Area)",
                     "Says he wants to escape his desert island, but he's secretly enjoying his permenant vacation. Might stop Aliens and survive lethal strikes. (Area)",
                     "Giving up on rescue, he is now married to the sea. Will the waves be kind or cruel today? Might stop Aliens, will 100% survive one lethal strike. (Area)"
-                ]
+                ],
+                "talents": {
+                    "Freeze": 0,
+                    "Warp Blocker": 0,
+                    "Resist Curse": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
