@@ -784,7 +784,7 @@
                     "Used to be ashamed to go into battle exposed, but a kind cat came along and lent a hand... err... lollipop. Gained Area attacks!"
                 ],
                 "talents": {
-                    "Slow Metal" : 1,
+                    "Slow Metal" : 0,
                     "Immune to Weaken": 0,
                     "Resist Freeze": 0,
                     "Defense Buff": 0,
