@@ -204,6 +204,7 @@ if __name__ == "__main__":
     parser.add_argument("--description", "-d", help="Search by description")
     parser.add_argument("--effect", "-e", help="Search by effect")
     parser.add_argument("--form", "-f", help="Search by form")
+    parser.add_argument("--generate", "-g", action="store_true", help="Generate source file")
     parser.add_argument("--list", "-l", action="store_true", help="List all cats all forms with rarity")
     parser.add_argument("--name", "-n", help="Search by name")
     parser.add_argument("--rarity", "-r", help="Search by rarity")
@@ -213,7 +214,7 @@ if __name__ == "__main__":
     logger.info("==========")
     logger.info(f"parser args = {vars(args)}")
 
-    if os.path.getmtime(SOURCE_FILE) > os.path.getmtime(TARGET_FILE):
+    if args.generate or os.path.getmtime(SOURCE_FILE) > os.path.getmtime(TARGET_FILE):
         generate_bc_json(SOURCE_FILE, TARGET_FILE)
     else:
         logger.info(f"Generation not needed, target {TARGET_FILE} newer than source {SOURCE_FILE}")

@@ -1,6 +1,7 @@
 #!/usr/local/bin/bash
 
 declare -A tests=(
+  ["-g"]="0 cats found"
   ["-h"]="Battle Cats, search for cats by attributes."
   ["-a strengthen"]="a\[Strengthen\]"
   ["-b killer"]="b\[Zombie Killer\]"
