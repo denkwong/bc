@@ -6,6 +6,10 @@ import re
 
 class Cat:
     def __init__(self, cat):
+        """
+        Initialize Cat
+        :param dict cat: Cat in dictionary form
+        """
         self.cat = cat
         self.ability = cat["ability"]
         self.alias = cat["alias"]
