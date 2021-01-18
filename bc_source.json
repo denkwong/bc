@@ -8901,6 +8901,38 @@
                     "Sealing demons with his righteous blade, the true scion of the heavenly realms! massive long-range damage to Black/Angels!",
                     "Heaven's hero, corrupted by infernal magics?! Can this fallen knight's rampage be stopped?? Massive long-range damage to Black/Angels!"
                 ]
+            },
+            {
+                "name": [
+                    "MEIKO & Cat",
+                    "MEIKO & Cat CC",
+                    ""
+                ],
+                "cost": [
+                    1170,
+                    1170,
+                    null
+                ],
+                "ability": [
+                    "Area Attack, Long Distance",
+                    "Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Red",
+                    "Red",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Virtual singer loved by the entire Cat Empire! Talented vocalist who transcends genre. Massive Long-Range Area Damage to Red",
+                    "Virtual singer loved by the entire Cat Empire! Heartfelt singer with a world-class voice. Massive Long-Range Area Damage to Red",
+                    ""
+                ]
             }
         ],
         "uber": [
