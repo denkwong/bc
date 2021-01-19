@@ -13574,6 +13574,38 @@
             },
             {
                 "name": [
+                    "Hatsune Miku: MM2020 Tokyo",
+                    "Hatsune Miku CC: MM2020 Tokyo",
+                    ""
+                ],
+                "cost": [
+                    3900,
+                    3900,
+                    null
+                ],
+                "ability": [
+                    "Wave Shield, Area Attack",
+                    "Wave Shield, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red, Angel",
+                    "Red, Angel",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "Virtual singer loved by the entire Cat Empire! Next performance: Magical Mirai 2020 in TOKYO Tough vs Red/Angels, blocks Wave attacks.",
+                    "Virtual singer loved by the entire Cat Empire! Dressed for snowy cheer in stylish winter wear! Tough vs Red/Angels, blocks Wave attacks.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
