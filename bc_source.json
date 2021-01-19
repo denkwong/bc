@@ -13542,6 +13542,38 @@
             },
             {
                 "name": [
+                    "Hatsune Miku: MM2020 Osaka",
+                    "Hatsune Miku CC: MM2020 Osaka",
+                    ""
+                ],
+                "cost": [
+                    3900,
+                    3900,
+                    null
+                ],
+                "ability": [
+                    "Savage Blow, Area Attack",
+                    "Savage Blow, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red, Angel",
+                    "Red, Angel",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Virtual singer loved by the entire Cat Empire! Next performance: Magical Mirai 2020 in OSKAKA Massive damage vs Red/Angels, might Savage Blow.",
+                    "Virtual singer loved by the entire Cat Empire! Dressed for summer festivals in her best yukata! Massive damage vs Red/Angels, might Savage Blow.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Trickster Himeyuri",
                     "Himeyuri Ninetails",
                     "Fox Queen Himeyuri"
