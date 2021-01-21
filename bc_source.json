@@ -13192,17 +13192,17 @@
                 "name": [
                     "Ryu",
                     "Ryu CC",
-                    ""
+                    "Kage"
                 ],
                 "cost": [
                     3750,
                     3750,
-                    null
+                    3750
                 ],
                 "ability": [
                     "Savage Blow, Area Attack",
                     "Savage Blow, Area Attack",
-                    ""
+                    "Strengthen, Savage Blow, Area Attack"
                 ],
                 "target": [
                     "",
@@ -13215,9 +13215,9 @@
                     ""
                 ],
                 "description": [
-                    "Joining the fight from Street Fighter V AE! A hero walking the path of a true fighter. Chance to deliver a Savage Blow (Area Attack)",
-                    "Joining the fight from Street Fighter V AE! Seeking a rival who will finally test his skills. Chance to deliver a Savage Blow (Area Attack)",
-                    ""
+                    "Joining the fight from Street Fighter V! A hero walking the path of a true fighter. Chance to deliver a Savage Blow (Area Attack)",
+                    "Joining the fight from Street Fighter V! Seeking a rival who will finally test his skills. Chance to deliver a Savage Blow (Area Attack)",
+                    "Joining the fight from Street Fighter V! Embraced the forbidden power of the Dark Hado. Stronger after damage, chance of Savage Blow!"
                 ]
             },
             {
