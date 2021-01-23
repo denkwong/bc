@@ -14549,7 +14549,39 @@
                 ],
                 "description": [
                     "Young wanderer whose soul is a prison to 1000 vengeful ghosts. Trifle with her at your peril. Long-range Surges might Knockback Traited!",
-                    "",
+                    "Having at last encountered kindness and love, she now commands her wraiths for the cause of light! Long-range Surges w/ chance to Knockback Traited!",
+                    ""
+                ]
+            },
+            {
+                "name": [
+                    "Kasli the Bane",
+                    "Kasli, Daughter of Chaos",
+                    ""
+                ],
+                "cost": [
+                    4800,
+                    4800,
+                    null
+                ],
+                "ability": [
+                    "Surge Attacks, Immune to Weaken, Immune to Waves, Evade Surge, Warp Blocker, Immune to Curse, Area Attack, Long Distance",
+                    "Surge Attacks, Immune to Weaken, Immune to Waves, Evade Surge, Warp Blocker, Immune to Curse, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    "Red, Floating, Black, Metal, Angel, Alien, Zombie, Relic",
+                    ""
+                ],
+                "effect": [
+                    "Curse",
+                    "Curse",
+                    ""
+                ],
+                "description": [
+                    "As the curses within whisper to her, she wanders the land desperately seeking to finally find inner peace. Long-range Area Surge attacks will 100% Curse.",
+                    "As her soul absorbs the cursed power of her enemies, she has become the personification of disaster itself. Long-range Area Surge attacks will 100% Curse.",
                     ""
                 ]
             }
