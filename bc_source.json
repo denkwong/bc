@@ -13446,6 +13446,38 @@
             },
             {
                 "name": [
+                    "Vega",
+                    "Vega CC",
+                    ""
+                ],
+                "cost": [
+                    4050,
+                    4050,
+                    null
+                ],
+                "ability": [
+                    "Critical, Area Attack, Long Distance",
+                    "Critical, Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Metal",
+                    "Metal",
+                    ""
+                ],
+                "effect": [
+                    "Freeze",
+                    "Freeze",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Street Fighter V! A pure narcissist who strives to fight beautifully. Freezes Metal, Long-Range Strikes might Critical!",
+                    "Joining the fight from Street Fighter V! Dance with death using a \"Flying Barcelona Attack\" Freezes Metal, Long-Range Strikes might Critical!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Hatsune Miku",
                     "Hatsune Miku CC",
                     ""
