@@ -6546,6 +6546,38 @@
             },
             {
                 "name": [
+                    "Balrog Cat",
+                    "Balrog Cat CC",
+                    ""
+                ],
+                "cost": [
+                    570,
+                    570,
+                    null
+                ],
+                "ability": [
+                    "Single Attack",
+                    "Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Black",
+                    "Black",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "Aiming to take the grand prize and get rich! ...but he's been disqualified for repeated fould. Strong vs Black enemies",
+                    "An underworld legend with a flawless hook. Can't sleep after fights due to muscle pain. Strong vs Black enemies",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Miku Cat",
                     "Miku Cat CC",
                     ""
