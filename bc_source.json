@@ -6610,6 +6610,38 @@
             },
             {
                 "name": [
+                    "Sagat Cat",
+                    "Sagat Cat CC",
+                    ""
+                ],
+                "cost": [
+                    585,
+                    585,
+                    null
+                ],
+                "ability": [
+                    "Immune to Waves, Single Attack",
+                    "Immune to Waves, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "A prideful Cat known as The Emperor. His personal Muay Thai style is undefeated. Strong vs Floating, Immune to Waves!",
+                    "Foolish defiance of the weak will not be tolerated. Seeks a higher reason to achieve true strength. Strong vs Floating, Immune to Waves!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Miku Cat",
                     "Miku Cat CC",
                     ""
