@@ -13574,6 +13574,38 @@
             },
             {
                 "name": [
+                    "E. Honda",
+                    "E. Honda CC",
+                    ""
+                ],
+                "cost": [
+                    3675,
+                    3675,
+                    null
+                ],
+                "ability": [
+                    "Area Attack",
+                    "Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Resistant, Knockback",
+                    "Resistant, Knockback",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Street Fighter V! The world will know the majestic art of Sumo! Tough vs Angels, with 100% Knockback! (Area Atk)",
+                    "Joining the fight from Street Fighter V! Flying onto the world stage with a Super Head Ram! Tough vs Angels, with 100% Knockback! (Area Atk)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Vega",
                     "Vega CC",
                     ""
