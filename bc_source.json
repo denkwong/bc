@@ -6578,6 +6578,38 @@
             },
             {
                 "name": [
+                    "Vega Cat",
+                    "Vega Cat CC",
+                    ""
+                ],
+                "cost": [
+                    555,
+                    555,
+                    null
+                ],
+                "ability": [
+                    "Immune to Toxic, Single Attack",
+                    "Immune to Toxic, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "Narcissist Cat drunk on his own beauty. Wears a mask to protect his flawless looks. Strong vs. Angels",
+                    "Cat who mastered the beautiful art of Spanish Ninjutsu. Mask is more beautiful than his own face. Strong vs. Angels",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Miku Cat",
                     "Miku Cat CC",
                     ""
