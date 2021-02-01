@@ -13670,6 +13670,38 @@
             },
             {
                 "name": [
+                    "Sagat",
+                    "Sagat CC",
+                    ""
+                ],
+                "cost": [
+                    4125,
+                    4125,
+                    null
+                ],
+                "ability": [
+                    "Strengthen, Area Attack",
+                    "Strengthen, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Floating",
+                    "Floating",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Street Fighter V! Ultimate strength and masterful technique. Massive damage vs Floating, stronger after taking damage!",
+                    "Joining the fight from Street Fighter V! Crush fools with a Tiger Uppercut! Massive damage vs Floating, stronger after taking damage!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Hatsune Miku",
                     "Hatsune Miku CC",
                     ""
