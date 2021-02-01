@@ -13606,6 +13606,38 @@
             },
             {
                 "name": [
+                    "Balrog",
+                    "Balrog CC",
+                    ""
+                ],
+                "cost": [
+                    2190,
+                    2190,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Area Attack",
+                    "Zombie Killer, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red, Black, Zombie",
+                    "Red, Black, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Attacks Only",
+                    "Attacks Only",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Street Fighter V! Former pro boxer, steadfast in his convictions. Area Attacks only hit Red/Black/Zombies!",
+                    "Joining the fight from Street Fighter V! His Turn Punch guarantees a quick knockout! Area Attacks only hit Red/Black/Zombies!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Vega",
                     "Vega CC",
                     ""
