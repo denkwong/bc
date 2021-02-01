@@ -13702,6 +13702,38 @@
             },
             {
                 "name": [
+                    "M. Bison",
+                    "M. Bison CC",
+                    ""
+                ],
+                "cost": [
+                    4275,
+                    4275,
+                    null
+                ],
+                "ability": [
+                    "Zombie Killer, Barrier Breaker, Warp Blocker, Area Attack, Omni Strike",
+                    "Zombie Killer, Barrier Breaker, Warp Blocker, Area Attack, Omni Strike",
+                    ""
+                ],
+                "target": [
+                    "Floating, Alien, Zombie",
+                    "Floating, Alien, Zombie",
+                    ""
+                ],
+                "effect": [
+                    "Strong Against",
+                    "Strong Against",
+                    ""
+                ],
+                "description": [
+                    "Joining the fight from Street Fighter V! Mastermind of the evil organization Shadaloo. Strong vs Floating/Aliens/Zombies!",
+                    "Joining the fight from Street Fighter V! Bring the world to heel with a Psycho Crusher! Strong vs Floating/Aliens/Zombies!",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Hatsune Miku",
                     "Hatsune Miku CC",
                     ""
