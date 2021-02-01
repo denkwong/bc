@@ -9032,6 +9032,38 @@
             },
             {
                 "name": [
+                    "C. Honda",
+                    "C. Honda CC",
+                    ""
+                ],
+                "cost": [
+                    1260,
+                    1260,
+                    null
+                ],
+                "ability": [
+                    "Immune to Slow, Immune to Knockback, Area Attack",
+                    "Immune to Slow, Immune to Knockback, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Angel",
+                    "Angel",
+                    ""
+                ],
+                "effect": [
+                    "Resistant",
+                    "Resistant",
+                    ""
+                ],
+                "description": [
+                    "A Cat driven to spread the love of Sumo. Winner of the Li'l Sumo Tournament for 20 years running. Tough vs Angels (Area Attack)",
+                    "Cultivated his body to become a testament to the healing powers of Japan's hot spring culture. Tough vs Angels (Area Attack)",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "MEIKO & Cat",
                     "MEIKO & Cat CC",
                     ""
