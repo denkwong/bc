@@ -3353,7 +3353,14 @@
                     "Cutting-edge firepower masked by the soulful nostalgia of yesteryear. Knocks back Black enemies once in a while.",
                     "Dreaming of the skies, he allowed the Cat Army engineers to install top-class tech in his body. Knocks back Black enemies once in a while.",
                     "Captured by an evil organization and remade to be an unstoppable, merciless android who knocks back Black. (So cute, though!)"
-                ]
+                ],
+                "talents": {
+                    "Dodge Attack": 0,
+                    "Immune to Knockback": 0,
+                    "Resist Curse": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
@@ -7190,7 +7197,14 @@
                     "A stylish couple getting on board with the figure skating craze. Only a month since they started. No stopping these two lovers! (Area attack)",
                     "Skating's so last year, it's all about classical theater now. Got the attention of the media, now making old-school art cool again (Area Attack)",
                     "They stopped taking stagecraft so seriously and now just want to bring laughter to the people. Strong vs Relic enemies (Area Attack)"
-                ]
+                ],
+                "talents": {
+                    "Weaken": 0,
+                    "Immune to Knockback": 0,
+                    "Resist Slow": 0,
+                    "Defense Buff": 0,
+                    "Attack Buff": 0
+                }
             },
             {
                 "name": [
