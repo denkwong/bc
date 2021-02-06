@@ -14514,32 +14514,32 @@
                 "name": [
                     "Strike Unit R.E.I.",
                     "Assault Unit R.E.I.",
-                    ""
+                    "Flight Unit R.E.I."
                 ],
                 "cost": [
                     4110,
                     4110,
-                    null
+                    4110
                 ],
                 "ability": [
                     "Immune to Slow, Area Attack",
                     "Immune to Slow, Area Attack",
-                    ""
+                    "Immune to Slow, Area Attack"
                 ],
                 "target": [
                     "Floating",
                     "Floating",
-                    ""
+                    "Floating"
                 ],
                 "effect": [
                     "Resistant, Massive Damage",
                     "Resistant, Massive Damage",
-                    ""
+                    "Insanely Tough, Massive Damage"
                 ],
                 "description": [
                     "Cheerful young mech, built for anti-air warfare using future tech forbidden by international law. Resistant to/Massive area damage vs Floating.",
                     "After an upgrade, escaped from govt. custody to use her powerful arsenal to help the innocent. Resistant to/Massive area damage vs Floating.",
-                    ""
+                    "Upgraded for aerial assault with long-hidden tech! Rains searing rays down as she soars through the skies. Resistant to/Massive Area damage vs Floating."
                 ]
             },
             {
