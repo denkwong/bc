@@ -11619,6 +11619,38 @@
             },
             {
                 "name": [
+                    "Sweet Aphrodite",
+                    "Chocoladite",
+                    ""
+                ],
+                "cost": [
+                    4500,
+                    4500,
+                    null
+                ],
+                "ability": [
+                    "Area Attack, Long Distance",
+                    "Area Attack, Long Distance",
+                    ""
+                ],
+                "target": [
+                    "Red, Black",
+                    "Red, Black",
+                    ""
+                ],
+                "effect": [
+                    "Massive Damage",
+                    "Massive Damage",
+                    ""
+                ],
+                "description": [
+                    "Proud love goddess who only changes her look for one special day each year. Her bow strikes for massive Long-range Area damage vs. Red & Black enemies.",
+                    "The queen of love, dressed for Valentines and in the mood for romance. Her bow strikes for massive Long-range Area damage vs. Red & Black enemies.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Shining Amaterasu",
                     "Glorious Amaterasu",
                     "Almighty Amaterasu"
