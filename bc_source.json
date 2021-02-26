@@ -7606,6 +7606,38 @@
             },
             {
                 "name": [
+                    "Valentine's Neneko",
+                    "Sweetheart Neneko",
+                    ""
+                ],
+                "cost": [
+                    148,
+                    148,
+                    null
+                ],
+                "ability": [
+                    "Critical, Mini-Wave, Single Attack",
+                    "Critical, Mini-Wave, Single Attack",
+                    ""
+                ],
+                "target": [
+                    "",
+                    "",
+                    ""
+                ],
+                "effect": [
+                    "",
+                    "",
+                    ""
+                ],
+                "description": [
+                    "Homemade chocolates in hand, she's ready to overcome her fear and finally talk to her crush. This is the year! 100% Mini-wave attack that might Critical.",
+                    "Actually talking to them was too scary, so she just left her chocolates and love letter in their shoe box. Oh well... 100% Mini-Wave attack that might Critical.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Cat Base Mini",
                     "Cat Base Jr.",
                     "Cat Base Ultra"
