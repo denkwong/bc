@@ -10490,6 +10490,38 @@
             },
             {
                 "name": [
+                    "First-Love Myrcia",
+                    "First-Love Myrcia E",
+                    ""
+                ],
+                "cost": [
+                    4260,
+                    4260,
+                    null
+                ],
+                "ability": [
+                    "Wave Attack, Area Attack",
+                    "Wave Attack, Area Attack",
+                    ""
+                ],
+                "target": [
+                    "Red, Floating",
+                    "Red, Floating",
+                    ""
+                ],
+                "effect": [
+                    "Dodge Attack",
+                    "Dodge Attack",
+                    ""
+                ],
+                "description": [
+                    "This year, our bourgeois princess has hired a 3-star patissier to teach her how to make homemade chocolate. Might Dodge Red/Floating attacks, with Wave Attack.",
+                    "Her chocolate perfected, she is now ready to confess her feelings... she just needs to find someone worthy of her love. Might Dodge Red/Floating, with Wave Attack.",
+                    ""
+                ]
+            },
+            {
+                "name": [
                     "Megidora",
                     "Holy Dragon Megidora",
                     "God-Emperor Megidora"
