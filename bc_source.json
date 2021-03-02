@@ -2896,8 +2896,8 @@
                 "talents": {
                     "Critical": 5,
                     "Resist Knockback": 0,
-                    "Defense Buff": 0,
-                    "Attack Buff": 0,
+                    "Defense Buff": 10,
+                    "Attack Buff": 10,
                     "Cost Down": 0
                 }
             },
