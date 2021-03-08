@@ -11099,32 +11099,32 @@
                 "name": [
                     "Kintaro",
                     "Kinrangers RoboForce",
-                    ""
+                    "Kinrangers GigaForce"
                 ],
                 "cost": [
                     840,
                     4650,
-                    null
+                    4650
                 ],
                 "ability": [
                     "Savage Blow, Area Attack, Long Distance",
                     "Savage Blow, Area Attack, Long Distance",
-                    ""
+                    "Savage Blow, Area Attack, Long Distance"
                 ],
                 "target": [
                     "Angel",
                     "Angel",
-                    ""
+                    "Angel"
                 ],
                 "effect": [
                     "Slow",
                     "Slow",
-                    ""
+                    "Slow, Curse"
                 ],
                 "description": [
                     "Young exec at AxeCorp, managing operations at the mountain office with intern Li'l Bear. Might Slow Angels and strike a Savage Blow.",
                     "Gathered the whole Beast Division for a unified fight against a very hostile acquisition attempt. Might Slow Angels and strike a Savage Blow.",
-                    ""
+                    "Beast Divison Elites with upgraded tech to better defend the stock portfolios of the future. Long-Range Area atk. might Slow/Curse Angels, with Savage Blow."
                 ]
             },
             {
